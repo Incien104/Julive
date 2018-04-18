@@ -1,0 +1,368 @@
+{
+  "$type": "TeGeStDa, x",
+  "tgl": [
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 0,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 1,
+      "mxl": 1
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 90,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 1,
+      "mxl": 2
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 150,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 2,
+      "mxl": 2
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 200,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 2,
+      "mxl": 3
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 280,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 2,
+      "mxl": 4
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 400,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 3,
+      "mxl": 5
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 520,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 4,
+      "mxl": 6
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 640,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 5,
+      "mxl": 7
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 760,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 6,
+      "mxl": 8
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 880,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 7,
+      "mxl": 9
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1000,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 8,
+      "mxl": 10
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1120,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 9,
+      "mxl": 11
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1240,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 10,
+      "mxl": 12
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1360,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 11,
+      "mxl": 13
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1480,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 12,
+      "mxl": 14
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1600,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 13,
+      "mxl": 15
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1720,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 14,
+      "mxl": 16
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1840,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 15,
+      "mxl": 17
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 1960,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 16,
+      "mxl": 18
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 2080,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 17,
+      "mxl": 19
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 2200,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 18,
+      "mxl": 20
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 2320,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 19,
+      "mxl": 21
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 2440,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 20,
+      "mxl": 22
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 2560,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "3a79f05ec39301d4083f30d662a439cf",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 21,
+      "mxl": 23
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 2680,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "3a79f05ec39301d4083f30d662a439cf",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 22,
+      "mxl": 24
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 2800,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "3a79f05ec39301d4083f30d662a439cf",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 23,
+      "mxl": 25
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 2920,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "3a79f05ec39301d4083f30d662a439cf",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 24,
+      "mxl": 26
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 3040,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "3a79f05ec39301d4083f30d662a439cf",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 25,
+      "mxl": 27
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 3160,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "4929e83e63dbaff429404bdc0e8f57f2",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 26,
+      "mxl": 28
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 3280,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "4929e83e63dbaff429404bdc0e8f57f2",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 27,
+      "mxl": 29
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 3400,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "4929e83e63dbaff429404bdc0e8f57f2",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 28,
+      "mxl": 30
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 3520,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "4929e83e63dbaff429404bdc0e8f57f2",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 29,
+      "mxl": 30
+    },
+    {
+      "$type": "TeGeIt, x",
+      "mnt": 4000,
+      "tr": {
+        "$type": "[RaStDa]@, x",
+        "guid": "4929e83e63dbaff429404bdc0e8f57f2",
+        "TypeName": "RaStDa"
+      },
+      "mnl": 30,
+      "mxl": 30
+    }
+  ]
+}

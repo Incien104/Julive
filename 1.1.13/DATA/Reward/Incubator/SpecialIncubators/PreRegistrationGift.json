@@ -1,0 +1,107 @@
+{
+  "$type": "RewInV2Da, x",
+  "dpn": "IDS_PROTIP_FREE_INCUBATOR_TITLE",
+  "q": {
+    "$type": "[ByPlLe]@, x",
+    "guid": "1d26e458fceedb848bcf7502b4d4a14e",
+    "TypeName": "ByPlLe"
+  },
+  "cul": [
+    {
+      "$type": "CuItPr, x",
+      "p": 10000000,
+      "a": {
+        "$type": "FiQu, x",
+        "v": 180
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "67af906eca33dff49a64a6db2add74f6",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "CuItPr, x",
+      "p": 10000000,
+      "a": {
+        "$type": "FiQu, x",
+        "v": 1500
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "CuItPr, x",
+      "p": 10000000,
+      "a": {
+        "$type": "FiQu, x",
+        "v": 100
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "26457bf2ab92dae458f59c93f9bb6526",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "CuItPr, x",
+      "p": 10000000,
+      "a": {
+        "$type": "FiQu, x",
+        "v": 10
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "0481eaa28b810db418fc1d829b1e8c09",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "CuItPr, x",
+      "p": 10000000,
+      "a": {
+        "$type": "FiQu, x",
+        "v": 100
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "dfd48218e1a98ad4992d058a03bf77f7",
+        "TypeName": "RewDnDa"
+      }
+    }
+  ],
+  "gar": null,
+  "gel": null,
+  "bge": null,
+  "img": {
+    "$type": "[Sp]$, x",
+    "guid": "b36a01c409fb9204ca4f0c9e9a068dc8",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$, x",
+    "guid": "4c42211becf532146aac8a8cf0cccbe3",
+    "TypeName": "GaOb"
+  },
+  "bic": {
+    "a": 10000000,
+    "b": 9191176,
+    "g": 6319167,
+    "r": 3852184
+  },
+  "olc": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 8493915,
+    "r": 5955882
+  },
+  "oli": {
+    "$type": "[Sp]$, x",
+    "guid": "c47de76f3f58bfe499f558c891912397",
+    "TypeName": "Sp"
+  },
+  "devName": "PreRegistrationGift"
+}

@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_LOWWOUNDINGSTRIKE",
+  "d": "IDS_ABILITY_LONG_DESC_LOWWOUNDINGSTRIKE",
+  "sd": "IDS_TIP_ABILITY_LOWWOUNDINGSTRIKE",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "700f0ef741e49cb4e96d52c61f5579ce",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "4678d5b128674634389dd97390955762",
+        "TypeName": "BeEfDuDoDa"
+      }
+    }
+  ],
+  "uc": true
+}

@@ -1,0 +1,55 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "f8284bf0cb2830842bc576b9e014c062",
+    "TypeName": "Sp"
+  },
+  "id": "LegendaryIncubator_Market",
+  "name": "IDS_STORE_SPECIAL_OFFER",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe",
+      "ql": [
+        3500,
+        3700,
+        3900,
+        4100,
+        4200,
+        4400,
+        4600,
+        4800,
+        5000,
+        5200,
+        5300,
+        5500,
+        5700,
+        5900,
+        6100,
+        6300,
+        6400,
+        6600,
+        6800,
+        7000
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr",
+    "rwd": {
+      "$type": "[RewDa]@",
+      "guid": "28b437885aa54c14d92d84d4d1b4ddec",
+      "TypeName": "RewInV2Da"
+    }
+  }
+}

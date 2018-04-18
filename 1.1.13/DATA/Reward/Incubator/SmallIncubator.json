@@ -1,0 +1,124 @@
+{
+  "$type": "RewInDa",
+  "q": 11,
+  "cul": [
+    {
+      "$type": "PrIt",
+      "a": 44,
+      "max": 44,
+      "step": 1,
+      "p": 10000000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "PrIt",
+      "a": 10,
+      "max": 10,
+      "step": 1,
+      "p": 10000000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "26457bf2ab92dae458f59c93f9bb6526",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "PrIt",
+      "a": 2,
+      "max": 2,
+      "step": 1,
+      "p": 10000000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "0481eaa28b810db418fc1d829b1e8c09",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": [
+    {
+      "$type": "GeIt",
+      "min": 0,
+      "ex": 1,
+      "exp": 99999,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "1c17d80f728cbf64299e64778315c6bc",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "",
+        "TypeName": "RaStDa"
+      }
+    },
+    {
+      "$type": "GeIt",
+      "min": 0,
+      "ex": 1,
+      "exp": 949999,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "dd8490407554d9e4494fc648bb9b9ee1",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "",
+        "TypeName": "RaStDa"
+      }
+    },
+    {
+      "$type": "GeIt",
+      "min": 0,
+      "ex": 1,
+      "exp": 9499999,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "6eca804069434be4fb0c3c91b3b1f570",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "",
+        "TypeName": "RaStDa"
+      }
+    }
+  ],
+  "bge": {
+    "$type": "GeItBa",
+    "minv": 1,
+    "maxv": 1,
+    "rlw": {
+      "$type": "[RewLiWe]@",
+      "guid": "2d2a1ffdb8b4b3f4f93e42e81ebcf360",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@",
+      "guid": "",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": {
+    "$type": "[Sp]$",
+    "guid": "fa15cbfd344aa9f449215e8bcb5d04ef",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$",
+    "guid": "1de9ae464de6358409bafc5e73522f37",
+    "TypeName": "GaOb"
+  },
+  "devName": ""
+}

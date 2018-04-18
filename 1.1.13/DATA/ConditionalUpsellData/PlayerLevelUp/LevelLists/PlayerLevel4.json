@@ -1,0 +1,57 @@
+{
+  "$type": "CoUpDaLC, x",
+  "cudal": [
+    {
+      "$type": "CoUpDa, x",
+      "l": 2,
+      "t": 1,
+      "sid": {
+        "$type": "[StItDa]@, x",
+        "guid": "9100abb13c35cd24b8aa6282e4185e5e",
+        "TypeName": "StItDa"
+      },
+      "oii": {
+        "$type": "[Sp]$, x",
+        "guid": "f5b925eef943aeb46a2bc7972ac7714d",
+        "TypeName": "Sp"
+      },
+      "oibi": {
+        "$type": "[Sp]$, x",
+        "guid": "5ff7fdceaad23e1428a3ee2dc2d45abd",
+        "TypeName": "Sp"
+      },
+      "c": {
+        "a": 10000000,
+        "b": 9333332,
+        "g": 4862745,
+        "r": 1019606
+      }
+    },
+    {
+      "$type": "CoUpDa, x",
+      "l": 3,
+      "t": 1,
+      "sid": {
+        "$type": "[StItDa]@, x",
+        "guid": "f0ae34e7df08f4b4f9b6274f729edceb",
+        "TypeName": "StItDa"
+      },
+      "oii": {
+        "$type": "[Sp]$, x",
+        "guid": "0020842b48531fc4898e899f710be937",
+        "TypeName": "Sp"
+      },
+      "oibi": {
+        "$type": "[Sp]$, x",
+        "guid": "5ff7fdceaad23e1428a3ee2dc2d45abd",
+        "TypeName": "Sp"
+      },
+      "c": {
+        "a": 10000000,
+        "b": 9333333,
+        "g": 4862745,
+        "r": 1019607
+      }
+    }
+  ]
+}

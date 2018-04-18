@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_POWERFULCHARGE",
+  "d": "IDS_ABILITY_LONG_DESC_POWERFULCHARGE",
+  "sd": "IDS_TIP_ABILITY_POWERFULCHARGE",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "8d6b23f041ea6f241852547e1ce2c365",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 3,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "12681786cfdcce348949e75f892e0919",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "d9ffc72fb93f8c14eb6dc96bbb6cbfd9",
+        "TypeName": "BeEfDuStDa"
+      }
+    }
+  ],
+  "uc": true
+}

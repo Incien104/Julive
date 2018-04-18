@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_TAILSPIN",
+  "d": "IDS_ABILITY_LONG_DESC_TAILSPIN",
+  "sd": "IDS_TIP_ABILITY_TAILSPIN",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "5cd68c64685ca424b818bced26b498b5",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "930ee32785dc6cf4fb2894d8850dbe13",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "2389944dc5ba38d4a99182fb0cb22095",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

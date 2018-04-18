@@ -1,0 +1,28 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "f78399fbcfd99fa43a6079c91d155240",
+    "TypeName": "Sp"
+  },
+  "id": "com.ludia.jw2.hc_500_5_boni20",
+  "name": "IDS_STORE_ITEM_CASH_BRIEFCASE",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ReaMoCo, x",
+    "pid": "com.ludia.jw2.hc_500_5_boni20"
+  },
+  "prd": {
+    "$type": "ResPr, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": 600
+  }
+}

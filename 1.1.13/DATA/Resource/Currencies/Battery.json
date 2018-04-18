@@ -1,0 +1,42 @@
+{
+  "$type": "CuReDa, x",
+  "Sprite2": {
+    "$type": "[Sp]$, x",
+    "guid": "9b99e5024604b3d4dbe2ad2ad6671d60",
+    "TypeName": "Sp"
+  },
+  "Color": {
+    "a": 10000000,
+    "b": 4784313,
+    "g": 2901960,
+    "r": 0
+  },
+  "TypeId": 4,
+  "devName": "BATTERY",
+  "Sprite": {
+    "$type": "[Sp]$, x",
+    "guid": "91f27a99afd7e9d4a8807dc74a5d5939",
+    "TypeName": "Sp"
+  },
+  "SpriteVip": {
+    "$type": "[Sp]$, x",
+    "guid": "b1114334b54689e4cb850b95594c7ad9",
+    "TypeName": "Sp"
+  },
+  "SdRewMat": {
+    "$type": "[Ma]$, x",
+    "guid": "de4812eaddaaf6b43a488c3ddb34a162",
+    "TypeName": "Ma"
+  },
+  "VsdRewMat": {
+    "$type": "[Ma]$, x",
+    "guid": "bd29fc5614f1a304cba3d9c2e72935ea",
+    "TypeName": "Ma"
+  },
+  "Max": 9999999,
+  "il": {
+    "$type": "InLi, x",
+    "reg": 25,
+    "vip": 50
+  }
+}

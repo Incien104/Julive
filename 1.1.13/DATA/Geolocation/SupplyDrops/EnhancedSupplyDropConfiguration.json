@@ -1,0 +1,23 @@
+{
+  "$type": "SuDrCo, x",
+  "sdp": {
+    "$type": "[GaOb]$, x",
+    "guid": "f2ce8d9f53ea899409c8bae24fefc129",
+    "TypeName": "GaOb"
+  },
+  "ccd": 15,
+  "sdt": "park,cafe,airport,pet_store,shopping_mall,parking",
+  "sdgpid": "",
+  "sdplt": "",
+  "rew": {
+    "$type": "[RewDa]@, x",
+    "guid": "440a7d2777cddbf49902cdc4a235b0cf",
+    "TypeName": "RewLi"
+  },
+  "tease": {
+    "$type": "[RewDa]@, x",
+    "guid": "",
+    "TypeName": "RewBaInDa"
+  },
+  "sdl": null
+}

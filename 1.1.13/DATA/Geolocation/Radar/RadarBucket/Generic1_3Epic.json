@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu",
+  "bgn": "Generic1 Epic",
+  "dinow": [
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "2e53887e22696884a94c3bdd5337d21d",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "360601316710bae479640f0ae82cf0c9",
+    "TypeName": "RaBu"
+  }
+}

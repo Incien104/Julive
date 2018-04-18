@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_ADRENALINEPULSE",
+  "d": "IDS_ABILITY_LONG_DESC_ADRENALINEPULSE",
+  "sd": "IDS_TIP_ABILITY_ADRENALINEPULSE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "b782ef5424cdee84f9f989cd0dceb88f",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 3,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "97199c8355a2fca48b95c84f30f1ae86",
+        "TypeName": "BeEfInClDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "d61170363aad278459ccf2d2e6e3cdcc",
+        "TypeName": "BeHePeDa"
+      }
+    }
+  ],
+  "uc": true
+}

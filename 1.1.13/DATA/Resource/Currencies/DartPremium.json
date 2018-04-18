@@ -1,0 +1,42 @@
+{
+  "$type": "CuReDa, x",
+  "Sprite2": {
+    "$type": "[Sp]$, x",
+    "guid": "536d570af4cd88a48a352c34e816b11a",
+    "TypeName": "Sp"
+  },
+  "Color": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 10000000,
+    "r": 10000000
+  },
+  "TypeId": 6,
+  "devName": "DART_PREMIUM",
+  "Sprite": {
+    "$type": "[Sp]$, x",
+    "guid": "e99b6abf73af39c4fa60f1c2c8b3899d",
+    "TypeName": "Sp"
+  },
+  "SpriteVip": {
+    "$type": "[Sp]$, x",
+    "guid": "e99b6abf73af39c4fa60f1c2c8b3899d",
+    "TypeName": "Sp"
+  },
+  "SdRewMat": {
+    "$type": "[Ma]$, x",
+    "guid": "d8de86422e58ff74bb17bb62fad81009",
+    "TypeName": "Ma"
+  },
+  "VsdRewMat": {
+    "$type": "[Ma]$, x",
+    "guid": "d8de86422e58ff74bb17bb62fad81009",
+    "TypeName": "Ma"
+  },
+  "Max": 9999999,
+  "il": {
+    "$type": "InLi, x",
+    "reg": 50,
+    "vip": 100
+  }
+}

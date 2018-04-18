@@ -1,0 +1,200 @@
+{
+  "$type": "DrRaDa",
+  "cos": 10000000,
+  "radius": 8000000,
+  "targetColor": {
+    "a": 10000000,
+    "b": 6790835,
+    "g": 2951987,
+    "r": 10000000
+  },
+  "fmd": [
+    {
+      "$type": "FaMoDa",
+      "fam": {
+        "$type": "[FaStDa]@",
+        "guid": "8aa924dcc5ebd90488aeb9df7566c40c",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        0
+      ]
+    }
+  ],
+  "dnaReqs": [
+    5,
+    10,
+    15,
+    30
+  ],
+  "dr": [
+    {
+      "$type": "[CuReAm]@",
+      "guid": "7de0d1ea0af0b744ba6d51bea8545cfa",
+      "TypeName": "CuReAm"
+    }
+  ],
+  "dpld": [
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 1,
+      "minDna": 1,
+      "maxDna": 4,
+      "centreDna": 0,
+      "dnaCap": 30
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 2,
+      "minDna": 1,
+      "maxDna": 5,
+      "centreDna": 0,
+      "dnaCap": 40
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 3,
+      "minDna": 1,
+      "maxDna": 6,
+      "centreDna": 0,
+      "dnaCap": 50
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 4,
+      "minDna": 1,
+      "maxDna": 7,
+      "centreDna": 0,
+      "dnaCap": 60
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 5,
+      "minDna": 1,
+      "maxDna": 7,
+      "centreDna": 0,
+      "dnaCap": 65
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 6,
+      "minDna": 1,
+      "maxDna": 8,
+      "centreDna": 0,
+      "dnaCap": 75
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 7,
+      "minDna": 1,
+      "maxDna": 9,
+      "centreDna": 0,
+      "dnaCap": 85
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 8,
+      "minDna": 1,
+      "maxDna": 10,
+      "centreDna": 0,
+      "dnaCap": 100
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 9,
+      "minDna": 1,
+      "maxDna": 11,
+      "centreDna": 0,
+      "dnaCap": 110
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 10,
+      "minDna": 1,
+      "maxDna": 12,
+      "centreDna": 0,
+      "dnaCap": 130
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 11,
+      "minDna": 1,
+      "maxDna": 12,
+      "centreDna": 0,
+      "dnaCap": 130
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 12,
+      "minDna": 1,
+      "maxDna": 13,
+      "centreDna": 0,
+      "dnaCap": 145
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 13,
+      "minDna": 1,
+      "maxDna": 14,
+      "centreDna": 0,
+      "dnaCap": 160
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 14,
+      "minDna": 1,
+      "maxDna": 15,
+      "centreDna": 0,
+      "dnaCap": 180
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 15,
+      "minDna": 1,
+      "maxDna": 16,
+      "centreDna": 0,
+      "dnaCap": 195
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 16,
+      "minDna": 1,
+      "maxDna": 17,
+      "centreDna": 0,
+      "dnaCap": 215
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 17,
+      "minDna": 1,
+      "maxDna": 17,
+      "centreDna": 0,
+      "dnaCap": 220
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 18,
+      "minDna": 1,
+      "maxDna": 18,
+      "centreDna": 0,
+      "dnaCap": 240
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 19,
+      "minDna": 1,
+      "maxDna": 19,
+      "centreDna": 0,
+      "dnaCap": 260
+    },
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 20,
+      "minDna": 1,
+      "maxDna": 20,
+      "centreDna": 0,
+      "dnaCap": 280
+    }
+  ]
+}

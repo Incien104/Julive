@@ -1,0 +1,35 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "5e7cd822e28d2d04aaa0066144a24589",
+    "TypeName": "Sp"
+  },
+  "id": "HardCash1000ToPremiumDart100",
+  "name": "IDS_STORE_ITEM_PREMIER_DART",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu",
+      "v": 80
+    }
+  },
+  "prd": {
+    "$type": "ResPr",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "dd8da7451e0ff3f49b0a9f3f52aba3a3",
+      "TypeName": "CuReDa"
+    },
+    "a": 5
+  }
+}

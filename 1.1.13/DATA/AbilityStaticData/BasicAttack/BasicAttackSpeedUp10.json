@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_BASICATTACKSPEEDUP10",
+  "d": "IDS_ABILITY_LONG_DESC_BASICATTACKSPEEDUP10",
+  "sd": "IDS_TIP_ABILITY_BASICATTACKSPEEDUP10",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "2036f1772bf13514099591699ef0e1df",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "c5d9b4a0d73d29c49939ab794fb0bbb1",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": false
+}

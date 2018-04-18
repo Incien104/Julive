@@ -1,0 +1,138 @@
+{
+  "$type": "JwAuDa, x",
+  "Cr": {
+    "$type": "[CrDB]@, x",
+    "guid": "89b14d63665fdc64fbc47491578636e7",
+    "TypeName": "CrDB"
+  },
+  "Rec": {
+    "$type": "[RecDB]@, x",
+    "guid": "7d5bc8ef8c671634bad98de1b6626fb6",
+    "TypeName": "RecDB"
+  },
+  "GM": {
+    "$type": "[GaMoStDaDB]@, x",
+    "guid": "54ef977298a56c847a5d529f8b605fca",
+    "TypeName": "GaMoStDaDB"
+  },
+  "Res": {
+    "$type": "[ResDB]@, x",
+    "guid": "58f127311e814194e8009fa66ac2e7fb",
+    "TypeName": "ResDB"
+  },
+  "Rew": {
+    "$type": "[RewDB]@, x",
+    "guid": "b2fdcd7792127ac46990c0423ed190c5",
+    "TypeName": "RewDB"
+  },
+  "Are": {
+    "$type": "[ArDB]@, x",
+    "guid": "4875dca6afdd7f94899db1b261b8cf37",
+    "TypeName": "ArDB"
+  },
+  "SD": {
+    "$type": "[SuDrMaCo]@, x",
+    "guid": "50747a7e031f6d44f824702f4987d481",
+    "TypeName": "SuDrMaCo"
+  },
+  "SDC": {
+    "$type": "[SuDrCoDB]@, x",
+    "guid": "3efe02a54651f3b4c967253b3fd3d4cf",
+    "TypeName": "SuDrCoDB"
+  },
+  "EVS": {
+    "$type": "[ExVaDB]@, x",
+    "guid": "480ff3d04fdae784299ba68ad7aff080",
+    "TypeName": "ExVaDB"
+  },
+  "PEC": {
+    "$type": "[PlExDB]@, x",
+    "guid": "a29f0cebdb5e7ed419224ca11abcc18d",
+    "TypeName": "PlExDB"
+  },
+  "DRDB": {
+    "$type": "[DrRaDB]@, x",
+    "guid": "97ee39c4948f5f34c954963a8e52922c",
+    "TypeName": "DrRaDB"
+  },
+  "STR": {
+    "$type": "[StItDB]@, x",
+    "guid": "9f966d79f3e876e44a090789fa4da2b4",
+    "TypeName": "StItDB"
+  },
+  "SEC": {
+    "$type": "[StItSe]@, x",
+    "guid": "159be7513dfc1d84a978fe87b9ee4155",
+    "TypeName": "StItSe"
+  },
+  "CUL": {
+    "$type": "[CoUpLiDb]@, x",
+    "guid": "7df23a1249943cb469c18e3b18cc3c46",
+    "TypeName": "CoUpLiDb"
+  },
+  "PLUCU": {
+    "$type": "[PlUpCoUpDb]@, x",
+    "guid": "fd8150bf41ced5c419a6390a756f48f3",
+    "TypeName": "PlUpCoUpDb"
+  },
+  "CUP": {
+    "$type": "[CoUpODb]@, x",
+    "guid": "8cdad9083ba064d46b8b6e121550eb8f",
+    "TypeName": "CoUpODb"
+  },
+  "DCFG": {
+    "$type": "[DrCoM]@, x",
+    "guid": "1d450419ca419d449ae28f7ba51f0271",
+    "TypeName": "DrCoM"
+  },
+  "SUR": {
+    "$type": "[SpUpRe]@, x",
+    "guid": "07cd49d2ef6029b4e808a57d9bd57498",
+    "TypeName": "SpUpRe"
+  },
+  "TrackCfg": {
+    "$type": "[TrConf]@, x",
+    "guid": "3223bc3434c01ef48b5b3c199740d495",
+    "TypeName": "TrConf"
+  },
+  "GSet": {
+    "$type": "[GaSeCo]@, x",
+    "guid": "67493c86f3debb745bf16071a6ede6ee",
+    "TypeName": "GaSeCo"
+  },
+  "TUT": {
+    "$type": "[TuDB]@, x",
+    "guid": "8a0da989942b55849b29970c36f2d44d",
+    "TypeName": "TuDB"
+  },
+  "TST": {
+    "$type": "[TuStDB]@, x",
+    "guid": "daab2d38db03b814baae4830cc6e2400",
+    "TypeName": "TuStDB"
+  },
+  "SO": {
+    "$type": "[SocDB]@, x",
+    "guid": "a0ee31823859aa748b89dc23f8ee1a74",
+    "TypeName": "SocDB"
+  },
+  "CpDb": {
+    "$type": "[CePrDB]@, x",
+    "guid": "d3c04c13b4f975448a2f414d8d4f73b1",
+    "TypeName": "CePrDB"
+  },
+  "RbDb": {
+    "$type": "[RaBuDB]@, x",
+    "guid": "84ce5d8645454d446b948cedd6bcf010",
+    "TypeName": "RaBuDB"
+  },
+  "RtbDb": {
+    "$type": "[RaTyDB]@, x",
+    "guid": "f60f9e502c56eca46ad2f0258d2927bb",
+    "TypeName": "RaTyDB"
+  },
+  "tgdb": {
+    "$type": "[TeGeStDa]@, x",
+    "guid": "3ff53e889d2faea47acb4c94d58d52c9",
+    "TypeName": "TeGeStDa"
+  }
+}

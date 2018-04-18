@@ -1,0 +1,130 @@
+{
+  "$type": "CrStDa, x",
+  "r": {
+    "$type": "[RaStDa]@, x",
+    "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+    "TypeName": "RaStDa"
+  },
+  "s": {
+    "$type": "[Si]@, x",
+    "guid": "1f3a2168751c82f47a5d81b5ee750894",
+    "TypeName": "Si"
+  },
+  "dn": "postosuch",
+  "lkn": "IDS_POSTOSUCH",
+  "a": "DINODESC_BODY_POSTOSUCHUS",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "181999420c448a2419ab827c1b329b84",
+    "TypeName": "Sp"
+  },
+  "att": {
+    "$type": "[CrAtDa]@, x",
+    "guid": "f987a42ceba4e12418e43a3700ad5373",
+    "TypeName": "CrAtDa"
+  },
+  "dna": {
+    "$type": "[CrDNARe]@, x",
+    "guid": "3f648ce7ce95fbd4d981f83295771037",
+    "TypeName": "CrDNARe"
+  },
+  "fm": {
+    "$type": "[FaStDa]@, x",
+    "guid": "60a63db34d298d54ca717a3c2b7dfbb5",
+    "TypeName": "FaStDa"
+  },
+  "g": {
+    "$type": "[RPSStDa]@, x",
+    "guid": "fcdde49ff9e561745b5ce41b5a86295a",
+    "TypeName": "RPSStDa"
+  },
+  "cs": {
+    "$type": "[ChShStDa]@, x",
+    "guid": "71da8618d88907d44995358949f4f6a3",
+    "TypeName": "ChShStDa"
+  },
+  "b": {
+    "$type": "[BaCrStDa]@, x",
+    "guid": "8a2853c2764fdd747a0e6e4e08a9f3f3",
+    "TypeName": "BaCrStDa"
+  },
+  "rc": {
+    "$type": "[RaCrStDa]@, x",
+    "guid": "9fb35bab5884044478b73707f9f53c33",
+    "TypeName": "RaCrStDa"
+  },
+  "dc": {
+    "$type": "[DrCrStDa]@, x",
+    "guid": "75dff9d31ccbfbc4b832807c91595905",
+    "TypeName": "DrCrStDa"
+  },
+  "ac": {
+    "$type": "AbIt, x",
+    "ai": {
+      "$type": "[AbStDa]@, x",
+      "guid": "",
+      "TypeName": "AbStDa"
+    },
+    "at": 3000,
+    "rst": -1
+  },
+  "al": [
+    {
+      "$type": "AbIt, x",
+      "ai": {
+        "$type": "[AbStDa]@, x",
+        "guid": "804ab7068b71186488fc34c5992b979b",
+        "TypeName": "AbStDa"
+      },
+      "at": 1500,
+      "rst": 775
+    },
+    {
+      "$type": "AbIt, x",
+      "ai": {
+        "$type": "[AbStDa]@, x",
+        "guid": "a5cc4a7436b0bbc43a15368a0031bc15",
+        "TypeName": "AbStDa"
+      },
+      "at": 2701,
+      "rst": 1892
+    },
+    {
+      "$type": "AbIt, x",
+      "ai": {
+        "$type": "[AbStDa]@, x",
+        "guid": "2ba5b14188af1b040a690b8c547632df",
+        "TypeName": "AbStDa"
+      },
+      "at": 3033,
+      "rst": 300
+    }
+  ],
+  "pl": [],
+  "dep": false,
+  "eb": true,
+  "daid": false,
+  "el": true,
+  "eg": true,
+  "ua": 75,
+  "rs": 82,
+  "so": 5400,
+  "sfx": {
+    "$type": "[CrSfDa]@, x",
+    "guid": "",
+    "TypeName": "CrSfDa"
+  },
+  "sfxf": {
+    "$type": "[CSDa]@, x",
+    "guid": "",
+    "TypeName": "CSDa"
+  },
+  "HoloMaterial": {
+    "$type": "[Ma]$, x",
+    "guid": "a110795fafc7c184ea6b274af098c8e3",
+    "TypeName": "Ma"
+  },
+  "hrl": 2300,
+  "drl": 2267,
+  "swl": 1900
+}

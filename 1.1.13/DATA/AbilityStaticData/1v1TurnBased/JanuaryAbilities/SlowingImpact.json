@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_SLOWINGIMPACT",
+  "d": "IDS_ABILITY_LONG_DESC_SLOWINGIMPACT",
+  "sd": "IDS_TIP_ABILITY_SLOWINGIMPACT",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "f9918bf9799b9a445970fbd2bfb5ab94",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 4,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "930ee32785dc6cf4fb2894d8850dbe13",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "27ff13cf243508f4baceb5b8727bff0b",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

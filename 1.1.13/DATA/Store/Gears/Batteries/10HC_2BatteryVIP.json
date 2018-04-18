@@ -1,0 +1,36 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "844caf1ae9def684b986010cec3b5c88",
+    "TypeName": "Sp"
+  },
+  "id": "10HC_2BatteryVIP",
+  "name": "IDS_STORE_ITEM_BATTERIES_RELOAD",
+  "slvl": false,
+  "vva": false,
+  "vvp": true,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu, x",
+      "v": 10
+    }
+  },
+  "prd": {
+    "$type": "ResPr, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "511414515b2481a41a25d5530cb0a4c5",
+      "TypeName": "CuReDa"
+    },
+    "a": 2
+  }
+}

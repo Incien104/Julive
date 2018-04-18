@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu",
+  "bgn": "Park hybrids Epic",
+  "dinow": [
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "6483702df0f2dc840bce98851a1d0da9",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "3f07010026ee50f4f8a4f876820e0c37",
+    "TypeName": "RaBu"
+  }
+}

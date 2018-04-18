@@ -1,0 +1,13 @@
+{
+  "$type": "SuDrMaCo",
+  "dsd": {
+    "$type": "[SuDrCo]@",
+    "guid": "c29ad763bbe3610428978b0af136a5ac",
+    "TypeName": "SuDrCo"
+  },
+  "vsp": {
+    "$type": "[SuDrCo]@",
+    "guid": "9ed5a5de36a2d6d4d9952b556b35cabd",
+    "TypeName": "SuDrCo"
+  }
+}

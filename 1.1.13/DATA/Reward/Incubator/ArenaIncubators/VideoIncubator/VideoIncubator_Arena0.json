@@ -1,0 +1,95 @@
+{
+  "$type": "RewInV2Da",
+  "dpn": "IDS_VIDEO_CONTAINER",
+  "q": {
+    "$type": "[ByPlLe]@",
+    "guid": "37c8a8097bee2054bbdf474938e9e187",
+    "TypeName": "ByPlLe"
+  },
+  "cul": null,
+  "gar": [
+    {
+      "$type": "ByLeCuIt",
+      "a": {
+        "$type": "[ByPlLe]@",
+        "guid": "154fcefc2dacfc84f9d297f29506930f",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "ByLeCuIt",
+      "a": {
+        "$type": "[ByPlLe]@",
+        "guid": "df39f5f920724a247b6e4ab39b90a20a",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "26457bf2ab92dae458f59c93f9bb6526",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "ByLeCuIt",
+      "a": {
+        "$type": "[ByPlLe]@",
+        "guid": "48c7c76482901de4aa835ee01e2a291b",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "0481eaa28b810db418fc1d829b1e8c09",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": [],
+  "bge": {
+    "$type": "GeItBa",
+    "minv": 1,
+    "maxv": 1,
+    "rlw": {
+      "$type": "[RewLiWe]@",
+      "guid": "065da32bd872d744c97fd2199b1c6f5f",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@",
+      "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": {
+    "$type": "[Sp]$",
+    "guid": "503ea5fd5707b2a48803e2494c56aea8",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$",
+    "guid": "1de9ae464de6358409bafc5e73522f37",
+    "TypeName": "GaOb"
+  },
+  "bic": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 7843136,
+    "r": 4196076
+  },
+  "olc": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 10000000,
+    "r": 10000000
+  },
+  "oli": {
+    "$type": "[Sp]$",
+    "guid": "c47de76f3f58bfe499f558c891912397",
+    "TypeName": "Sp"
+  },
+  "devName": "VideoArena0"
+}

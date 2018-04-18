@@ -1,0 +1,51 @@
+{
+  "$type": "TuStDB, x",
+  "Key": "DB_TUTORIAL_STEP",
+  "DB": [
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "911e31c31b4ad784b95e9ad57639c915",
+      "TypeName": "TuStDa"
+    },
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "c918498e98bcee649a79c326c81899c3",
+      "TypeName": "TuStDa"
+    },
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "eb3126e88e718ee4fb124ef4dd893f74",
+      "TypeName": "TuStDa"
+    },
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "4c1de677268578049bb1563a6dff8c27",
+      "TypeName": "TuStDa"
+    },
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "8bcc4cd60e526c543bed22c15a6f8528",
+      "TypeName": "TuStDa"
+    },
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "5436588051aaae4418eb0869dced5e6c",
+      "TypeName": "TuStDa"
+    },
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "bdc869cb180553842ba4f5a670144208",
+      "TypeName": "TuStDa"
+    },
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "7d4c1df7d041c5c458ab134c634c16ca",
+      "TypeName": "TuStDa"
+    },
+    {
+      "$type": "[TuStDa]@, x",
+      "guid": "6c581298dd5197440a44b2a800d9e684",
+      "TypeName": "TuStDa"
+    }
+  ]
+}

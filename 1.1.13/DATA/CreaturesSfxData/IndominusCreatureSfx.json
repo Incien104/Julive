@@ -1,0 +1,83 @@
+{
+  "$type": "CrSfDa, x",
+  "bid": {
+    "$type": "[AuEv]$, x",
+    "guid": "670a186fa327c444d89891704593acb6",
+    "TypeName": "AuEv"
+  },
+  "bhrl": {
+    "$type": "[AuEv]$, x",
+    "guid": "3e03787664fc5204b8df11fa686dcf70",
+    "TypeName": "AuEv"
+  },
+  "bhrr": {
+    "$type": "[AuEv]$, x",
+    "guid": "f8418accd1bba5e4bb633b817e077265",
+    "TypeName": "AuEv"
+  },
+  "bwi": {
+    "$type": "[AuEv]$, x",
+    "guid": "0741244e5a4eed141a3ab8473e0236c5",
+    "TypeName": "AuEv"
+  },
+  "bsr": {
+    "$type": "[AuEv]$, x",
+    "guid": "b85e20a65d0051346be4304b8d4a33f7",
+    "TypeName": "AuEv"
+  },
+  "bdt": {
+    "$type": "[AuEv]$, x",
+    "guid": "bebef90b4f94c8541bd068ca09c5cb45",
+    "TypeName": "AuEv"
+  },
+  "bdti": {
+    "$type": "[AuEv]$, x",
+    "guid": "5550ffaa3c88eff4ca4f6701064b9ee1",
+    "TypeName": "AuEv"
+  },
+  "bbri": {
+    "$type": "[AuEv]$, x",
+    "guid": "ff8395f9ceabb994e902cf135b369cca",
+    "TypeName": "AuEv"
+  },
+  "bvt": {
+    "$type": "[AuEv]$, x",
+    "guid": "0348d58dec8a35b4ebf0b4c910fb2782",
+    "TypeName": "AuEv"
+  },
+  "bba": {
+    "$type": "[AuEv]$, x",
+    "guid": "234dbc93fc626c045b84a088ff2cd822",
+    "TypeName": "AuEv"
+  },
+  "bsp": {
+    "$type": "[AuEv]$, x",
+    "guid": "23a7c275663db8f48a45506d5961bad3",
+    "TypeName": "AuEv"
+  },
+  "bsc": {
+    "$type": "[AuEv]$, x",
+    "guid": "162ef5266e9c0534e90ba43a3c469b58",
+    "TypeName": "AuEv"
+  },
+  "lid": {
+    "$type": "[AuEv]$, x",
+    "guid": "b1573d6b852d4f14e934e9401be60703",
+    "TypeName": "AuEv"
+  },
+  "lin": {
+    "$type": "[AuEv]$, x",
+    "guid": "61607bcc02b2a7a4cbeacd01fe517451",
+    "TypeName": "AuEv"
+  },
+  "llu": {
+    "$type": "[AuEv]$, x",
+    "guid": "085a5d5ecb137f4489fe04c9116fdf36",
+    "TypeName": "AuEv"
+  },
+  "rid": {
+    "$type": "[AuEv]$, x",
+    "guid": "b1573d6b852d4f14e934e9401be60703",
+    "TypeName": "AuEv"
+  }
+}

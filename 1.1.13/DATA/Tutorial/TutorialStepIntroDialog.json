@@ -1,0 +1,22 @@
+{
+  "$type": "TuStDa, x",
+  "tsad": 13,
+  "tsid": 9,
+  "tsd": true,
+  "tsd3d": false,
+  "ticp": false,
+  "trd": 2,
+  "tdl": [
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "fc7d145883ead83429222e44775010d7",
+      "TypeName": "TuDiDa"
+    },
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "b8146c6f42794a940857c0141e384cb2",
+      "TypeName": "TuDiDa"
+    }
+  ],
+  "tsan": "Creature Tapped"
+}

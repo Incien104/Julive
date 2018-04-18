@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_FEROCITYSTRIKE",
+  "d": "IDS_ABILITY_LONG_DESC_FEROCITYSTRIKE",
+  "sd": "IDS_TIP_ABILITY_FEROCITYSTRIKE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "4a96b7479d212a74bae700592d0f2f32",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 3,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "2c8af3f3b70817349b457fb00387009d",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "930ee32785dc6cf4fb2894d8850dbe13",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

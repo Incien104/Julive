@@ -1,0 +1,13 @@
+{
+  "$type": "SpUpRe, x",
+  "ndr": {
+    "$type": "NeCu, x",
+    "cur": {
+      "$type": "[CuReDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": 1
+  },
+  "tnr": 360
+}

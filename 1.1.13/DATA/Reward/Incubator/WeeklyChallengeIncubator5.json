@@ -1,0 +1,73 @@
+{
+  "$type": "RewInDa",
+  "q": 0,
+  "cul": [
+    {
+      "$type": "PrIt",
+      "a": 500,
+      "max": 0,
+      "step": 0,
+      "p": 1000000000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "PrIt",
+      "a": 5,
+      "max": 0,
+      "step": 0,
+      "p": 1000000000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "67af906eca33dff49a64a6db2add74f6",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "PrIt",
+      "a": 1000,
+      "max": 0,
+      "step": 0,
+      "p": 1000000000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "0481eaa28b810db418fc1d829b1e8c09",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "PrIt",
+      "a": 3,
+      "max": 0,
+      "step": 0,
+      "p": 1000000000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "26457bf2ab92dae458f59c93f9bb6526",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": null,
+  "bge": {
+    "$type": "GeItBa",
+    "minv": 1,
+    "maxv": 1,
+    "rlw": {
+      "$type": "[RewLiWe]@",
+      "guid": "838b6c1e2bfec3744bc0eb3c5fce8f8c",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@",
+      "guid": "",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": null,
+  "mdl": null,
+  "devName": "WeeklyChallengeIncubator5"
+}

@@ -1,0 +1,139 @@
+{
+  "$type": "SuDrCo, x",
+  "sdp": {
+    "$type": "[GaOb]$, x",
+    "guid": "cd89868bd22938a40bf57abaab4bc318",
+    "TypeName": "GaOb"
+  },
+  "ccd": 15,
+  "sdt": ",park,school,university,library,museum,aquarium,bus_station,subway_station,train_station,post_office,city_hall,courthouse,local_government_office,cafe,movie_theater,lodging,meal_delivery,meal_takeaway,police,rv_park,stadium,taxi_stand,transit_station,zoo,amusement_park,airport,accounting,art_gallery,atm,bakery,bank,beauty_salon,bicycle_store,book_store,bowling_alley,campground,car_dealer,car_rental,car_repair,car_wash,clothing_store,convenience_store,department_store,electrician,electronics_store,fire_station,florist,furniture_store,gas_station,gym,hair_care,hardware_store,home_goods_store,hospital,insurance_agency,jewelry_store,laundry,lawyer,locksmith,movie_rental,pet_store,pharmacy,plumber,real_estate_agency,restaurant,shoe_store,shopping_mall,spa,store,travel_agency,veterinary_care,doctor,dentist,moving_company,painter,parking,physiotherapist,roofing_contractor,storage,embassy,natural_feature,post_box,finance,food,health,establishment,general_contractor,point_of_interest",
+  "sdgpid": "",
+  "sdplt": "",
+  "rew": {
+    "$type": "[RewDa]@, x",
+    "guid": "74b6b262c6332424ea07fd9eaa2445b0",
+    "TypeName": "RewLi"
+  },
+  "sdl": [
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 1,
+      "dcl": 500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 2,
+      "dcl": 1000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 3,
+      "dcl": 1500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 4,
+      "dcl": 2000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 5,
+      "dcl": 2500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 6,
+      "dcl": 3000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 7,
+      "dcl": 3500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 8,
+      "dcl": 4000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 9,
+      "dcl": 4500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 10,
+      "dcl": 5000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 11,
+      "dcl": 5500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 12,
+      "dcl": 6000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 13,
+      "dcl": 6500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 14,
+      "dcl": 7000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 15,
+      "dcl": 7500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 16,
+      "dcl": 8000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 17,
+      "dcl": 8500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 18,
+      "dcl": 9000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 19,
+      "dcl": 9500,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 20,
+      "dcl": 10000,
+      "dhl": 40
+    }
+  ]
+}
