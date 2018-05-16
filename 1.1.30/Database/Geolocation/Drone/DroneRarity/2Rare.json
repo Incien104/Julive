@@ -1,0 +1,578 @@
+{
+  "$type": "DrRaDa, x",
+  "cos": 10000000,
+  "radius": 11000000,
+  "targetColor": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 9291849,
+    "r": 7266436
+  },
+  "fmd": [
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "3eab5e880689aaa4485b46e613c030ed",
+        "TypeName": "FaStDa"
+      },
+      "speed": null
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "8aa924dcc5ebd90488aeb9df7566c40c",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        80000000,
+        100000000,
+        130000000,
+        180000000,
+        180000000,
+        180000000,
+        180000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "2129fc5757d49ba43aa59a90d64cdbbf",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "1d60e3556fb2d51409fbb2e3fce31f9e",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "0333d11f75b1ef5449af72da0ff9f589",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        160000000,
+        160000000,
+        160000000,
+        160000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "ee915b563ee81114e8db95de7d97050b",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "43da83e862ff6354495dfb1caccce6ff",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "78fc8473f00b351408de7f35d99c051f",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "60a63db34d298d54ca717a3c2b7dfbb5",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        150000000,
+        150000000,
+        150000000,
+        150000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "cfac9abddf93daf4aa8264e497c27bb9",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        50000000,
+        80000000,
+        100000000,
+        130000000,
+        130000000,
+        130000000,
+        130000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "ab91a80290e11ba40aad4f6f0da30b26",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "3ef07ef7382331f4496304136304b7a1",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "8ccb59535c7045d4489c52125f2455b5",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "82752e2f6d8d60e4489523df85998091",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "9184f726faba7154b82403095ba36e10",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        50000000,
+        80000000,
+        100000000,
+        130000000,
+        130000000,
+        130000000,
+        130000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "63f95b424a6c8434ca9129dd0916f4c9",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        160000000,
+        160000000,
+        160000000,
+        160000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "24d08f45480bd9c4c87356cd4a20f542",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "8082c79745eba4943a5c322c6a9a35b6",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "3ebef015ab2c96e47ae2141f8112a8b6",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "a3848d8386c17114e9120c3b2c661aea",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        150000000,
+        150000000,
+        150000000,
+        150000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "e1d9da35f428bd24b9c03fa9491cdd0c",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        60000000,
+        80000000,
+        120000000,
+        170000000,
+        170000000,
+        170000000,
+        170000000
+      ]
+    },
+    {
+      "$type": "FaMoDa, x",
+      "fam": {
+        "$type": "[FaStDa]@, x",
+        "guid": "53c64532050af954b8fe3efd95b06364",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        80000000,
+        100000000,
+        130000000,
+        180000000,
+        180000000,
+        180000000,
+        180000000
+      ]
+    }
+  ],
+  "dnaReqs": [
+    1,
+    15,
+    30,
+    50,
+    80,
+    130,
+    180
+  ],
+  "dr": [
+    {
+      "$type": "[CuReAm]@, x",
+      "guid": "7de0d1ea0af0b744ba6d51bea8545cfa",
+      "TypeName": "CuReAm"
+    }
+  ],
+  "dpld": [
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 1,
+      "minDna": 1,
+      "maxDna": 5,
+      "centreDna": 7,
+      "dnaCap": 105
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 2,
+      "minDna": 1,
+      "maxDna": 6,
+      "centreDna": 8,
+      "dnaCap": 120
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 3,
+      "minDna": 1,
+      "maxDna": 6,
+      "centreDna": 9,
+      "dnaCap": 135
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 4,
+      "minDna": 1,
+      "maxDna": 7,
+      "centreDna": 10,
+      "dnaCap": 150
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 5,
+      "minDna": 1,
+      "maxDna": 8,
+      "centreDna": 11,
+      "dnaCap": 165
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 80,
+      "minDna": 1,
+      "maxDna": 9,
+      "centreDna": 12,
+      "dnaCap": 180
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 7,
+      "minDna": 1,
+      "maxDna": 9,
+      "centreDna": 13,
+      "dnaCap": 195
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 8,
+      "minDna": 1,
+      "maxDna": 10,
+      "centreDna": 14,
+      "dnaCap": 210
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 9,
+      "minDna": 1,
+      "maxDna": 11,
+      "centreDna": 15,
+      "dnaCap": 225
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 10,
+      "minDna": 1,
+      "maxDna": 12,
+      "centreDna": 16,
+      "dnaCap": 240
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 11,
+      "minDna": 1,
+      "maxDna": 12,
+      "centreDna": 17,
+      "dnaCap": 255
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 12,
+      "minDna": 1,
+      "maxDna": 13,
+      "centreDna": 18,
+      "dnaCap": 270
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 13,
+      "minDna": 1,
+      "maxDna": 14,
+      "centreDna": 19,
+      "dnaCap": 285
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 14,
+      "minDna": 1,
+      "maxDna": 15,
+      "centreDna": 20,
+      "dnaCap": 300
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 15,
+      "minDna": 1,
+      "maxDna": 15,
+      "centreDna": 21,
+      "dnaCap": 315
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 16,
+      "minDna": 1,
+      "maxDna": 16,
+      "centreDna": 22,
+      "dnaCap": 330
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 17,
+      "minDna": 1,
+      "maxDna": 17,
+      "centreDna": 23,
+      "dnaCap": 345
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 18,
+      "minDna": 1,
+      "maxDna": 18,
+      "centreDna": 24,
+      "dnaCap": 360
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 19,
+      "minDna": 1,
+      "maxDna": 18,
+      "centreDna": 25,
+      "dnaCap": 375
+    },
+    {
+      "$type": "DrPlLeDa, x",
+      "lvl": 20,
+      "minDna": 1,
+      "maxDna": 19,
+      "centreDna": 26,
+      "dnaCap": 390
+    }
+  ]
+}

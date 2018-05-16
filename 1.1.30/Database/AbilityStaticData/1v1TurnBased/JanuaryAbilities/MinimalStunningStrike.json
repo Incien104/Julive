@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_MINIMALSTUNNINGSTRIKE",
+  "d": "IDS_ABILITY_LONG_DESC_MINIMALSTUNNINGSTRIKE",
+  "sd": "IDS_TIP_ABILITY_MINIMALSTUNNINGSTRIKE",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "94624d89990a62b4eb75cbad9b629684",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "1f61ad34dd4b4ea43809e51dd452073a",
+        "TypeName": "BeEfDuStDa"
+      }
+    }
+  ],
+  "uc": true
+}

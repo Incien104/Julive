@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_DISTRACTINGDORSALPLATES",
+  "d": "IDS_ABILITY_LONG_DESC_DISTRACTINGDORSALPLATES",
+  "sd": "IDS_TIP_ABILITY_DISTRACTINGDORSALPLATES",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "d701972ab46352c498cb2132c7cf2b8f",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 1,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "a589f0707596bf44398d9104756ab02b",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "ArStDa, x",
+  "ti": 0,
+  "dn": "JW Jungle 1",
+  "lkn": "IDS_BATTLE_ARENA_TITLE_TUTORIAL",
+  "asn": "Battle_Jungle_Tutorial",
+  "ai": {
+    "$type": "[Sp]$, x",
+    "guid": "7f256d84267fe764ea75613036bb4ca4",
+    "TypeName": "Sp"
+  },
+  "si": null,
+  "iuci": [],
+  "rau": {
+    "$type": "[RewDa]@, x",
+    "guid": "",
+    "TypeName": "RewInV2Da"
+  },
+  "rbi": [
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "73ab962d1fa6c8a4bbffd5d783191465",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "73ab962d1fa6c8a4bbffd5d783191465",
+      "TypeName": "RewBaInDa"
+    }
+  ],
+  "sc": 0,
+  "tn": 0,
+  "ttp": 0,
+  "mwtrop": 30,
+  "mltrop": 0,
+  "addl": false
+}

@@ -1,0 +1,10 @@
+{
+  "$type": "DrCrStDa",
+  "ass": {
+    "$type": "[GaOb]$",
+    "guid": "7a7328f0294efc04abce918b8d1610d1",
+    "TypeName": "GaOb"
+  },
+  "moveSpeed": 10000000,
+  "animSpeed": 3300000
+}

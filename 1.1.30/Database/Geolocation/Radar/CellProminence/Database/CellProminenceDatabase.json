@@ -1,0 +1,16 @@
+{
+  "$type": "CePrDB, x",
+  "Key": "DB_PROMINENCE",
+  "DB": [
+    {
+      "$type": "[CePr]@, x",
+      "guid": "beb7bd7bb367f5b4f882b172bc2df491",
+      "TypeName": "CePr"
+    },
+    {
+      "$type": "[CePr]@, x",
+      "guid": "15f5f3e7e29ef9140add9828200bdd62",
+      "TypeName": "CePr"
+    }
+  ]
+}

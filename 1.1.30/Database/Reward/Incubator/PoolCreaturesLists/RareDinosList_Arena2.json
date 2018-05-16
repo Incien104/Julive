@@ -1,0 +1,24 @@
+{
+  "$type": "RewLiWe, x",
+  "wil": [
+    {
+      "$type": "WeIt, x",
+      "w": 100,
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "23eb91a4d2e58454aa0abc21ed181c06",
+        "TypeName": "RewDnDa"
+      }
+    },
+    {
+      "$type": "WeIt, x",
+      "w": 100,
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "1640d959fcdef2b43ac0df36ce9271a2",
+        "TypeName": "RewDnDa"
+      }
+    }
+  ],
+  "devName": ""
+}

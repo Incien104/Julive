@@ -1,0 +1,311 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "All Common",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "6cd31f7a733748d4e9d2acf8d5f4140b",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "cea48b15524d54b4d95a0bab2a25c84f",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "233be998d9e98bb4e8ab454933d3f66b",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "3129b8df0efbac749b1f577ead93831e",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "51b01ef2b42be484da2e5188ec066cda",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "7e9a3dedb0bdfb846bdea6e74715e610",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "69601b5c3cd804f4eb5d805cfc4c0d05",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "cf448c755f27e25409bfbf320639fd19",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "c820f6f982697214780ebdb5b0e25eb4",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "f4c2578f8ae40194dbea24c42465f68c",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "7d489ac1c78a4334aacfe21ebd80c6a1",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "fab487380a02cea48ac2e1a2ff516c5a",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "6e0a14e7ee9638a489fd789ab338c39a",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "3d7c6d458014103499bdaa1e1275fbd1",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "521ab81061d6397449003514af38d51e",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "47bcbc8930db1564fb71bd89a3625d81",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 0
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 0
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "d1f0d687b433300449a7f859dfa26d50",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 0
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "fdfbd81c6a886304188afdf568c0efc0",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "d9b0a25502429834ab413e3fa1b0ccf4",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "eafaf81bfe116e74181acabdb6ccc2e2",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "3338e282d20199947a2af1e7eb8f9378",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "d68154523709065428673ee33dca2e13",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

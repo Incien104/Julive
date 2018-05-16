@@ -1,0 +1,26 @@
+{
+  "wil": [
+    {
+      "w": 1,
+      "r": {
+        "guid": "8feada3df3fae584da5ca841066be0e7",
+        "TypeName": "RewDnDa"
+      }
+    },
+    {
+      "w": 10,
+      "r": {
+        "guid": "d1bdc10362a3a2c44a2cdd4107605502",
+        "TypeName": "RewDnDa"
+      }
+    },
+    {
+      "w": 1,
+      "r": {
+        "guid": "dfd48218e1a98ad4992d058a03bf77f7",
+        "TypeName": "RewDnDa"
+      }
+    }
+  ],
+  "devName": "WeightList1"
+}

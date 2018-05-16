@@ -1,0 +1,80 @@
+{
+  "$type": "DrRaDa",
+  "cos": 10000000,
+  "radius": 17000000,
+  "targetColor": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 10000000,
+    "r": 10000000
+  },
+  "fmd": [
+    {
+      "$type": "FaMoDa",
+      "fam": {
+        "$type": "[FaStDa]@",
+        "guid": "8aa924dcc5ebd90488aeb9df7566c40c",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        50000000,
+        100000000
+      ]
+    },
+    {
+      "$type": "FaMoDa",
+      "fam": {
+        "$type": "[FaStDa]@",
+        "guid": "2129fc5757d49ba43aa59a90d64cdbbf",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        50000000,
+        100000000
+      ]
+    },
+    {
+      "$type": "FaMoDa",
+      "fam": {
+        "$type": "[FaStDa]@",
+        "guid": "1d60e3556fb2d51409fbb2e3fce31f9e",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        50000000,
+        100000000
+      ]
+    },
+    {
+      "$type": "FaMoDa",
+      "fam": {
+        "$type": "[FaStDa]@",
+        "guid": "ee915b563ee81114e8db95de7d97050b",
+        "TypeName": "FaStDa"
+      },
+      "speed": [
+        0,
+        50000000,
+        100000000
+      ]
+    }
+  ],
+  "dnaReqs": [
+    1,
+    30
+  ],
+  "dr": null,
+  "dpld": [
+    {
+      "$type": "DrPlLeDa",
+      "lvl": 1,
+      "minDna": 4,
+      "maxDna": 7,
+      "centreDna": 10,
+      "dnaCap": 50
+    }
+  ]
+}

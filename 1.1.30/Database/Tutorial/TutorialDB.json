@@ -1,0 +1,11 @@
+{
+  "$type": "TuDB",
+  "Key": "DB_TUTORIALS",
+  "DB": [
+    {
+      "$type": "[TuDa]@",
+      "guid": "4aaec5b6a86924741800151e80f748a6",
+      "TypeName": "TuDa"
+    }
+  ]
+}

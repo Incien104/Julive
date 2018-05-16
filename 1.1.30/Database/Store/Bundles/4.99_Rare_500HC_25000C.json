@@ -1,0 +1,27 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "208a7d4dd6dc37147822030b705581b6",
+    "TypeName": "Sp"
+  },
+  "id": "com.ludia.jw2.bdl_rare_5a",
+  "name": "IDS_STORE_SPECIAL_OFFER",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": true,
+  "cost": {
+    "$type": "ReaMoCo, x",
+    "pid": "com.ludia.jw2.bdl_rare_5a"
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "f1376b981082d7a4d995a7cf2b12075b",
+      "TypeName": "RewInV2Da"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_DISTRACTINGIMPACT",
+  "d": "IDS_ABILITY_LONG_DESC_DISTRACTINGIMPACT",
+  "sd": "IDS_TIP_ABILITY_DISTRACTINGIMPACT",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "d701972ab46352c498cb2132c7cf2b8f",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "930ee32785dc6cf4fb2894d8850dbe13",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "6bc4a3084221a254596e3f57bd2c3b7e",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

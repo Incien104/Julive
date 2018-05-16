@@ -1,0 +1,107 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "Everywhere Rare",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "d48314e890bc00d49953b5d570dc28fa",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "3e744968f2291d046a10de62bc032af0",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 6
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "889f04ace8baf2644be37a975789a368",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "1a29685be916cee4f8bd6870005d0872",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "ac81646838a9efd47a81963bd0cc3e16",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 5,
+      "duskWeight": 0,
+      "nightWeight": 0
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "8f12c63189bd9eb4e89c2b4e3f2f73cc",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 6
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "591a4055bf4b07340a16f70be9d7a3c5",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 5,
+      "duskWeight": 0,
+      "nightWeight": 0
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "cebba8fd26bbb4449a674c00cc71f292",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 6
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

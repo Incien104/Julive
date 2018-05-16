@@ -1,0 +1,148 @@
+{
+  "$type": "RewInV2Da, x",
+  "dpn": "IDS_VIDEO_CONTAINER",
+  "q": {
+    "$type": "[ByPlLe]@, x",
+    "guid": "b7dc1acc03130f94686823f803b6fac0",
+    "TypeName": "ByPlLe"
+  },
+  "cul": null,
+  "gar": [
+    {
+      "$type": "ByLeCuIt, x",
+      "a": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "5fdad12460f39f74ca33e73ef4ee6ddb",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "ByLeCuIt, x",
+      "a": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "df39f5f920724a247b6e4ab39b90a20a",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "26457bf2ab92dae458f59c93f9bb6526",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "ByLeCuIt, x",
+      "a": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "48c7c76482901de4aa835ee01e2a291b",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "0481eaa28b810db418fc1d829b1e8c09",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": [
+    {
+      "$type": "ByLeGeIt, x",
+      "q": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "c5ffa6c253f87554aae1dc7802778e88",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "f8151e143adc54c4b8b2fe8c06502a9f",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 2500000,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@, x",
+        "guid": "10ac2c582b065e44089a5a81f7a63f55",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@, x",
+        "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+        "TypeName": "RaStDa"
+      }
+    },
+    {
+      "$type": "ByLeGeIt, x",
+      "q": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "5216b249d1100ca4584621665e3b00bf",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "f8151e143adc54c4b8b2fe8c06502a9f",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 500000,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@, x",
+        "guid": "c60b8682d7d0ea34fa6d8cdf61423b7d",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      }
+    }
+  ],
+  "bge": {
+    "$type": "GeItBa, x",
+    "minv": 1,
+    "maxv": 1,
+    "rlw": {
+      "$type": "[RewLiWe]@, x",
+      "guid": "00e86b11ba5c081419ec30c3ba38706e",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@, x",
+      "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": {
+    "$type": "[Sp]$, x",
+    "guid": "503ea5fd5707b2a48803e2494c56aea8",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$, x",
+    "guid": "1de9ae464de6358409bafc5e73522f37",
+    "TypeName": "GaOb"
+  },
+  "bic": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 7856937,
+    "r": 4191175
+  },
+  "olc": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 10000000,
+    "r": 10000000
+  },
+  "oli": {
+    "$type": "[Sp]$, x",
+    "guid": "c47de76f3f58bfe499f558c891912397",
+    "TypeName": "Sp"
+  },
+  "devName": "VideoArena7"
+}

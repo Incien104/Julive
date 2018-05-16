@@ -1,0 +1,71 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "Park Rare",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "5995be6925626d749acc224b0e315507",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "2fa5416c32f4887408d9e3a27da5a316",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 5,
+      "duskWeight": 0,
+      "nightWeight": 0
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "5ac2620be9814784c922feb912852737",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 6
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "bfb6ba341d674d44aa5c034398c69b64",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "3b2cf19d4ca58e44bb135505e61f0deb",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 6
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "73469c51d7a50e8498df7e0624c7e1ed",
+    "TypeName": "RaBu"
+  }
+}

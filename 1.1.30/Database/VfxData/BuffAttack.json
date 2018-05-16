@@ -1,0 +1,48 @@
+{
+  "$type": "VfDa",
+  "gon": "Vfx_Hip",
+  "vfxsp": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "vfxspc": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "vfxp": {
+    "$type": "[GaOb]$",
+    "guid": "a3ff8d158f947e24f9d2da93b61ae7f5",
+    "TypeName": "GaOb"
+  },
+  "vfxpc": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "vfxlp": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "vfxlpc": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "fgo": true,
+  "stgo": false,
+  "ss": 6000000,
+  "ms": 10000000,
+  "ls": 13999999,
+  "lpx": false,
+  "lpy": false,
+  "lpz": false,
+  "lrx": false,
+  "lry": false,
+  "lrz": false,
+  "irx": false,
+  "iry": false,
+  "irz": false
+}

@@ -1,0 +1,39 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "208a7d4dd6dc37147822030b705581b6",
+    "TypeName": "Sp"
+  },
+  "id": "SoftCashToIncubator",
+  "name": "IDS_STORE_RARE_INCUBATOR",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe",
+      "ql": [
+        10,
+        20,
+        30,
+        40
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr",
+    "rwd": {
+      "$type": "[RewDa]@",
+      "guid": "eab666ae9722db1498b36c0690d659c6",
+      "TypeName": "RewInDa"
+    }
+  }
+}

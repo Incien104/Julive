@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_GREATERSTUNNINGSTRIKE",
+  "d": "IDS_ABILITY_LONG_DESC_GREATERSTUNNINGSTRIKE",
+  "sd": "IDS_TIP_ABILITY_GREATERSTUNNINGSTRIKE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "8e95452c8b5f35749a868ee2089ae840",
+    "TypeName": "Sp"
+  },
+  "cod": 2,
+  "cu": 0,
+  "c": 3,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "f9ade33d570e3b5478a179f41fb36379",
+        "TypeName": "BeEfDuStDa"
+      }
+    }
+  ],
+  "uc": true
+}

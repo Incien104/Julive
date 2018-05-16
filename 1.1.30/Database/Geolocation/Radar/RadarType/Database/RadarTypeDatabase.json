@@ -1,0 +1,131 @@
+{
+  "$type": "RaTyDB, x",
+  "Key": "DB_RADAR_TYPE",
+  "DB": [
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "79941e0b27b3c8347996fdfca313ea9c",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "d0c8a0b55396aeb4ea5a609dcef655fe",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "02d2d0ac08ec94d47a1cfbe66b0d3118",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "c7560fb45bda7e04e827c938a279aca3",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "d1037f8e9e3f1f6478cc818bf332db07",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "d56324d384a1da34bb04af8b4243dbc2",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "ddfc2c9f4f3d5d3459de12101f7dd200",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "cd1e0a0e878febd4fab9a3fb49b09a86",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "b3b2df066bc5a97468a18206a695d31f",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "cd1afae77155784439bdf5e42c6b5995",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "e74e2bbb8a4dad6428feaca848316595",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "6eb8fbb72327bc94fa5f7ccb65435d8c",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "b30fa16ba251c3b408efec44b01f21d1",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "29a27450c17677b47b97207199ad63d4",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "3c3450682a21b2d40a7c8be61ad2077b",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "8bf0611c4dd3ba74793159d35c36fc36",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "10da45af7fadbd940bf2d479ee89e781",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "3c82c1bdc7875d04d9b397b11c515fe7",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "1943eac4e957b4c42953b187eb80a5a5",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "b2cf2ac11993f31429e076ae58273f3d",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "ceaf781e198b5194fadf30fcd9be654b",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "200e03c04065d59479cdbb6bf0e81eb6",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "6e62259f1599ca247b842b991b3ad8c1",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "8e607a8802dc4354bbd525d9999c4497",
+      "TypeName": "RaTyBu"
+    },
+    {
+      "$type": "[RaTyBu]@, x",
+      "guid": "f9e6696d33d03094ab90ddd5e5c2a3ac",
+      "TypeName": "RaTyBu"
+    }
+  ]
+}

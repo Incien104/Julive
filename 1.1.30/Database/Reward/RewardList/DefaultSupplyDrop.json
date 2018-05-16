@@ -1,0 +1,19 @@
+{
+  "$type": "RewLi",
+  "rl": [
+    {
+      "$type": "RewIt",
+      "q": {
+        "$type": "Ra",
+        "min": 25,
+        "max": 60
+      },
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "bae58f2c75978694990dac5fb730306b",
+        "TypeName": "RewLiWe"
+      }
+    }
+  ],
+  "devName": ""
+}

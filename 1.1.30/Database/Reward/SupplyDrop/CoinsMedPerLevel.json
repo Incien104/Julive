@@ -1,0 +1,106 @@
+{
+  "$type": "RewByLe",
+  "lt": [
+    {
+      "$type": "[RewDa]@",
+      "guid": "9dca59f15b4f038488fa8250ec432eec",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "7b083ad5e0226a74fbe3d6d898007ef3",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "b73c45525739744498c4ab734e9c3256",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "e637e0b9acbd6af488731e3cb7e1da54",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "dd26172d7947b6c42bdb16e41ecae58b",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "eb00ade2aac5f6f45a7613fd32d54ccc",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "0399e20fda35a8c47a904938d64b8592",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "c3eee2fd0a938864db9a22fe637d2878",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "332ec5c61a76ab14295b820ef8f86180",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "54a899840cc0291418fe8c3a2bb175a1",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "09577a7d86dd8df4ba7c98ee3db9eb31",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "a0970756eebf81e41995dd24970bc376",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "88717867f9a5d244a91ceb66c48ad813",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "600c2df9be9b1d243bd7319e95d22be4",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "075dbc4f3b6bc944dacc9a6ff8091b1c",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "557d6a1733a710443bd4ac9fffca20c5",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "fa339d533c411c8458558858794f5bc7",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "21e96627021e2f04da723351707e6147",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "406ddd455acf66444949a968e76af79a",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "b49bfe577b7c11344b6799adafae811c",
+      "TypeName": "RewLi"
+    }
+  ],
+  "devName": ""
+}

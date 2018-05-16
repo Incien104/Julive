@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_DOUBLESTRIKE",
+  "d": "IDS_ABILITY_LONG_DESC_DOUBLESTRIKE",
+  "sd": "IDS_TIP_ABILITY_DOUBLESTRIKE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "1dbd34ad1811efc4cb2c1fa9600efe24",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "3525dba86aef0c341b6773095bb885dd",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

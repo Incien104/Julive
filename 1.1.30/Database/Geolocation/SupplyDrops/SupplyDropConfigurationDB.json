@@ -1,0 +1,26 @@
+{
+  "$type": "SuDrCoDB",
+  "Key": "DB_SUPPLY_DROP_CONF",
+  "DB": [
+    {
+      "$type": "[SuDrCo]@",
+      "guid": "c29ad763bbe3610428978b0af136a5ac",
+      "TypeName": "SuDrCo"
+    },
+    {
+      "$type": "[SuDrCo]@",
+      "guid": "47c1ebc2a6a7ccc44a5bbee7a3ac4fa5",
+      "TypeName": "SuDrCo"
+    },
+    {
+      "$type": "[SuDrCo]@",
+      "guid": "f505a2c64431d71429cfbdb0cd06222b",
+      "TypeName": "SuDrCo"
+    },
+    {
+      "$type": "[SuDrCo]@",
+      "guid": "9ed5a5de36a2d6d4d9952b556b35cabd",
+      "TypeName": "SuDrCo"
+    }
+  ]
+}

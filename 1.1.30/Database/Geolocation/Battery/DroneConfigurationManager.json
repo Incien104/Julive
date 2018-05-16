@@ -1,0 +1,21 @@
+{
+  "$type": "DrCoM, x",
+  "ddc": {
+    "$type": "DrCo, x",
+    "btd": {
+      "$type": "GeBa, x",
+      "mxFul": 300000000,
+      "mxdrn": 1500000000,
+      "mnpr": 50
+    }
+  },
+  "ddv": {
+    "$type": "DrCo, x",
+    "btd": {
+      "$type": "GeBa, x",
+      "mxFul": 500000000,
+      "mxdrn": 2000000000,
+      "mnpr": 50
+    }
+  }
+}

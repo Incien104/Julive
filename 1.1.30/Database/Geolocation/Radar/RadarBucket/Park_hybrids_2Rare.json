@@ -1,0 +1,35 @@
+{
+  "$type": "RaBu",
+  "bgn": "Park hybrids Rare",
+  "dinow": [
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "e46e9a06a4170e34db72a811261f5628",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    },
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "0737d4b564bd84449859d83b9684794c",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "8e3351ded3811db4b860a92beeec87f1",
+    "TypeName": "RaBu"
+  }
+}

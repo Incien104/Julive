@@ -1,0 +1,17 @@
+{
+  "$type": "TuStDa",
+  "tsad": 11,
+  "tsid": 10,
+  "tsd": true,
+  "tsd3d": false,
+  "ticp": false,
+  "trd": 1,
+  "tdl": [
+    {
+      "$type": "[TuDiDa]@",
+      "guid": "f5e14e58a1ea3c04eb51f00ae8e9743f",
+      "TypeName": "TuDiDa"
+    }
+  ],
+  "tsan": "Roster Dino Tapped"
+}

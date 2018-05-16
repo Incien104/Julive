@@ -1,0 +1,12 @@
+{
+  "$type": "CrDNARe",
+  "cr": {
+    "$type": "[CrStDa]@",
+    "guid": "51b01ef2b42be484da2e5188ec066cda",
+    "TypeName": "CrStDa"
+  },
+  "TypeId": 79,
+  "devName": "dilophosa2",
+  "Sprite": null,
+  "SdRewMat": null
+}

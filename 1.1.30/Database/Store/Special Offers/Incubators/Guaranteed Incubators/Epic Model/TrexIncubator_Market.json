@@ -1,0 +1,27 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "4492c5e05e3f3e24dbf0bbfca8a42aa5",
+    "TypeName": "Sp"
+  },
+  "id": "com.ludia.jw2.incub_trex_epic",
+  "name": "IDS_STORE_SPECIAL_OFFER",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ReaMoCo, x",
+    "pid": "com.ludia.jw2.incub_trex_epic"
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "27282a6b62285da4e875a7244fb797c1",
+      "TypeName": "RewInV2Da"
+    }
+  }
+}

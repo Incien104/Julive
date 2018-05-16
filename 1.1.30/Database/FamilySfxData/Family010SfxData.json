@@ -1,0 +1,93 @@
+{
+  "$type": "FaSfDa, x",
+  "bid": {
+    "$type": "[AuEv]$, x",
+    "guid": "ffb619e85a1bb3142a224d5c6f03ecc7",
+    "TypeName": "AuEv"
+  },
+  "bhrl": {
+    "$type": "[AuEv]$, x",
+    "guid": "fb141cad65a76514383124866e770f56",
+    "TypeName": "AuEv"
+  },
+  "bhrr": {
+    "$type": "[AuEv]$, x",
+    "guid": "7c6d16dd0b1f7b9499aa789381a55e2e",
+    "TypeName": "AuEv"
+  },
+  "bwi": {
+    "$type": "[AuEv]$, x",
+    "guid": "b8010a0cba444c241b77d017c18352ab",
+    "TypeName": "AuEv"
+  },
+  "bsr": {
+    "$type": "[AuEv]$, x",
+    "guid": "57ffff6f307869f4f84f35fa983c1ce6",
+    "TypeName": "AuEv"
+  },
+  "bdt": {
+    "$type": "[AuEv]$, x",
+    "guid": "f65e98ea4810e9a409b7d84331a7e736",
+    "TypeName": "AuEv"
+  },
+  "bdti": {
+    "$type": "[AuEv]$, x",
+    "guid": "e9f3552faecf95f4bba12669ffba917f",
+    "TypeName": "AuEv"
+  },
+  "bbri": {
+    "$type": "[AuEv]$, x",
+    "guid": "61792f1704ea9c2428d61455af8940b9",
+    "TypeName": "AuEv"
+  },
+  "bvt": {
+    "$type": "[AuEv]$, x",
+    "guid": "0f88f939603b14a4e85200baceb69341",
+    "TypeName": "AuEv"
+  },
+  "bba": {
+    "$type": "[AuEv]$, x",
+    "guid": "7db788cc2098f67448c44e599960dc84",
+    "TypeName": "AuEv"
+  },
+  "bsp": {
+    "$type": "[AuEv]$, x",
+    "guid": "893b595fa03183549a31df7da9e3945c",
+    "TypeName": "AuEv"
+  },
+  "bsc": {
+    "$type": "[AuEv]$, x",
+    "guid": "ac8d82e6d36e18444a295b637840fc92",
+    "TypeName": "AuEv"
+  },
+  "lid": {
+    "$type": "[AuEv]$, x",
+    "guid": "beca17e2ee384f44d84f6ce6b00b2afe",
+    "TypeName": "AuEv"
+  },
+  "lin": {
+    "$type": "[AuEv]$, x",
+    "guid": "55e65ff7108a2f44880895016ef8210b",
+    "TypeName": "AuEv"
+  },
+  "llu": {
+    "$type": "[AuEv]$, x",
+    "guid": "f694451f0eae6c349a881730ce8f123b",
+    "TypeName": "AuEv"
+  },
+  "rid": {
+    "$type": "[AuEv]$, x",
+    "guid": "ffb619e85a1bb3142a224d5c6f03ecc7",
+    "TypeName": "AuEv"
+  },
+  "dssm": {
+    "$type": "[AuEv]$, x",
+    "guid": "eddc624a0149a4841a4b8b9fb690b9fc",
+    "TypeName": "AuEv"
+  },
+  "dda": {
+    "$type": "[AuEv]$, x",
+    "guid": "1ecb213b012b51e478897f642204f8b2",
+    "TypeName": "AuEv"
+  }
+}

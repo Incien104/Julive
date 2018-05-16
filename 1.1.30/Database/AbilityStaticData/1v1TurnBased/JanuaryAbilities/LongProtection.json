@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_LONGPROTECTION",
+  "d": "IDS_ABILITY_LONG_DESC_LONGPROTECTION",
+  "sd": "IDS_TIP_ABILITY_LONGPROTECTION",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "7fe26ae5bceba114f97e23a28016cc7e",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 4,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f1b1b14ae8d5004468e5fe8606b9b4db",
+        "TypeName": "BeEfDuShDa"
+      }
+    }
+  ],
+  "uc": true
+}

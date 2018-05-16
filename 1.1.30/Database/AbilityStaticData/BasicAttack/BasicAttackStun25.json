@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_BASICATTACKSTUN25",
+  "d": "IDS_ABILITY_LONG_DESC_BASICATTACKSTUN25",
+  "sd": "IDS_TIP_ABILITY_BASICATTACKSTUN25",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "94624d89990a62b4eb75cbad9b629684",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "88cf196854f5ed24cb30bc499f92fd86",
+        "TypeName": "BeEfDuStDa"
+      }
+    }
+  ],
+  "uc": false
+}

@@ -1,0 +1,15 @@
+{
+  "$type": "PaStDa, x",
+  "n": "IDS_EFFECT_DEBUFFIMMUNE",
+  "d": "IDS_EFFECT_DEBUFFIMMUNE_DESC",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "81f4dae318361b345b7ab78219000dd0",
+    "TypeName": "Sp"
+  },
+  "b": {
+    "$type": "[BeDa]@, x",
+    "guid": "85f75a92ff5a6d643b28100b9710f514",
+    "TypeName": "BeEfDuDeImDa"
+  }
+}

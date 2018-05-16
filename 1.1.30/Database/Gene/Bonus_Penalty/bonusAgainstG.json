@@ -1,0 +1,9 @@
+{
+  "$type": "RPSAdDa",
+  "g": {
+    "$type": "[RPSStDa]@",
+    "guid": "423ea1736c538ec448dc6b1ba22940f0",
+    "TypeName": "RPSStDa"
+  },
+  "e": 15000000
+}

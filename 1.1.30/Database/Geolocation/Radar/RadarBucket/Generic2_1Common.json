@@ -1,0 +1,47 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "Generic2 Common",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "6e0a14e7ee9638a489fd789ab338c39a",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 0,
+      "duskWeight": 0,
+      "nightWeight": 6
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "d1f0d687b433300449a7f859dfa26d50",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "eafaf81bfe116e74181acabdb6ccc2e2",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 5,
+      "duskWeight": 0,
+      "nightWeight": 0
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "bc262a57316d47842a8677dd825061b5",
+    "TypeName": "RaBu"
+  }
+}

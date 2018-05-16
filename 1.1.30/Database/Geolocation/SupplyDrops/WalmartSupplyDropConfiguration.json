@@ -1,0 +1,23 @@
+{
+  "$type": "SuDrCo, x",
+  "sdp": {
+    "$type": "[GaOb]$, x",
+    "guid": "e0004629693dea647964d3f6de658639",
+    "TypeName": "GaOb"
+  },
+  "ccd": 15,
+  "sdt": "",
+  "sdgpid": "",
+  "sdplt": "walmart",
+  "rew": {
+    "$type": "[RewDa]@, x",
+    "guid": "440a7d2777cddbf49902cdc4a235b0cf",
+    "TypeName": "RewLi"
+  },
+  "tease": {
+    "$type": "[RewDa]@, x",
+    "guid": "",
+    "TypeName": "RewBaInDa"
+  },
+  "sdl": null
+}

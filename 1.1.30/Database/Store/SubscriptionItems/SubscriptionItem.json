@@ -1,0 +1,16 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "0a261730d2c4ea7459a4bfaf0b51dc81",
+    "TypeName": "Sp"
+  },
+  "id": "com.ludia.jw2.subscription",
+  "name": "[VIP]",
+  "slvl": false,
+  "cost": {
+    "$type": "ReaMoCo",
+    "pid": "com.ludia.jw2.subscription"
+  },
+  "prd": null
+}

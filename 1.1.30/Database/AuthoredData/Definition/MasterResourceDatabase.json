@@ -1,0 +1,566 @@
+{
+  "$type": "ResDB",
+  "Key": "DB_RESOURCES",
+  "DB": [
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "02b1c6b034b11d847b8a6d1d5a1651ce",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "d0fdef6227e8dd349a70eabb7d4e7ab3",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "0c91ce97282dc6b4cb1b4ceb2ab7dbf2",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "521d6c1a9c562d043bced52dcd23643e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "d0f786a881fe8c446938b2ba9b37fa27",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "05e51a676b9c6e44dbce4852e32b6ef0",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "4c6f818d8c37f3e4ca6e4c4770e54d33",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "2067c12776bbba743999923aa9ad6866",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "d45a078c30e223a42909337e3e91b9e0",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "17b5a8c7983eec540859cc3ef6da211a",
+      "TypeName": "CuReDa"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "4cc604dc34d45894583dcbe01f941a0a",
+      "TypeName": "CuReDa"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "8968800bb22c43f4a96ff3fc0d5de95e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "5d3f1412e48d69048af6e1e3f978a55c",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "611f80651b46cbe40aa1f0c30106d51c",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "3f648ce7ce95fbd4d981f83295771037",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "434074558d01ec74887252a5474d71b3",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "463ac4c5c10a68a498c00ea2025dcad0",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "9908e68884be82047b55a3c440079dd7",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "21f26df267e7cca469d5343afb688949",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "b6347067cb33dda499acd2dca9e4edc8",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "c13521bb290913648aa9e54da2a26ef1",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "810761acd9e93d0489873e4eea2fe550",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "511414515b2481a41a25d5530cb0a4c5",
+      "TypeName": "CuReDa"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "1bf1f41471a23384a984de9a31ca37d3",
+      "TypeName": "CuReDa"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "dd8da7451e0ff3f49b0a9f3f52aba3a3",
+      "TypeName": "CuReDa"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "293795a7c97631c4287c9385e5319e08",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "a263e6cd84ea444498a8f3fca8280b8e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "ccc931e2c6fc97c43bf1b9450a81cab6",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "056ccc2b5239bff41a4a7e263499a52c",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "12dba094edd1904418ee181f926d0e3e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "2730bb19e2b8cc74b86489fc73701f8b",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "87f7500784920784d9564e4d6f48c4c7",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "1433814922f2d164b8e52126b9d74c4e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "5f2904e64bec7e8448af03a477cf108e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "d9facd686ff266a41a883beddf96dc58",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "b361efb9b5d4fae499eb0631ed147620",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "159e4c1774bd73742837e30583959e62",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "fe35c0f688bfaa14f8c3334a513c258c",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "b611db96e430ef947b76a2a79e409605",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "e9371468517a5264394c1ad3320f8b2c",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "2c199ce03e5e8ae4ca338f68a7188339",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "c996a9d4237b9f442be004edce06141c",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "9afa5b1cffdb5a449adf3942c8c4bc79",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "e67af58241e98e74c9d3e78bdab8046d",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "662fb03f3d3410941b1756f90c2d83f8",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "9b4490579bacb854185892d2b4eae7cf",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "5e1f24f396666d44fb65de789c21c1e7",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "9950f780fa108e540807031cf97983d9",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "cbc8132752355674eb59f91404fd7c7e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "c926a0687fbd0174ba633ca0c7b71eeb",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "9a776b3c9b1ace44892b0902c5b8d581",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "2d9c93404058a60448cd3839c166ec5c",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "b074c6bd28875da408aea3764ab972f1",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "2ee5de9e6bca448428f43558058ed971",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "f3744f173412fee4b98a8a4d56783d36",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "b31c88586021ce04684cb489fce790ca",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "084bd960b52314f42ad4642e02075c43",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "aacf20435a68324478c5d8cda70514b9",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "9841409f6a876fe47857fe2d2282b8b5",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "efff833f047ded64c8cbbbb89ee1884a",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "4f2bec30d53173a42a4b058e0d690f45",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "12093a6c182a3714bb8825128998eea5",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "d728524ab57d51945b190a43dd4430df",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "49e58e8fc063ab642b907df34bd70b36",
+      "TypeName": "CuReDa"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "1f97ac17a0380e94fb868195c0dbb85f",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "0730e6816269a0d4cad1d83401048864",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "1902b576f258a1d48b86c8eff6e3365d",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "d4057184cfec30e4d8acca5fb468d583",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "a6a2bd78f2b7ba946b9681dc3f139e4e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "618226d51167ae44a93b146611278163",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "51becd99ed2505044a6bb1aecf184830",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "de0d736e20d16534c8384cf7a919371b",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "8987f6fd09c6fc240ad00d30411b4d6d",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "a54483aef50d3d24bbfb0840ea230720",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "d83a320992a29de469efe37910fe2172",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "4a558ca544ae47c479e4bb170588c620",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "982019941c8529d43a960b41079bb56d",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "12527a93663e8a64d87982cc555790f2",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "23d3cb61ba011ba42acb0d97a25a0f2d",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "92aa3f0b16af40546843c76dc50bc949",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "f4d73d812d5a643408ec767be97ac393",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "13c3838688effd1428570fc8edd18d7c",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "77f72f9f9ab9e3b48b9af04f4e688cf6",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "093e6f56e773e234c9a690e0cb6b956e",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "21bec980113e3da48af92500b329b001",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "ec3bc0ae11ebd6e499bdb9a6175b0b39",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "470ab669e56476944bec65d91930ad1b",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "f0d9e4e3e83f1214287cea93b4853a89",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "a9729146badd8734baab7af2afc7e186",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "05839f0c43c7a5f45b5fc9f1db844595",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "b46c9e4d8269fbc4f9c8492bae0896cb",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "780fc224915dcc14ab4df5f141387054",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "36abeb54eefc86442aba26f07cc6b0ee",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "4151541d966ebfe4589c5f52dcea91fa",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "fee3e3ca04998de48a5caf810fe70c82",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "224c8658bc5005b4ab68783e4ece0fc2",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "53dbaa619da923a4b881dc0c0f2037dd",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "b4fe8df75e1bba249a277eebd43d27e8",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "08667a1a03ba23f41ab1386ce58bcd47",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "5d527d94cdc62be4a81115a619011397",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "3b602606ad0c36c43be3b957692b905f",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "7ee5541aaa4abb54b8eddb920807b86b",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "20b31b0871a5d9f4e968018b603c5541",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "8a1a6ee15a95a4d4097a132c49dddd71",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "fd3aedf73510d1e439f92695e79b4718",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "a801e78cf57d8a14a86fb23f61ac2034",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "11b372eccace6be409a8a1dfec8311a4",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "7dafc44e7f1ea7748a40b8065fa41171",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "fd73516d9e47938408da6ef38e317e42",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "3f941f3040635324b93c209f262e1af6",
+      "TypeName": "CrDNARe"
+    },
+    {
+      "$type": "[ResTyDa]@",
+      "guid": "ca65e545d3bba104f84c0230fdd9056d",
+      "TypeName": "CrDNARe"
+    }
+  ]
+}

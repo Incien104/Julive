@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_EXPOSEWEAKSPOT",
+  "d": "IDS_ABILITY_LONG_DESC_EXPOSEWEAKSPOT",
+  "sd": "IDS_TIP_ABILITY_EXPOSEWEAKSPOT",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "48fa95738ec82fe43899c65d68092dcf",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "0b5f290cf57543d4a91965f74d77eee5",
+        "TypeName": "BeEfDuVuDa"
+      }
+    }
+  ],
+  "uc": true
+}

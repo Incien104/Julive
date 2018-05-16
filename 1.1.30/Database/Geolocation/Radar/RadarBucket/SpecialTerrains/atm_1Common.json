@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu",
+  "bgn": "atm common",
+  "dinow": [
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "d1f0d687b433300449a7f859dfa26d50",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$type": "ArDB",
+  "Key": "DB_ARENA",
+  "DB": [
+    {
+      "$type": "[ArStDa]@",
+      "guid": "8d218386c0c8bd646958d1faeb6a5938",
+      "TypeName": "ArStDa"
+    },
+    {
+      "$type": "[ArStDa]@",
+      "guid": "532862a0b26c9d24bb0a4f55d5571e72",
+      "TypeName": "ArStDa"
+    },
+    {
+      "$type": "[ArStDa]@",
+      "guid": "74ee640b12ac4de41ba9a2529478ab2e",
+      "TypeName": "ArStDa"
+    },
+    {
+      "$type": "[ArStDa]@",
+      "guid": "3253cb7bb3a094e42ba026eeb3ec93c0",
+      "TypeName": "ArStDa"
+    },
+    {
+      "$type": "[ArStDa]@",
+      "guid": "58fbe9af7c32a114b9dfa6b6ff2dee31",
+      "TypeName": "ArStDa"
+    },
+    {
+      "$type": "[ArStDa]@",
+      "guid": "8e2a172838a14274bbfd05dc284d6d7c",
+      "TypeName": "ArStDa"
+    },
+    {
+      "$type": "[ArStDa]@",
+      "guid": "904f4f5a6188d4946ada6711d5e59dc4",
+      "TypeName": "ArStDa"
+    }
+  ]
+}
