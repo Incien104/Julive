@@ -1,0 +1,18 @@
+{
+  "$type": "FaChShDa, x",
+  "csc": {
+    "$type": "[GaOb]$, x",
+    "guid": "f564f0c5568a3504cb6da72807599c54",
+    "TypeName": "GaOb"
+  },
+  "fc": {
+    "$type": "[GaOb]$, x",
+    "guid": "e9139253d55775642bce1e2c62af3f54",
+    "TypeName": "GaOb"
+  },
+  "csn": {
+    "$type": "[GaOb]$, x",
+    "guid": "090ebb451752e724ba0512ca93e55f62",
+    "TypeName": "GaOb"
+  }
+}
