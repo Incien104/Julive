@@ -1,0 +1,82 @@
+{
+  "$type": "RewInDa",
+  "q": 500,
+  "cul": [
+    {
+      "$type": "PrIt",
+      "a": 1800,
+      "max": 2200,
+      "step": 1,
+      "p": 10000000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": [
+    {
+      "$type": "GeIt",
+      "min": 37,
+      "ex": 1,
+      "exp": 5000000,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "dded4fa9aa51db84b8131ef8916943bd",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "",
+        "TypeName": "RaStDa"
+      }
+    },
+    {
+      "$type": "GeIt",
+      "min": 75,
+      "ex": 1,
+      "exp": 0,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "f334c2d651aaa1f42b5a5f3fcfd9e04d",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "",
+        "TypeName": "RaStDa"
+      }
+    }
+  ],
+  "bge": {
+    "$type": "GeItBa",
+    "minv": 1,
+    "maxv": 2,
+    "rlw": {
+      "$type": "[RewLiWe]@",
+      "guid": "2d2a1ffdb8b4b3f4f93e42e81ebcf360",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@",
+      "guid": "",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": {
+    "$type": "[Sp]$",
+    "guid": "823fc9045ce590349927d8a3c157fbbf",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$",
+    "guid": "1de9ae464de6358409bafc5e73522f37",
+    "TypeName": "GaOb"
+  },
+  "devName": ""
+}

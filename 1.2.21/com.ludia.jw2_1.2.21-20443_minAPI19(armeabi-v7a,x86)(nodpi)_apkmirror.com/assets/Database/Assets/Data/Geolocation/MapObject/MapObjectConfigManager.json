@@ -1,0 +1,17 @@
+{
+  "$type": "MoCfgMg, x",
+  "dsd": [
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "30bb0c21433a460488a8a25fb0350a50",
+      "TypeName": "MoCfg"
+    }
+  ],
+  "vsp": [
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "7bfc0db7c5001184b8b96aca5b5f6526",
+      "TypeName": "MoCfg"
+    }
+  ]
+}

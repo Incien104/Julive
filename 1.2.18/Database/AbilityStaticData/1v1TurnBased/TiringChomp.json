@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_TIRINGCHOMP",
+  "d": "IDS_ABILITY_LONG_DESC_TIRINGCHOMP",
+  "sd": "IDS_TIP_ABILITY_TIRINGCHOMP",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "f9918bf9799b9a445970fbd2bfb5ab94",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "4ce42bab9e92b9c4aa2964c004ccae4b",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

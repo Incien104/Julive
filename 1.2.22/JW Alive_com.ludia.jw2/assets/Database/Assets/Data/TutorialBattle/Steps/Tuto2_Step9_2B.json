@@ -1,0 +1,15 @@
+{
+  "$type": "TuBaStDa, x",
+  "tbai": 2,
+  "tbii": 3,
+  "dui": true,
+  "vh": true,
+  "pp": "MiddleTop",
+  "tddl": [
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "124d8bf2054d5274fafd8380095ddd64",
+      "TypeName": "TuDiDa"
+    }
+  ]
+}

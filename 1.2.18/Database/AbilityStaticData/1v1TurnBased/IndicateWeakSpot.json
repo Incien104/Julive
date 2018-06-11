@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_INDICATEWEAKSPOT",
+  "d": "IDS_ABILITY_LONG_DESC_INDICATEWEAKSPOT",
+  "sd": "IDS_TIP_ABILITY_INDICATEWEAKSPOT",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "b179a6c01877a9d4fa3b41a980ad33a5",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 1,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "66befddd9a8fa9c4c82018a2b8bdb671",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

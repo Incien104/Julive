@@ -1,0 +1,11 @@
+{
+  "$type": "LbDB, x",
+  "Key": "DB_LEADERBOARD",
+  "DB": [
+    {
+      "$type": "[LbDa]@, x",
+      "guid": "18905bf5fc14be241ae807becf4f1a70",
+      "TypeName": "LbDa"
+    }
+  ]
+}

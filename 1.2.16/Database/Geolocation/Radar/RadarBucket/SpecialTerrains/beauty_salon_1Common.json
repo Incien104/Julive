@@ -1,0 +1,35 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "beauty_salon Common",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "51b01ef2b42be484da2e5188ec066cda",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "6e0a14e7ee9638a489fd789ab338c39a",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

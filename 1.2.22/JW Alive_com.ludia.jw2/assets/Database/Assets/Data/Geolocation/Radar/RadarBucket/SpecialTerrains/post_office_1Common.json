@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "post_office Common",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "d68154523709065428673ee33dca2e13",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

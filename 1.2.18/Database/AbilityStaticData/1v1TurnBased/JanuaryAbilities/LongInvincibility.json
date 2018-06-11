@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_LONGINVINCIBILITY",
+  "d": "IDS_ABILITY_LONG_DESC_LONGINVINCIBILITY",
+  "sd": "IDS_TIP_ABILITY_LONGINVINCIBILITY",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "5f183b21569fa01439e2609a262a7007",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 4,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "1a3bfbea3ff489747a71bab5b5040147",
+        "TypeName": "BeEfDuShDa"
+      }
+    }
+  ],
+  "uc": true
+}

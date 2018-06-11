@@ -1,0 +1,89 @@
+{
+  "$type": "FaSfDa, x",
+  "bid": {
+    "$type": "[AuEv]$, x",
+    "guid": "a7ff5786acbc62e44998eb184d4964ef",
+    "TypeName": "AuEv"
+  },
+  "bhrl": {
+    "$type": "[AuEv]$, x",
+    "guid": "74bb3f4fb0db2d84b89d027fdf537375",
+    "TypeName": "AuEv"
+  },
+  "bhrr": {
+    "$type": "[AuEv]$, x",
+    "guid": "32809872576571949b15deb17aad2808",
+    "TypeName": "AuEv"
+  },
+  "bwi": {
+    "$type": "[AuEv]$, x",
+    "guid": "20e530703c3517a48b2851d344fbbd08",
+    "TypeName": "AuEv"
+  },
+  "bsr": {
+    "$type": "[AuEv]$, x",
+    "guid": "e96ba3aba6e8b274e8b6f41aba476ead",
+    "TypeName": "AuEv"
+  },
+  "bdt": {
+    "$type": "[AuEv]$, x",
+    "guid": "18afa18de337f3a41921f3191e023bfd",
+    "TypeName": "AuEv"
+  },
+  "bdti": {
+    "$type": "[AuEv]$, x",
+    "guid": "358609e3e6157ac4b92abc295aa242a4",
+    "TypeName": "AuEv"
+  },
+  "bbri": {
+    "$type": "[AuEv]$, x",
+    "guid": "c57c0bb90ab6e9840850313dbcd163fc",
+    "TypeName": "AuEv"
+  },
+  "bvt": {
+    "$type": "[AuEv]$, x",
+    "guid": "bb48847efc5368d498d7600e68194be1",
+    "TypeName": "AuEv"
+  },
+  "bba": {
+    "$type": "[AuEv]$, x",
+    "guid": "ca7525b41498b7243b8d20fa6d31e127",
+    "TypeName": "AuEv"
+  },
+  "bsp": {
+    "$type": "[AuEv]$, x",
+    "guid": "9e1a0069d3475cb478759a451548d58a",
+    "TypeName": "AuEv"
+  },
+  "bsc": {
+    "$type": "[AuEv]$, x",
+    "guid": "2ba284f6c74004045b99bbd08f0fbb14",
+    "TypeName": "AuEv"
+  },
+  "lid": {
+    "$type": "[AuEv]$, x",
+    "guid": "67020d27a6d4ae247bfe3e9eb9b8e8bc",
+    "TypeName": "AuEv"
+  },
+  "lin": {
+    "$type": "[AuEv]$, x",
+    "guid": "7bf82c2079d8a064792e378e4258971b",
+    "TypeName": "AuEv"
+  },
+  "llu": {
+    "$type": "[AuEv]$, x",
+    "guid": "f2aafe974a219064db123d6208f4a7df",
+    "TypeName": "AuEv"
+  },
+  "rid": null,
+  "dssm": {
+    "$type": "[AuEv]$, x",
+    "guid": "8c2bd7a01258b6e42bac8418ecd82f9d",
+    "TypeName": "AuEv"
+  },
+  "dda": {
+    "$type": "[AuEv]$, x",
+    "guid": "cf4568aff91f2944bb69091fe7501187",
+    "TypeName": "AuEv"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_DEFENSE_SHATTERING_RAMPAGE",
+  "d": "IDS_TIP_ABILITY_DEFENSE_SHATTERING_RAMPAGE",
+  "sd": "IDS_ABILITY_LONG_DESC_DEFENSE_SHATTERING_RAMPAGE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "66eb90c94824da841b0336155e77a61f",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "4902dc49182bfd5498c497be30fe2ebd",
+        "TypeName": "BeEfInDeShDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "35f56b9cf4e5ceb459970f1193d02fad",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

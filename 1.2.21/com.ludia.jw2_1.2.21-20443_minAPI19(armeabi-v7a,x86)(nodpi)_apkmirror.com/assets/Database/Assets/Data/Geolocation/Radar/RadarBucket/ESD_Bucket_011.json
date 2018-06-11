@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "ESD_Bucket_011",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "6de804984b44fb5469d57aa0cd8bd3c6",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

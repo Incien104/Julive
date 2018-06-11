@@ -1,0 +1,15 @@
+{
+  "$type": "PaStDa, x",
+  "n": "IDS_EFFECT_DAMAGEONHIT50",
+  "d": "",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "dd4c16fb6f0c83e49a1ae594c3bb20c0",
+    "TypeName": "Sp"
+  },
+  "b": {
+    "$type": "[BeDa]@, x",
+    "guid": "11a4eb52694c47f47afe26e70dad8b22",
+    "TypeName": "BeEfDuDaOnHiDa"
+  }
+}

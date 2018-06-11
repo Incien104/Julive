@@ -1,0 +1,42 @@
+{
+  "$type": "RewLi, x",
+  "rl": [
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 7000
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "67af906eca33dff49a64a6db2add74f6",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 250000
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 1
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "418da7184ad24194b9cd3cdff972e123",
+        "TypeName": "RewInV2Da"
+      }
+    }
+  ],
+  "devName": "BundleEpic7000HC250000C"
+}

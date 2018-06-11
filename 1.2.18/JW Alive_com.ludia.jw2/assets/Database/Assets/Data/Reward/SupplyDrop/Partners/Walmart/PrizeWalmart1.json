@@ -1,0 +1,33 @@
+{
+  "$type": "RewLiWe, x",
+  "wil": [
+    {
+      "$type": "WeIt, x",
+      "w": 400,
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "5a837578de7995b4d8d90b1375c841a3",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt, x",
+      "w": 200,
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "e23bfef5b65247743bb92ad9a1fc2690",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt, x",
+      "w": 400,
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "8f81b7e31eacd2d4a9676f3f9cc547a5",
+        "TypeName": "RewLi"
+      }
+    }
+  ],
+  "devName": ""
+}

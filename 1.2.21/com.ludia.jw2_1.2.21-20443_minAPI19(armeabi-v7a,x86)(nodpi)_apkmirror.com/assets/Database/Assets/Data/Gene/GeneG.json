@@ -1,0 +1,11 @@
+{
+  "$type": "RPSStDa",
+  "dn": "Gene G",
+  "lkn": "LOCALIZATION_KEY",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "99931d72b5b67ff468f3464b136fd94d",
+    "TypeName": "Sp"
+  },
+  "al": []
+}

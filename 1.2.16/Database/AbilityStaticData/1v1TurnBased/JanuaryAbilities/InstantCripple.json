@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_INSTANTCRIPPLE",
+  "d": "IDS_ABILITY_LONG_DESC_INSTANTCRIPPLE",
+  "sd": "IDS_TIP_ABILITY_INSTANTCRIPPLE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "d701972ab46352c498cb2132c7cf2b8f",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 1,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "a589f0707596bf44398d9104756ab02b",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

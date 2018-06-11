@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_LESSERTOUGHNESS",
+  "d": "IDS_ABILITY_LONG_DESC_LESSERTOUGHNESS",
+  "sd": "IDS_TIP_ABILITY_LESSERTOUGHNESS",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 2,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "02b22fa9cc5db6f43b6bc02b96f91d4c",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

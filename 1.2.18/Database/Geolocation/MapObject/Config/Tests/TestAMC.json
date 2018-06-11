@@ -1,0 +1,32 @@
+{
+  "$type": "MoCfg, x",
+  "op": {
+    "$type": "[GaOb]$, x",
+    "guid": "0c3c5a6f663d0a9449e2454aa71a762f",
+    "TypeName": "GaOb"
+  },
+  "fl": [
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "7018905df49c8294ab9bc0b17d6567db",
+      "TypeName": "MoFSdD"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "0f5093288a96fd547b103a65687f755b",
+      "TypeName": "MoFBh"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "dea7aa0fe0b2966469ec44817f21a423",
+      "TypeName": "MoFIC"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "a2957c643bccecd45a78245aa96a6d7e",
+      "TypeName": "MoFLN"
+    }
+  ],
+  "p": 1,
+  "t": "AMC_Test_Near"
+}

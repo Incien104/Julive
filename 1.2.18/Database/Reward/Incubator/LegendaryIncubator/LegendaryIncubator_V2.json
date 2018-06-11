@@ -1,0 +1,96 @@
+{
+  "$type": "RewInV2Da, x",
+  "dpn": "IDS_STORE_ITEM_LEGENDARY_INCUBATOR",
+  "q": {
+    "$type": "[ByPlLe]@, x",
+    "guid": "dda145fe42c1c804598ca851335229a9",
+    "TypeName": "ByPlLe"
+  },
+  "cul": null,
+  "gar": [
+    {
+      "$type": "ByLeCuIt, x",
+      "a": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "dd8ea3209fcb7074daa2d8584cf96c6f",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": [
+    {
+      "$type": "ByLeGeIt, x",
+      "q": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "8f86b59d74a6828469952de28c4c8e36",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "1b4484324bb54274b9a39781ae65a2c7",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 10000000,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@, x",
+        "guid": "1c17d80f728cbf64299e64778315c6bc",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@, x",
+        "guid": "3a79f05ec39301d4083f30d662a439cf",
+        "TypeName": "RaStDa"
+      }
+    }
+  ],
+  "bge": {
+    "$type": "GeItBa, x",
+    "minv": 1,
+    "maxv": 1,
+    "rlw": {
+      "$type": "[RewLiWe]@, x",
+      "guid": "2d2a1ffdb8b4b3f4f93e42e81ebcf360",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@, x",
+      "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": {
+    "$type": "[Sp]$, x",
+    "guid": "f8284bf0cb2830842bc576b9e014c062",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$, x",
+    "guid": "6da3d20e4e0713a4486812c4e36a453b",
+    "TypeName": "GaOb"
+  },
+  "bic": {
+    "a": 10000000,
+    "b": 4196076,
+    "g": 666666,
+    "r": 9019606
+  },
+  "olc": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 10000000,
+    "r": 10000000
+  },
+  "oli": {
+    "$type": "[Sp]$, x",
+    "guid": "b0b046cdd3106924db20bc7d8976b302",
+    "TypeName": "Sp"
+  },
+  "devName": "LegendaryV2"
+}

@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_INDOMITABLESHELL",
+  "d": "IDS_ABILITY_LONG_DESC_INDOMITABLESHELL",
+  "sd": "IDS_TIP_ABILITY_INDOMITABLESHELL",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "5f183b21569fa01439e2609a262a7007",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

@@ -1,0 +1,16 @@
+{
+  "$type": "CrDNARe, x",
+  "cr": {
+    "$type": "[CrStDa]@, x",
+    "guid": "c04704d5cd102144a92fee784f5ac06c",
+    "TypeName": "CrStDa"
+  },
+  "TypeId": 116,
+  "devName": "purussaur2",
+  "Sprite": null,
+  "SpriteVip": null,
+  "SdRewMat": null,
+  "VsdRewMat": null,
+  "Max": 9999999,
+  "il": null
+}

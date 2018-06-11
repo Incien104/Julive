@@ -1,0 +1,57 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "71667a4a7beb40a489e95b49778186b9",
+    "TypeName": "Sp"
+  },
+  "id": "Stegodeus_Ingredients",
+  "name": "IDS_STORE_SPECIAL_OFFER",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        400,
+        400,
+        440,
+        470,
+        500,
+        540,
+        570,
+        600,
+        640,
+        670,
+        700,
+        740,
+        770,
+        800,
+        840,
+        870,
+        900,
+        940,
+        970,
+        1000
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "250ef929a484fe44c809ff34dfa04c3b",
+      "TypeName": "RewInV2Da"
+    }
+  },
+  "fcuo": false,
+  "prtosl": null
+}

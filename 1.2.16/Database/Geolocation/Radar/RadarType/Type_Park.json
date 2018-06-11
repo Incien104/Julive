@@ -1,0 +1,141 @@
+{
+  "$type": "RaTyBu, x",
+  "rtbn": "park",
+  "rtbb": [
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "4960f2269d82cc94fa95b8fb49fddad2",
+        "TypeName": "RaBu"
+      },
+      "weight": 1840
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "81184376fbbca92478c7126404fa6cb1",
+        "TypeName": "RaBu"
+      },
+      "weight": 140
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "228fb8ad7dde4f54580f103b182b6cbd",
+        "TypeName": "RaBu"
+      },
+      "weight": 10
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "a8eff784a9ea3b746a89a488c4e4ed5b",
+        "TypeName": "RaBu"
+      },
+      "weight": 8
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "cddbd28af42460b4f9cdd93561b9682d",
+        "TypeName": "RaBu"
+      },
+      "weight": 2
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "bc262a57316d47842a8677dd825061b5",
+        "TypeName": "RaBu"
+      },
+      "weight": 124740
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "73469c51d7a50e8498df7e0624c7e1ed",
+        "TypeName": "RaBu"
+      },
+      "weight": 9900
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "360601316710bae479640f0ae82cf0c9",
+        "TypeName": "RaBu"
+      },
+      "weight": 693
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "8e3351ded3811db4b860a92beeec87f1",
+        "TypeName": "RaBu"
+      },
+      "weight": 0
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "3f07010026ee50f4f8a4f876820e0c37",
+        "TypeName": "RaBu"
+      },
+      "weight": 99
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "69b31d071a1a2734f9e203a8f00fd6b2",
+        "TypeName": "RaBu"
+      },
+      "weight": 57420
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "881c251c9c2b04d46a02c61d73f886a2",
+        "TypeName": "RaBu"
+      },
+      "weight": 3960
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "d3b321ab1f759a04fb2fcf47bef2754c",
+        "TypeName": "RaBu"
+      },
+      "weight": 297
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "b8c4d8c3dc9bea7429a60a5a78c1d3e1",
+        "TypeName": "RaBu"
+      },
+      "weight": 396
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "e71aaeecfea6a064f890b5e64df76325",
+        "TypeName": "RaBu"
+      },
+      "weight": 99
+    }
+  ]
+}

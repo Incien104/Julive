@@ -1,0 +1,16 @@
+{
+  "$type": "MoFSdD, x",
+  "sdt": "normal",
+  "ccd": 15,
+  "rew": {
+    "$type": "[RewDa]@, x",
+    "guid": "440a7d2777cddbf49902cdc4a235b0cf",
+    "TypeName": "RewLi"
+  },
+  "trew": {
+    "$type": "[RewDa]@, x",
+    "guid": "74b6b262c6332424ea07fd9eaa2445b0",
+    "TypeName": "RewLi"
+  },
+  "sdl": null
+}

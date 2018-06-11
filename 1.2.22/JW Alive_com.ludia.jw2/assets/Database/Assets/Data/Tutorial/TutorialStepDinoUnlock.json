@@ -1,0 +1,17 @@
+{
+  "$type": "TuStDa",
+  "tsad": 8,
+  "tsid": 7,
+  "tsd": true,
+  "tsd3d": false,
+  "ticp": true,
+  "trd": 1,
+  "tdl": [
+    {
+      "$type": "[TuDiDa]@",
+      "guid": "10f1d18a10b0b77468b593279230a4f2",
+      "TypeName": "TuDiDa"
+    }
+  ],
+  "tsan": "Dino Unlocked"
+}

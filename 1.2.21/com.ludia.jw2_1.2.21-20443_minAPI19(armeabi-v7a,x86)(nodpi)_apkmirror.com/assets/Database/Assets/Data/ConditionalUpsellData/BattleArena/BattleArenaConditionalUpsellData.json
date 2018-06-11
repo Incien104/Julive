@@ -1,0 +1,173 @@
+{
+  "$type": "CoUpDaLC, x",
+  "cudal": [
+    {
+      "$type": "CoUpDa, x",
+      "l": 2,
+      "t": 1,
+      "sid": {
+        "$type": "[StItDa]@, x",
+        "guid": "f26173ce47c024f488e2f3f6b29c9f82",
+        "TypeName": "StItDa"
+      },
+      "oii": {
+        "$type": "[Sp]$, x",
+        "guid": "b36a01c409fb9204ca4f0c9e9a068dc8",
+        "TypeName": "Sp"
+      },
+      "oibi": {
+        "$type": "[Sp]$, x",
+        "guid": "0ae1a360bf405614ab28ed80ba965f0a",
+        "TypeName": "Sp"
+      },
+      "c": {
+        "a": 10000000,
+        "b": 9333332,
+        "g": 4862745,
+        "r": 1019605
+      },
+      "od": "",
+      "ov": 2
+    },
+    {
+      "$type": "CoUpDa, x",
+      "l": 3,
+      "t": 1,
+      "sid": {
+        "$type": "[StItDa]@, x",
+        "guid": "34e42289e2e84e94199ba41616ba4607",
+        "TypeName": "StItDa"
+      },
+      "oii": {
+        "$type": "[Sp]$, x",
+        "guid": "9b697cdd282650243875c2fb712993a5",
+        "TypeName": "Sp"
+      },
+      "oibi": {
+        "$type": "[Sp]$, x",
+        "guid": "b08811582d1b12a4c9f166fc611783a2",
+        "TypeName": "Sp"
+      },
+      "c": {
+        "a": 10000000,
+        "b": 9333332,
+        "g": 4862745,
+        "r": 1019605
+      },
+      "od": "",
+      "ov": 2
+    },
+    {
+      "$type": "CoUpDa, x",
+      "l": 4,
+      "t": 1,
+      "sid": {
+        "$type": "[StItDa]@, x",
+        "guid": "f0913c889c3c2d54b9462a0d5493b8cc",
+        "TypeName": "StItDa"
+      },
+      "oii": {
+        "$type": "[Sp]$, x",
+        "guid": "ec7327439bb16194c99a6b88e7552497",
+        "TypeName": "Sp"
+      },
+      "oibi": {
+        "$type": "[Sp]$, x",
+        "guid": "9f08062b3e716a342a40a9923aaa8cc8",
+        "TypeName": "Sp"
+      },
+      "c": {
+        "a": 10000000,
+        "b": 0,
+        "g": 6000000,
+        "r": 10000000
+      },
+      "od": "",
+      "ov": 2
+    },
+    {
+      "$type": "CoUpDa, x",
+      "l": 5,
+      "t": 1,
+      "sid": {
+        "$type": "[StItDa]@, x",
+        "guid": "0665062171dc86443adf0ee539c50579",
+        "TypeName": "StItDa"
+      },
+      "oii": {
+        "$type": "[Sp]$, x",
+        "guid": "ac9c7301bd9e2fa46b2956a18d3e8a39",
+        "TypeName": "Sp"
+      },
+      "oibi": {
+        "$type": "[Sp]$, x",
+        "guid": "c9da89375ccd59b46b6271e57dadba7f",
+        "TypeName": "Sp"
+      },
+      "c": {
+        "a": 10000000,
+        "b": 0,
+        "g": 6000000,
+        "r": 10000000
+      },
+      "od": "",
+      "ov": 2
+    },
+    {
+      "$type": "CoUpDa, x",
+      "l": 6,
+      "t": 1,
+      "sid": {
+        "$type": "[StItDa]@, x",
+        "guid": "e72c00aacdc3799459e3d8768cc4784a",
+        "TypeName": "StItDa"
+      },
+      "oii": {
+        "$type": "[Sp]$, x",
+        "guid": "20edc54c22b69ac438e4f8dd0f59e935",
+        "TypeName": "Sp"
+      },
+      "oibi": {
+        "$type": "[Sp]$, x",
+        "guid": "045703f2493bdc2489547d376a34998f",
+        "TypeName": "Sp"
+      },
+      "c": {
+        "a": 10000000,
+        "b": 0,
+        "g": 6000000,
+        "r": 10000000
+      },
+      "od": "IDS_TEST_LOCALIZATION_GAME",
+      "ov": 2
+    },
+    {
+      "$type": "CoUpDa, x",
+      "l": 7,
+      "t": 1,
+      "sid": {
+        "$type": "[StItDa]@, x",
+        "guid": "4983295a76cf6024c8ec8d99f7ee8806",
+        "TypeName": "StItDa"
+      },
+      "oii": {
+        "$type": "[Sp]$, x",
+        "guid": "49c5d669794454e4cb02963522964423",
+        "TypeName": "Sp"
+      },
+      "oibi": {
+        "$type": "[Sp]$, x",
+        "guid": "045703f2493bdc2489547d376a34998f",
+        "TypeName": "Sp"
+      },
+      "c": {
+        "a": 10000000,
+        "b": 0,
+        "g": 6000000,
+        "r": 10000000
+      },
+      "od": "",
+      "ov": 2
+    }
+  ]
+}

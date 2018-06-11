@@ -1,0 +1,90 @@
+{
+  "$type": "Rec, x",
+  "Result": {
+    "$type": "[CrStDa]@, x",
+    "guid": "dfe65e5fb9bb6c84da7e68af1f102958",
+    "TypeName": "CrStDa"
+  },
+  "Ingredient1": {
+    "$type": "[CrStDa]@, x",
+    "guid": "6483702df0f2dc840bce98851a1d0da9",
+    "TypeName": "CrStDa"
+  },
+  "RequiredLevel1": 15,
+  "Ingredient2": {
+    "$type": "[CrStDa]@, x",
+    "guid": "9fe9f4dcf805d1547972481b793cdeac",
+    "TypeName": "CrStDa"
+  },
+  "RequiredLevel2": 15,
+  "CashCurrency": {
+    "$type": "[CuReDa]@, x",
+    "guid": "17b5a8c7983eec540859cc3ef6da211a",
+    "TypeName": "CuReDa"
+  },
+  "BigWinCostDna1": 50,
+  "BigWinCostDna2": 200,
+  "BigWinCostCash": 200,
+  "titab": [
+    {
+      "$type": "WiTiTa, x",
+      "amt": 10,
+      "ods": 500,
+      "vti": 0
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 20,
+      "ods": 300,
+      "vti": 0
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 30,
+      "ods": 245,
+      "vti": 1
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 40,
+      "ods": 100,
+      "vti": 1
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 50,
+      "ods": 70,
+      "vti": 2
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 60,
+      "ods": 10,
+      "vti": 2
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 70,
+      "ods": 7,
+      "vti": 2
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 80,
+      "ods": 4,
+      "vti": 2
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 90,
+      "ods": 2,
+      "vti": 2
+    },
+    {
+      "$type": "WiTiTa, x",
+      "amt": 100,
+      "ods": 1,
+      "vti": 2
+    }
+  ]
+}

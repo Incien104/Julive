@@ -1,0 +1,15 @@
+{
+  "$type": "RaTyBu",
+  "rtbn": "EventTest",
+  "rtbb": [
+    {
+      "$type": "BuOd",
+      "bucket": {
+        "$type": "[RaBu]@",
+        "guid": "228fb8ad7dde4f54580f103b182b6cbd",
+        "TypeName": "RaBu"
+      },
+      "weight": 10
+    }
+  ]
+}

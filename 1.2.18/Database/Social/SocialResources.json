@@ -1,0 +1,11 @@
+{
+  "$type": "SocDB, x",
+  "Key": "DB_SOCIAL",
+  "DB": [
+    {
+      "$type": "[SocRDa]@, x",
+      "guid": "85bb119cd959bb9469fe7547c92d2bc2",
+      "TypeName": "SocRDa"
+    }
+  ]
+}

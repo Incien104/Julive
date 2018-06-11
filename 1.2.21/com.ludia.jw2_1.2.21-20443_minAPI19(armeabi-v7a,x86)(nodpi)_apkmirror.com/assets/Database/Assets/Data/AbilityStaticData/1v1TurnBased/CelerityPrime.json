@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_CELERITYPRIME",
+  "d": "IDS_ABILITY_LONG_DESC_CELERITYPRIME",
+  "sd": "IDS_TIP_ABILITY_CELERITYPRIME",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "0ffa53c6e1187ac46a19265eb26e462b",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "7d207bcf23cdd8c4481793f60fac0cfe",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "39887263078180847a356134f149285b",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

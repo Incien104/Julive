@@ -1,0 +1,50 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_EXHAUSTINGACIDSPRAY",
+  "d": "IDS_ABILITY_LONG_DESC_EXHAUSTINGACIDSPRAY",
+  "sd": "IDS_TIP_ABILITY_EXHAUSTINGACIDSPRAY",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "c688f2529eb7e54418f88643c3dcd523",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "5db0d1ff8e72796438207a46093ee54f",
+        "TypeName": "BeEfInScDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "4379c4860c7e21f4d95ec4713c295d80",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "1c25f7c3511ff854abcd44903d5ffbeb",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

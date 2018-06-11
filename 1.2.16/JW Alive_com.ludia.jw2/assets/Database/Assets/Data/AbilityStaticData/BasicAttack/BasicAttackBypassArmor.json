@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_BASICATTACKBYPASSARMOR",
+  "d": "IDS_ABILITY_LONG_DESC_BASICATTACKBYPASSARMOR",
+  "sd": "IDS_TIP_ABILITY_BASICATTACKBYPASSARMOR",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "b179a6c01877a9d4fa3b41a980ad33a5",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "26a458d8ce2d08d49b82977cbb43a382",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": false
+}

@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_INTIMIDATINGSCREAM",
+  "d": "IDS_ABILITY_LONG_DESC_INTIMIDATINGSCREAM",
+  "sd": "IDS_TIP_ABILITY_INTIMIDATINGSCREAM",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "ad1259d6390aa7342acaf74c7f0c2b76",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "b6b7f4d0dee90fd42bb3cbf0249c017d",
+        "TypeName": "BeEfInReHaFoSwDa"
+      }
+    }
+  ],
+  "uc": true
+}

@@ -1,0 +1,55 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "823fc9045ce590349927d8a3c157fbbf",
+    "TypeName": "Sp"
+  },
+  "id": "VIPIncubator_Market",
+  "name": "IDS_STORE_ITEM_VIP_OFFER",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        2000,
+        2160,
+        2320,
+        2480,
+        2640,
+        2790,
+        2950,
+        3110,
+        3270,
+        3430,
+        3580,
+        3740,
+        3900,
+        4060,
+        4220,
+        4370,
+        4530,
+        4690,
+        4850,
+        5000
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "1cfe4312193ecf24ca5605ac26959aa5",
+      "TypeName": "RewInV2Da"
+    }
+  }
+}

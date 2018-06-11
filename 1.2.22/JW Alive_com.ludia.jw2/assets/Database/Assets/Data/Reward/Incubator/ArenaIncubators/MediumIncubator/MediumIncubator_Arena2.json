@@ -1,0 +1,135 @@
+{
+  "$type": "RewInV2Da, x",
+  "dpn": "IDS_LARGE_CONTAINER",
+  "q": {
+    "$type": "[ByPlLe]@, x",
+    "guid": "a88bd5c5cec8909449c15170334f2ba9",
+    "TypeName": "ByPlLe"
+  },
+  "cul": null,
+  "gar": [
+    {
+      "$type": "ByLeCuIt, x",
+      "a": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "7db9beb175e7a7c4da04fb2ef58f6826",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "ByLeCuIt, x",
+      "a": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "d1886fd1c21089e4d9ddde3c7f5dfcbd",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "26457bf2ab92dae458f59c93f9bb6526",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": [
+    {
+      "$type": "ByLeGeIt, x",
+      "q": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "2db29a189317bf1498809255ad9fec14",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "f8151e143adc54c4b8b2fe8c06502a9f",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 7500000,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@, x",
+        "guid": "7509fcb563deb36429f8be04ad9e9708",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@, x",
+        "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+        "TypeName": "RaStDa"
+      }
+    },
+    {
+      "$type": "ByLeGeIt, x",
+      "q": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "06d3f429e28886f4ab4fa27fe6e905c2",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@, x",
+        "guid": "59d2077d3b3a19d4d82324ca9cc85e5a",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 1000000,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@, x",
+        "guid": "524b56a03f660a7478fd60dcc29eae11",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@, x",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      }
+    }
+  ],
+  "bge": {
+    "$type": "GeItBa, x",
+    "minv": 1,
+    "maxv": 1,
+    "rlw": {
+      "$type": "[RewLiWe]@, x",
+      "guid": "e483d034c2e96884a99f6962c27c721c",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@, x",
+      "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": {
+    "$type": "[Sp]$, x",
+    "guid": "c00082a164a89c24f9859af30364ea7e",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$, x",
+    "guid": "4c42211becf532146aac8a8cf0cccbe3",
+    "TypeName": "GaOb"
+  },
+  "bic": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 7843136,
+    "r": 4196076
+  },
+  "olc": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 10000000,
+    "r": 10000000
+  },
+  "oli": {
+    "$type": "[Sp]$, x",
+    "guid": "c47de76f3f58bfe499f558c891912397",
+    "TypeName": "Sp"
+  },
+  "devName": "MediumArena2"
+}

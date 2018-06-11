@@ -1,0 +1,26 @@
+{
+  "$type": "GaMoStDa, x",
+  "matchlength": 120000,
+  "hcplenght": 300000,
+  "ilenght": 4000,
+  "acplenght": 300000,
+  "arplenght": 300000,
+  "pointsneeded": 3,
+  "creaturesinhand": 4,
+  "creaturesonboard": 1,
+  "matu": 50,
+  "miSpd": 100,
+  "maSpd": 150,
+  "tspbp": 40,
+  "max": 10,
+  "tm": -200,
+  "lirtem": 2147483647,
+  "tmem": -200,
+  "tcap": 3000,
+  "pdd": {
+    "$type": "[PrDeDa]@, x",
+    "guid": "7c27030121df6644d99d750c6d9bd74c",
+    "TypeName": "PrDeDa"
+  },
+  "mpae": 1000
+}

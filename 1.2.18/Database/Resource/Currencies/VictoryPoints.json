@@ -1,0 +1,11 @@
+{
+  "$type": "CuReDa",
+  "largeicon": {
+    "$type": "[Sp]@",
+    "guid": "",
+    "TypeName": "Sp"
+  },
+  "TypeId": 8,
+  "devName": "VICTORY_POINTS",
+  "Sprite": null
+}

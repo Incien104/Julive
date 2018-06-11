@@ -1,0 +1,57 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "71785eda69c0a954a8ca7c8f6e1b0dcf",
+    "TypeName": "Sp"
+  },
+  "id": "EpicIncubator_Herbivore",
+  "name": "IDS_STORE_SPECIAL_OFFER",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        2000,
+        2000,
+        2170,
+        2340,
+        2500,
+        2670,
+        2840,
+        3000,
+        3170,
+        3340,
+        3500,
+        3670,
+        3840,
+        4000,
+        4170,
+        4340,
+        4500,
+        4670,
+        4840,
+        5000
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "0235a6a770479514792c20d31441fa63",
+      "TypeName": "RewInV2Da"
+    }
+  },
+  "fcuo": false,
+  "prtosl": null
+}

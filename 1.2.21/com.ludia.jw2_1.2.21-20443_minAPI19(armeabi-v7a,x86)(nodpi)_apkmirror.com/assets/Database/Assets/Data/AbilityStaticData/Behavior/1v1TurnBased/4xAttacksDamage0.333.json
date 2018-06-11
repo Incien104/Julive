@@ -1,0 +1,9 @@
+{
+  "$type": "BeDaBaDa",
+  "dt": "Normal",
+  "noa": 4,
+  "dm": 3330000,
+  "ach": false,
+  "sb": false,
+  "at": "CurrentEnemy"
+}

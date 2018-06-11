@@ -1,0 +1,34 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "6370958aac2380b42a5e2c8deda280c1",
+    "TypeName": "Sp"
+  },
+  "id": "FreeIncubator",
+  "name": "IDS_STORE_ITEM_FREE_INCUBATOR",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu",
+      "v": 0
+    }
+  },
+  "prd": {
+    "$type": "RewPr",
+    "rwd": {
+      "$type": "[RewDa]@",
+      "guid": "93c6cdd917174f040b6d005a5983c600",
+      "TypeName": "RewInDa"
+    }
+  }
+}

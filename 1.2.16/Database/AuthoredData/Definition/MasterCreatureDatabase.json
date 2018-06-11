@@ -1,0 +1,591 @@
+{
+  "$type": "CrDB, x",
+  "Key": "DB_CREATURE",
+  "DB": [
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "0444211416f8c7d4090b00107be2f052",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "233be998d9e98bb4e8ab454933d3f66b",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "78fb9b9e5c2a7b6438326d1ec768e349",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d48314e890bc00d49953b5d570dc28fa",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "69601b5c3cd804f4eb5d805cfc4c0d05",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "a901418c746c93a4ea050b6c27b4ccb0",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "9fe9f4dcf805d1547972481b793cdeac",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d1f0d687b433300449a7f859dfa26d50",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "591a4055bf4b07340a16f70be9d7a3c5",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "72d8dd9812549fe439a4eae20023aa15",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d68154523709065428673ee33dca2e13",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "6cd31f7a733748d4e9d2acf8d5f4140b",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "5995be6925626d749acc224b0e315507",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "479219bb57fbe264da16026914fcc9f2",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "5ac2620be9814784c922feb912852737",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d9b0a25502429834ab413e3fa1b0ccf4",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d45b390819e2062449c77fbeacf9cc97",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "bfe0bd511cc404b46aac0b3de55a708e",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "47bcbc8930db1564fb71bd89a3625d81",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "2e53887e22696884a94c3bdd5337d21d",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "686ec950b42eef94682cbab51813b22e",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "e185b27f57d24894e8d138af60866bba",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "bcb5598b0334ffe4db3f698426e7fc3e",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "019f83b3f0afd7a4fac573e4c14cc8ab",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "a56b4112a3ac6aa469160cc23064fa9c",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "931e1d48cd6bad94d8dfdb746a215f17",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "2fa5416c32f4887408d9e3a27da5a316",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "889f04ace8baf2644be37a975789a368",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "e46e9a06a4170e34db72a811261f5628",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "cf448c755f27e25409bfbf320639fd19",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "c820f6f982697214780ebdb5b0e25eb4",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "1a29685be916cee4f8bd6870005d0872",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "cd33b131fcab16b4ab764abb55233e64",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "f4c2578f8ae40194dbea24c42465f68c",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "8585fabe41a451949ac20d0840fa3103",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "0737d4b564bd84449859d83b9684794c",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "fab487380a02cea48ac2e1a2ff516c5a",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "ef42e4fb70d3f5f45a709b8a3a3a699b",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "0cccc5a9476c66341984174083544ed1",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "8f12c63189bd9eb4e89c2b4e3f2f73cc",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "3d7c6d458014103499bdaa1e1275fbd1",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "521ab81061d6397449003514af38d51e",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "07e6a869dc99c3f41bb25d08a528e2e4",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "546f7fa457026d84fb9ba0f7557d65fe",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "dd17583489eaf0f408318eee0dfc80dd",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "9415a705477e11744ad4a4842bf71d09",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "6483702df0f2dc840bce98851a1d0da9",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "8077cedef8c07e8458728e5fc5ab1ab6",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "b43ca6f4b3661644fbf1e6d43f171b4d",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "c4c4064898c1773479d10909860dad89",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "148d5681fb964304685b992b2d5e57b0",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "b7a57a40a5c2b624e85d229edea10a9c",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "cebba8fd26bbb4449a674c00cc71f292",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "a1954a30d464c904e9b7b5b187105bf5",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "2a429877cc8ed91468165257eb7f958e",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "436b729c9f9219747b428224aa19bf3b",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "4562cd6ff1aef7b40b4e4eb006a0f741",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "cefdb11922bf9b845acd0b4edb911992",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "e2174aca99bf7714a8fcb03198fea3c1",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "cea48b15524d54b4d95a0bab2a25c84f",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "12c9facf14657e449b1b182844136303",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "a68c3f046ad208240bfcb9f98a210e85",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "e5b67e32b3180744a8aab21dc70722e1",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "1aeaffacc51888d46b233f128343b25c",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "207a17d691b16ae4f90eb20ddf081754",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "35871da7614b47249a75f1d099289a5d",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "3129b8df0efbac749b1f577ead93831e",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "44113621dc1e6b44389a10deecf5404e",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "51b01ef2b42be484da2e5188ec066cda",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "a9232b3721137054eaa4e882c821b8a2",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "7e9a3dedb0bdfb846bdea6e74715e610",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "ad1700f5d94c5c2448e997a199319b06",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "c548cf8f4a9aac14e86987f4bd8c028b",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "97c0fdbfac99d2a4284fad21e82fbc82",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "27fc773b1a994244d8e70f3dc717f462",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "7fe9ecc0ff41e1647a4402cbc3397fb7",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "253f81889c79a7a45b67bb6444403c98",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "6e24016758a3a144cb7535c5724dc735",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "7d489ac1c78a4334aacfe21ebd80c6a1",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "6e0a14e7ee9638a489fd789ab338c39a",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "90839bac8e9de67419103f3a09395bc8",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "bfb6ba341d674d44aa5c034398c69b64",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "de1aea690c965b347bcf2393b9715805",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "aa4a60e30e11e0a4bac18daba95f16b3",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "dfe65e5fb9bb6c84da7e68af1f102958",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "be6573c8949153c4e8f71da6bae709cd",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "85dee796dad37814693adc6bd7d708c6",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "6de804984b44fb5469d57aa0cd8bd3c6",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "fdfbd81c6a886304188afdf568c0efc0",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "0ccb9325667eaf0459daf13abec4f9fd",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "eafaf81bfe116e74181acabdb6ccc2e2",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d088b8ab9bf34d0468aa2576baf7f0d3",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "3338e282d20199947a2af1e7eb8f9378",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "46dc925f6ab318a4ea440f2480249e7a",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "6dc4adae2e9d4754d85bbe3269caa634",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "3b2cf19d4ca58e44bb135505e61f0deb",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "e2947fddc5c043a45a97ec3a15e8148d",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "3e744968f2291d046a10de62bc032af0",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "ac81646838a9efd47a81963bd0cc3e16",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "4a225e827e321bd44966a819705e0c26",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "08c6c3d79ea4bd14ea38a4f96274b397",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "b3470a9f959bdee4bb89d138566765ad",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "61725a7cab2fbf34db5ddfc1e95ebcd1",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d28dfb1d7e2bb274eab671ead2464d1d",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "c04704d5cd102144a92fee784f5ac06c",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "cac19d2e92858f6459ab5494ab462da7",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "ffd1b846b267ff04dae3eaa545e6c968",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d297dcf480e6452438387784e816804f",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "2a52db812ebe6e843b2f2c33ee11c5b2",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "064ce92bf29b8b14db53e47322a8fb40",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "390df9c9ffd3a8c4c9bf8129da5585c9",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "cd62e8abe00e71440a802b5625ec3282",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "92a3492b100311c49a33fdf0387ed691",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "7f3769b465bed224a8117c1aa23c64bb",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "4bdbec22ca301be4e84205b33be69f4d",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "b4e249dba324c364ebabf08adca129e0",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "41ca5b36889990547b824e1fb1a76853",
+      "TypeName": "CrStDa"
+    }
+  ]
+}

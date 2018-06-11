@@ -1,0 +1,101 @@
+{
+  "$type": "FaSfDa, x",
+  "bid": {
+    "$type": "[AuEv]$, x",
+    "guid": "e5bac0f6f71c7ed41845e5ad88438acb",
+    "TypeName": "AuEv"
+  },
+  "bhrl": {
+    "$type": "[AuEv]$, x",
+    "guid": "69806ac85cab0d4419237f14cc6af9b0",
+    "TypeName": "AuEv"
+  },
+  "bhrr": {
+    "$type": "[AuEv]$, x",
+    "guid": "728a88ff4048430439c3b1159cbbb63d",
+    "TypeName": "AuEv"
+  },
+  "bwi": {
+    "$type": "[AuEv]$, x",
+    "guid": "22b0692c827ab3245827437a56f9d125",
+    "TypeName": "AuEv"
+  },
+  "bsr": {
+    "$type": "[AuEv]$, x",
+    "guid": "4be5440b062df7845818187124872a84",
+    "TypeName": "AuEv"
+  },
+  "bdt": {
+    "$type": "[AuEv]$, x",
+    "guid": "7104589cbaa14ea4f9fa905c58a7da18",
+    "TypeName": "AuEv"
+  },
+  "bdti": {
+    "$type": "[AuEv]$, x",
+    "guid": "24be5385ed2ed8c45b51536818e281fb",
+    "TypeName": "AuEv"
+  },
+  "bbri": {
+    "$type": "[AuEv]$, x",
+    "guid": "665d5f67589912f4e98fc73282a7ed71",
+    "TypeName": "AuEv"
+  },
+  "bvt": {
+    "$type": "[AuEv]$, x",
+    "guid": "58788fecbfa78a841aee68f0776fab0e",
+    "TypeName": "AuEv"
+  },
+  "bba": {
+    "$type": "[AuEv]$, x",
+    "guid": "9723f210a786e914bb74d41d77fbf9eb",
+    "TypeName": "AuEv"
+  },
+  "bsp": {
+    "$type": "[AuEv]$, x",
+    "guid": "32279249adb4b724fab36045ffc3c040",
+    "TypeName": "AuEv"
+  },
+  "bsc": {
+    "$type": "[AuEv]$, x",
+    "guid": "8bff86824a7001f459211a23c96442c6",
+    "TypeName": "AuEv"
+  },
+  "bab": [
+    {
+      "$type": "[AuEv]$, x",
+      "guid": "9723f210a786e914bb74d41d77fbf9eb",
+      "TypeName": "AuEv"
+    },
+    {
+      "$type": "[AuEv]$, x",
+      "guid": "32279249adb4b724fab36045ffc3c040",
+      "TypeName": "AuEv"
+    },
+    {
+      "$type": "[AuEv]$, x",
+      "guid": "8bff86824a7001f459211a23c96442c6",
+      "TypeName": "AuEv"
+    },
+    {
+      "$type": "[AuEv]$, x",
+      "guid": "8bff86824a7001f459211a23c96442c6",
+      "TypeName": "AuEv"
+    }
+  ],
+  "lid": {
+    "$type": "[AuEv]$, x",
+    "guid": "",
+    "TypeName": "AuEv"
+  },
+  "lin": {
+    "$type": "[AuEv]$, x",
+    "guid": "",
+    "TypeName": "AuEv"
+  },
+  "llu": {
+    "$type": "[AuEv]$, x",
+    "guid": "",
+    "TypeName": "AuEv"
+  },
+  "rid": null
+}

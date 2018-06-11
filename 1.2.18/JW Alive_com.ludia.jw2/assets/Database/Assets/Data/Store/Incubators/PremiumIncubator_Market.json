@@ -1,0 +1,57 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "4d48e016c369ce74ab2440eacde78049",
+    "TypeName": "Sp"
+  },
+  "id": "PremiumIncubator",
+  "name": "IDS_PREMIUM",
+  "slvl": true,
+  "vva": false,
+  "vvp": true,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        4000,
+        4000,
+        4340,
+        4670,
+        5000,
+        5340,
+        5670,
+        6000,
+        6340,
+        6670,
+        7000,
+        7340,
+        7670,
+        8000,
+        8340,
+        8670,
+        9000,
+        9340,
+        9670,
+        10000
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "e88a19544738d5149a3ddbdd094dbf35",
+      "TypeName": "RewInV2Da"
+    }
+  },
+  "fcuo": false,
+  "prtosl": null
+}

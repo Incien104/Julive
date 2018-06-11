@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu",
+  "bgn": "school Rare",
+  "dinow": [
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "e185b27f57d24894e8d138af60866bba",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

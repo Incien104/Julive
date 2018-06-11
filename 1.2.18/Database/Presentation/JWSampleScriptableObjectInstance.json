@@ -1,0 +1,10 @@
+{
+  "$type": "SaCl2",
+  "sampleString": "JWSampleScriptableObjectInstance",
+  "sprite": null,
+  "creature": {
+    "$type": "[CrStDa]@",
+    "guid": "c820f6f982697214780ebdb5b0e25eb4",
+    "TypeName": "CrStDa"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_VELOCITYSTRIKE",
+  "d": "IDS_ABILITY_LONG_DESC_VELOCITYSTRIKE",
+  "sd": "IDS_TIP_ABILITY_VELOCITYSTRIKE",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "a50efb6ff8450784d8ec99e7ffeb8a51",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "879f2051be62c004dbe86d8666fdd766",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

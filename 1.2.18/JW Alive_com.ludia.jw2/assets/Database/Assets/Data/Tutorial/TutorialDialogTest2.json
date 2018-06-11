@@ -1,0 +1,10 @@
+{
+  "$type": "TuDiDa",
+  "tdt": "IDS_NPC_CLAIRE",
+  "tdb": "IDS_FTUE_SPEEDUP",
+  "tdcs": {
+    "$type": "[Sp]$",
+    "guid": "6b08ac3bbf9303a48b944bd4e2587046",
+    "TypeName": "Sp"
+  }
+}

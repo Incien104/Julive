@@ -1,0 +1,18 @@
+{
+  "$type": "RewLi, x",
+  "rl": [
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 300
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "26457bf2ab92dae458f59c93f9bb6526",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "devName": "GearUp_RewardList"
+}

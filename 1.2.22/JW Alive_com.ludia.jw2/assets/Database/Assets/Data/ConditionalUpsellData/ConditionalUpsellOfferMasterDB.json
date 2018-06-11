@@ -1,0 +1,13 @@
+{
+  "$type": "CoUpODb, x",
+  "bacuod": {
+    "$type": "[CoUpDaLC]@, x",
+    "guid": "fa1f99dc284426b489872cfbe2bc067a",
+    "TypeName": "CoUpDaLC"
+  },
+  "plucuod": {
+    "$type": "[PlUpCoUpDb]@, x",
+    "guid": "fd8150bf41ced5c419a6390a756f48f3",
+    "TypeName": "PlUpCoUpDb"
+  }
+}

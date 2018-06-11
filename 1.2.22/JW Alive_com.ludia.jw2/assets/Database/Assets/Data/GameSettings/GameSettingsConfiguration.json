@@ -1,0 +1,15 @@
+{
+  "$type": "GaSeCo, x",
+  "ubrrs": 4,
+  "ubrl": 1,
+  "hsntiers": [
+    1,
+    51,
+    151,
+    501,
+    1001,
+    2501
+  ],
+  "hsviptiers": null,
+  "acmklc": true
+}

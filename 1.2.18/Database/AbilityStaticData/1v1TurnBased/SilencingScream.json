@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_SILENCINGSCREAM",
+  "d": "IDS_ABILITY_LONG_DESC_SILENCINGSCREAM",
+  "sd": "IDS_TIP_ABILITY_SILENCINGSCREAM",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "20fb3029f2ce0c24e936a518169ee8c2",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "0d605fa7691c4b94e825cb0ae480d1b3",
+        "TypeName": "BeEfDuSiDa"
+      }
+    }
+  ],
+  "uc": true
+}

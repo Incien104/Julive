@@ -1,0 +1,9 @@
+{
+  "$type": "RewDnDa",
+  "cr": {
+    "$type": "[CrDNARe]@",
+    "guid": "d0fdef6227e8dd349a70eabb7d4e7ab3",
+    "TypeName": "CrDNARe"
+  },
+  "devName": ""
+}

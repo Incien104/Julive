@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_BLEEDINGBITE",
+  "d": "IDS_ABILITY_LONG_DESC_BLEEDINGBITE",
+  "sd": "IDS_TIP_ABILITY_BLEEDINGBITE",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "139b4e516febdcf44907b3be2811258c",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "d1a835b1915ff614cbbb8e5486816f2b",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "cab8ab9022679e44781aa62e27c9285e",
+        "TypeName": "BeEfDuDoDa"
+      }
+    }
+  ],
+  "uc": true
+}

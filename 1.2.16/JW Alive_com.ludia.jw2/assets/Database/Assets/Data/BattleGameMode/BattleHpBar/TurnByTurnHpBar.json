@@ -1,0 +1,28 @@
+{
+  "$type": "BaHpBaAs",
+  "alhpb": {
+    "$type": "[GaOb]$",
+    "guid": "5cf1644f8b869e9408d850dcf229a6a0",
+    "TypeName": "GaOb"
+  },
+  "enhpb": {
+    "$type": "[GaOb]$",
+    "guid": "67d248e02537125428cb0ea629fe29ad",
+    "TypeName": "GaOb"
+  },
+  "alflyingmfx": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "enflyingmfx": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "flyingblastmfx": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  }
+}

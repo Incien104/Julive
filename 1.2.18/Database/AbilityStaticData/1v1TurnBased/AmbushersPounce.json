@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_AMBUSHERSPOUNCE",
+  "d": "IDS_ABILITY_LONG_DESC_AMBUSHERSPOUNCE",
+  "sd": "IDS_TIP_ABILITY_AMBUSHERSPOUNCE",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "4a96b7479d212a74bae700592d0f2f32",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 1,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "02b22fa9cc5db6f43b6bc02b96f91d4c",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

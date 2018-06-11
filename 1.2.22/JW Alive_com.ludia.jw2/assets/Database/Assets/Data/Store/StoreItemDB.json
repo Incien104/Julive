@@ -1,0 +1,466 @@
+{
+  "$type": "StItDB, x",
+  "Key": "DB_STR",
+  "DB": [
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "9a9397b6811a146459adb4a8490f1ac3",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "6a6e43e9dcfe2b0429f34cb4a9150ace",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "015b71737de79c1498f1e8d54e7f76cb",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "3b7422405dca0264cb35fe1ebada7d23",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "e3b77208bdc12ea41af542a4c1b3d539",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "848320456a7254847a9fc824fa845795",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "485a372ab04a6f14b9ab9c0d3c582c55",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "28db3a0648ef69947a191c99023886b9",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "a48b06588e8108f459be87b865d8dead",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "f309a219f1d4b794587f72b0408d3388",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "3d2877a8da1238341b165692eefa760a",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "553d7e0d45700f5449a0075336806dad",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "9c50227382f805c4488bbe7b10d2a846",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "26540f3d93d58ba4ea3a5788d262c650",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "78670c5624208844d848ad054b2c6a11",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "d7c46beb8c5fa6c4ca66d518ec9e708f",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "b67230eb57758084bbb1befc00b457f0",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "f23aab8ca79307345913cde30daab878",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "58d70bf9964546e4285c2ceff643b9a3",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "583ea5bda3e4aa94498932c6963c472c",
+      "TypeName": "TiStItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "2c009cb2134dc6747b95e930c080e39b",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "48149ae49861de343b266674a4e1e076",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "3b65e1009f4e3064498b51d69a9d2644",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "63075213b5ebb224ead852bf6c6d02b4",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "217756529f96b4345bdb8b220dd5f92a",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "40cc4dea3e423254f9a21e1d9df1767c",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "295fd2c0593148f459a91564d4b8b071",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "b21ae31baf703404eb2b100568541c5f",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "109d136fa205bca468b968a6fe975c9a",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "ff6f98b6ff7174e4987fb7f935dfc896",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "3f69e156516639644abe09ee3c300e4f",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "5590a03f8941ddb418f645c5c5878018",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "c5692870d3bf76e489b3d7c3f9c83580",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "c2bceef0417bef547b3cafd80f4b505b",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "b05176f45ca7a3449bec4a69581628a2",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "61eb9857394f01c4ba201aa3af789359",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "0dd40e8d26c074545857d19b9e15867d",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "d5d6442896f94cc43a48384da57f480f",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "426c0ae017a0d1147a87bb6378bbf1bc",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "d7a2005ce5c83bc429f01feb8d0f3bc5",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "4cac16b1930d5d845b98b04c48d0b57c",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "31bdd8a8ea85439488ee96ddc69f4ccb",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "9eb576c3da2090a4d8f85526a8767b6c",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "2ea4ba9fabe81f445b75f84188b84741",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "7941277c74dcf9949ab10826842dd30b",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "29ad91aaecca92e47ad32a61a64ec33b",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "b9a27a05395553a4a9ee6c2e9167672b",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "ff7a57f82a3c51b429d9e75c76f48cb1",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "d53ce98a4b67a9c4fa6bfaaf247a9dc5",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "b058e1346cc0e644086f999bd07fb522",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "e556493217bdcae4cabf726321580e5c",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "fd63d82bb7d89bd4a89974a2de306328",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "4eb11429d668312468f4162ca2fad1dd",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "7ec9527423c13064c971ab2643a7983b",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "c8e3274263c35574095a3c8f6a6894fa",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "f94f1d530503fc742b98aff01b0d5fe7",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "07f4a7e3e1761f0468587327cf218515",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "43fd9308a927c20458bfe4021446f5c6",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "57646c3667edeba4e8dba37252b9fa0e",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "f26173ce47c024f488e2f3f6b29c9f82",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "34e42289e2e84e94199ba41616ba4607",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "f0913c889c3c2d54b9462a0d5493b8cc",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "0665062171dc86443adf0ee539c50579",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "e72c00aacdc3799459e3d8768cc4784a",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "47884ce303d54254abe734893d471237",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "9100abb13c35cd24b8aa6282e4185e5e",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "f0ae34e7df08f4b4f9b6274f729edceb",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "cca729c08165abe4298571bd270a9de8",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "d04889688ed381c45a334cc5631a5a89",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "95a55b3a8c64a3f449e26eb548032f60",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "ca26aa4cb3aab2c43adcd83521a0bb14",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "efa1644fddc98c345bb3e2bb7a894717",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "da2009f6874a36448ba2194c8175201f",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "754da4a0b81b9974b81cad34f78f178a",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "6ac41ec021621dd459a278da041d46d2",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "4983295a76cf6024c8ec8d99f7ee8806",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "a1d0e61050413d14687cae9966f391fa",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "d09690820d7c6d840af9e7849ab33e86",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "86476d555bab48a4cb18dce1827ab8b5",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "79a062bac41521d499257f0a07f85108",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "20993d249e56a2c4dbedff3b979af9f0",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "d7ece20ca23ace3499e491b757ae0d61",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "cc44854a42cebf54b863815e5e9b847d",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "9d0a2603bcb608145ab8e13af3152d9f",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "5b9ed3d2b43926f4995a2e2628510342",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "272342e95b320684b9ad320809a1f8e4",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "47af330d80be8d54bb19a153b0ba676c",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "3cffbcd1de8a63148805a3e600493e17",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "70c6eda9364da6d479d40de5a9cd1942",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "b4f77729b31ccdb46bd3ac8218ca0d28",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "a732a06c9cae8634a955c1bac452bd54",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "27f4e985bd67dec42a990603125f431a",
+      "TypeName": "StItDa"
+    }
+  ]
+}

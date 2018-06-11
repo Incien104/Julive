@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_ARMORPIERCINGIMPACT",
+  "d": "IDS_ABILITY_LONG_DESC_ARMORPIERCINGIMPACT",
+  "sd": "IDS_TIP_ABILITY_ARMORPIERCINGIMPACT",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "9ee03411cff880e4d80cd9862ea208ee",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "eaee00816e55313408be6a08370f7752",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

@@ -1,0 +1,581 @@
+{
+  "$type": "VfDaLi, x",
+  "vfxl": [
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "AcidSpray",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "e148442fd622e6b43ac3bd5dc633d515",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Bite",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "828c2559d7923844cb5d9ab3a72639a5",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "BiteBaryonyx",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "b6466040e83942b4eaedc2fdda7a19a7",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "HornSlash",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "7086397f26c59dd48b5ec95902109be3",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "HornSlashSingle",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "7a24857edfacfc644afb46ad151af07a",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "TailStomp",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "92e12a6818e40fe409de9bcaabff5d50",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "AoE",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "9d04a8fa712ec424eadb2c72bd5ac909",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SlashLeft",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "819bddd22e02d234c8930435efdf982f",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SlashRight",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "9fcafe7a784226844bb160b82eae468f",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwipeLeft",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "f5c8e0e4383d3944a85f8a630afa43fa",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwipeRight",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "a7403a96fe4b29c4a99788ff382a3fa3",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwipeRightParasau",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "4a916b35b5db79442919c82d81028b65",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwipeLeftIndominus",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "3b67762342164d94ba587c7df7dc9e2c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwipeRightIndominus",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "ff71506b12c117a4eac31a6f28af0a9b",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwipeRightDiplocaul",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "44e8ea99c80471146a8825f5b213685d",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwipeRightIndoraptor",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "c5a22dfdf2d7d70448099537cedfa2be",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwipeRightStygimolo",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "351a42c59d670244a8290c95eb622b5f",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Thrust",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "0ada7ed67800741468a8d624a4ad337c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Hit",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "013f93e740801d9409b1dbe248278006",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "HitBypassTS",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "abd920df5d5042048a9bb56726d774e4",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Death",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "e814ab839a8a3d34098d38d468191b63",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "BuffAttack",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "27933e99fa6aa83489ee036bb83630bc",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "BuffCrit",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "6a460655c2002c946afed8da26363c26",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "BuffSpeed",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "8cd31b59eb2c50f4ebc1aa43c8fba0e2",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "DebuffAttack",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "05d17df31a3137344ae37415b6c1b326",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "DebuffCrit",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "c8a9f777537c7204a9e122ee9f18614d",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "DebuffSpeed",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "6677757ff485d38478d75031550b3edd",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "DebuffImmune",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "46581eaf2a54385429bb4b2ee6a97a88",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "BuffPrevention",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "b52a5f73aa922a54ab3941f915e9ed7a",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Accelerate",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "b6bf23fa1c6ee98429237a60f45a2514",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Decelerate",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "f867b07caff233e4d95d47204116554c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Cleanse",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "97b5e9f4fc6a7814899a63f8703f432a",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Scrub",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "d62a00fa752f68a4480ad3394200593f",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Heal",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "6f5d72a83ee681349bd74efb1efcca61",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Wounded",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "40af2e64dc5249749ab1dfa1d39f4d7c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "FastSwap",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "c07808d3c60080d4e911ef8de5b6605c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SlowSwap",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "72ad82f5e85f77e4aabb18cf0b732fb8",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "ExtraDamageAgainst",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "7c1992ed92929924bbc697866fb9788c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Armor",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "8a5ceea9e4199794dba6bc28bfe3236c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "NoArmor",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "a1307020b72f5d54a8b966c1749c32e8",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "ActFirst",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "e7900b258cea635439f90081255a9162",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "ActLast",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "cefcdbb9b2f13be4e9f9c1f473c051e7",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Casting",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "ab132d8700b38c04387dcd8f1570e553",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Stun",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "4e121d0c1f4947945b1000685e06c0c7",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "StepFR",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "2cf496f0c0b3a18488d1513fb55cc9e9",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "StepBR",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "8453e41b717d2f94386c356dc8c8f38e",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "StepFL",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "8d392cb498398904cbba3b7169a55b6d",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "StepBL",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "fa364ec6bf7b56a4cbabf639592fa76c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "StepFLParasau",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "10e2c19d4fe15374a9c2b7a013c21e2c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "StepFRParasau",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "f8ede0901c87d3e4bb7ac65916632fa9",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "SwapPrevention",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "dd81235e7006cb94594f7311c0960e34",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "CounterAttack",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "02ca91e2c34f52040a7c94385d183152",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "DamageOnHit",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "1f49c3900f2ed0c44bcdb903d7e71b4c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "DamageOverTime",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "02db646637b90c44f9d1baee2b157026",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Exhauste",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "1a359a630c31fc244b1744828ff66420",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "ForceSwap",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "3374075d5df65a54fb60e75518ade5e1",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Invisibility",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "f2ff4f5735ec03349aec63174343eb1c",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "ReturnToHand",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "b3d3d1bc4d5f3dc499601a29aa2a33ba",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Armor25",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "8ae744084e1712c43a4ffbfcae5ba676",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Armor50",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "fe8bc3b4a53d4e042bcbbaaf9a7f3e3f",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Armor75",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "abb0cb7f87737cb48884b6a0b554dd57",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Armor100",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "1b570b20022c66640902354ad91e7e22",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "Vulnerable",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "54f6ae8691ce35241a6690c9bad10257",
+        "TypeName": "VfDa"
+      }
+    },
+    {
+      "$type": "VfDaIt, x",
+      "vfxn": "FailToDebuff",
+      "vfx": {
+        "$type": "[VfDa]@, x",
+        "guid": "46581eaf2a54385429bb4b2ee6a97a88",
+        "TypeName": "VfDa"
+      }
+    }
+  ]
+}

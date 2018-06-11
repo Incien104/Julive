@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "Park Epic",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "479219bb57fbe264da16026914fcc9f2",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 0,
+      "dayWeight": 5,
+      "duskWeight": 0,
+      "nightWeight": 0
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "360601316710bae479640f0ae82cf0c9",
+    "TypeName": "RaBu"
+  }
+}

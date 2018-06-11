@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu",
+  "bgn": "lawyer Epic",
+  "dinow": [
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "686ec950b42eef94682cbab51813b22e",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

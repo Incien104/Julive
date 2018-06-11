@@ -1,0 +1,101 @@
+{
+  "$type": "StItSe, x",
+  "sila": [
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "583ea5bda3e4aa94498932c6963c472c",
+      "TypeName": "TiStItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "6a6e43e9dcfe2b0429f34cb4a9150ace",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "2c009cb2134dc6747b95e930c080e39b",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "31bdd8a8ea85439488ee96ddc69f4ccb",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "47884ce303d54254abe734893d471237",
+      "TypeName": "StItDa"
+    }
+  ],
+  "silb": [
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "3b65e1009f4e3064498b51d69a9d2644",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "3f69e156516639644abe09ee3c300e4f",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "ff6f98b6ff7174e4987fb7f935dfc896",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "109d136fa205bca468b968a6fe975c9a",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "5590a03f8941ddb418f645c5c5878018",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "efa1644fddc98c345bb3e2bb7a894717",
+      "TypeName": "StItDa"
+    }
+  ],
+  "silc": [
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "43fd9308a927c20458bfe4021446f5c6",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "57646c3667edeba4e8dba37252b9fa0e",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "4cac16b1930d5d845b98b04c48d0b57c",
+      "TypeName": "StItDa"
+    }
+  ],
+  "sild": [
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "015b71737de79c1498f1e8d54e7f76cb",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "a48b06588e8108f459be87b865d8dead",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "20993d249e56a2c4dbedff3b979af9f0",
+      "TypeName": "StItDa"
+    },
+    {
+      "$type": "[StItDa]@, x",
+      "guid": "b21ae31baf703404eb2b100568541c5f",
+      "TypeName": "StItDa"
+    }
+  ]
+}

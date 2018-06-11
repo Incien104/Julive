@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_CLOAK",
+  "d": "IDS_ABILITY_LONG_DESC_CLOAK",
+  "sd": "IDS_TIP_ABILITY_CLOAK",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "eb0d864c0511aab49be27fe871cf2517",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 3,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "6995242d7eca3424b92879063ca97797",
+        "TypeName": "BeEfDuInDa"
+      }
+    }
+  ],
+  "uc": true
+}

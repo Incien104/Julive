@@ -1,0 +1,51 @@
+{
+  "$type": "TeDa, x",
+  "aProperty": null,
+  "aPropertyAutoBackingField": null,
+  "aintWithValidation": 0,
+  "aSuit": 1,
+  "aSuitString": "Heart",
+  "aSuitFlag": "Heart",
+  "aint": 0,
+  "along": 0,
+  "aintRange": 0,
+  "afloat": 0,
+  "afloatRange": 0,
+  "PublicDataLinkCreatureDatabase": {
+    "$type": "[CrDB]@, x",
+    "guid": "",
+    "TypeName": "CrDB"
+  },
+  "ProtectedDataLinkCreatureDatabase": {
+    "$type": "[CrDB]@, x",
+    "guid": "",
+    "TypeName": "CrDB"
+  },
+  "PrivateDataLinkCreatureDatabase": {
+    "$type": "[CrDB]@, x",
+    "guid": "",
+    "TypeName": "CrDB"
+  },
+  "PublicAssetLinkSprite": null,
+  "aString": null,
+  "aTextArea": null,
+  "Bool": true,
+  "aList": null,
+  "aListString": null,
+  "aListInt": null,
+  "Vector2": {
+    "x": 0,
+    "y": 0
+  },
+  "Vector3": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Vector4": {
+    "w": 0,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}

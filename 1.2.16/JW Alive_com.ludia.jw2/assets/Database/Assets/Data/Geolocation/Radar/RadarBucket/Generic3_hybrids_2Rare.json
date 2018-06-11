@@ -1,0 +1,10 @@
+{
+  "$type": "RaBu",
+  "bgn": "Generic3 Hybrids Rare",
+  "dinow": [],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "8e3351ded3811db4b860a92beeec87f1",
+    "TypeName": "RaBu"
+  }
+}

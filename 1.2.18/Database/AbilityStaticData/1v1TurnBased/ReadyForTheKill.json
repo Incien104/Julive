@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_READYFORTHEKILL",
+  "d": "IDS_ABILITY_LONG_DESC_READYFORTHEKILL",
+  "sd": "IDS_TIP_ABILITY_READYFORTHEKILL",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "6eafcbc0eefcd5b4c8b9038362e5b61b",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

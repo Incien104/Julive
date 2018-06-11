@@ -1,0 +1,14 @@
+{
+  "$type": "FaStDa",
+  "dn": "006",
+  "cs": {
+    "$type": "[FaChShDa]@",
+    "guid": "7daeba1af88e34343b915db29b13f013",
+    "TypeName": "FaChShDa"
+  },
+  "sfx": {
+    "$type": "[FaSfDa]@",
+    "guid": "1dd45702a83b66d49a36ee3d1599c69a",
+    "TypeName": "FaSfDa"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_SCRUBBINGATTACK",
+  "d": "IDS_ABILITY_LONG_DESC_SCRUBBINGATTACK",
+  "sd": "IDS_TIP_ABILITY_SCRUBBINGATTACK",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "ad8ccdb45b6c3af44b5ea5c693343b41",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "12681786cfdcce348949e75f892e0919",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "5db0d1ff8e72796438207a46093ee54f",
+        "TypeName": "BeEfInScDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "664d6a4fe44fb0846b8043c0e35a3de4",
+        "TypeName": "BeEfDuBuPrDa"
+      }
+    }
+  ],
+  "uc": true
+}

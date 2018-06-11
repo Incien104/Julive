@@ -1,0 +1,35 @@
+{
+  "$type": "RewSuDr",
+  "d": {
+    "$type": "RewIt",
+    "q": {
+      "$type": "Ra",
+      "min": 3,
+      "max": 10
+    },
+    "r": {
+      "$type": "[RewDa]@",
+      "guid": "26457bf2ab92dae458f59c93f9bb6526",
+      "TypeName": "RewCuDa"
+    }
+  },
+  "b": {
+    "$type": "RewIt",
+    "q": {
+      "$type": "Ra",
+      "min": 1,
+      "max": 3
+    },
+    "r": {
+      "$type": "[RewDa]@",
+      "guid": "0481eaa28b810db418fc1d829b1e8c09",
+      "TypeName": "RewCuDa"
+    }
+  },
+  "r": {
+    "$type": "[RewLiWe]@",
+    "guid": "ab05b215fcd5fa64fa29e7b9ddf5eca1",
+    "TypeName": "RewLiWe"
+  },
+  "devName": ""
+}

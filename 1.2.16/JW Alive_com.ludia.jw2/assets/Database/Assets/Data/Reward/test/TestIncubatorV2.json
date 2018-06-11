@@ -1,0 +1,118 @@
+{
+  "$type": "RewInV2Da",
+  "q": {
+    "$type": "[ByPlLe]@",
+    "guid": "070e74e6452dd714b846a71d914f0aaf",
+    "TypeName": "ByPlLe"
+  },
+  "cul": [
+    {
+      "$type": "CuItPr",
+      "p": 500000000,
+      "a": {
+        "$type": "FiQu",
+        "v": 100
+      },
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "67af906eca33dff49a64a6db2add74f6",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gar": [
+    {
+      "$type": "ByLeCuIt",
+      "a": {
+        "$type": "[ByPlLe]@",
+        "guid": "168a7f333e7b34a4cbbbf5e4d6e874dc",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": [
+    {
+      "$type": "ByLeGeIt",
+      "q": {
+        "$type": "[ByPlLe]@",
+        "guid": "033572b1d9ac2bf4da29f791ae4c5bcf",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@",
+        "guid": "3e8e9e2233b962949976a1fb4a281499",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 5000000,
+      "minv": 1,
+      "maxv": 3,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "6eca804069434be4fb0c3c91b3b1f570",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "",
+        "TypeName": "RaStDa"
+      }
+    },
+    {
+      "$type": "ByLeGeIt",
+      "q": {
+        "$type": "[ByPlLe]@",
+        "guid": "c39a7acba81abb246a60d83446787c3a",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@",
+        "guid": "3e8e9e2233b962949976a1fb4a281499",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 5000000,
+      "minv": 1,
+      "maxv": 2,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "1c17d80f728cbf64299e64778315c6bc",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "",
+        "TypeName": "RaStDa"
+      }
+    }
+  ],
+  "bge": {
+    "$type": "GeItBa",
+    "minv": 1,
+    "maxv": 3,
+    "rlw": {
+      "$type": "[RewLiWe]@",
+      "guid": "2d2a1ffdb8b4b3f4f93e42e81ebcf360",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@",
+      "guid": "",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": {
+    "$type": "[Sp]$",
+    "guid": "6370958aac2380b42a5e2c8deda280c1",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$",
+    "guid": "1de9ae464de6358409bafc5e73522f37",
+    "TypeName": "GaOb"
+  },
+  "devName": "TestV2"
+}

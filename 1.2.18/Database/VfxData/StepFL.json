@@ -1,0 +1,55 @@
+{
+  "$type": "VfDa",
+  "gon": "Vfx_FL_Foot",
+  "vfxsp": {
+    "$type": "[GaOb]$",
+    "guid": "1ea2ed80792e6f048bbbf818c255eb14",
+    "TypeName": "GaOb"
+  },
+  "vfxspc": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "vfxp": {
+    "$type": "[GaOb]$",
+    "guid": "dda8c4321dc963b499e015edbec2c833",
+    "TypeName": "GaOb"
+  },
+  "vfxpc": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "vfxlp": {
+    "$type": "[GaOb]$",
+    "guid": "6536097c5603d7a4e826d71d2f63f9c4",
+    "TypeName": "GaOb"
+  },
+  "vfxlpc": {
+    "$type": "[GaOb]$",
+    "guid": "",
+    "TypeName": null
+  },
+  "fgo": false,
+  "stgo": true,
+  "po": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ro": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ss": 10000000,
+  "ms": 10000000,
+  "ls": 10000000,
+  "lpx": false,
+  "lpy": false,
+  "lpz": false,
+  "lrx": true,
+  "lry": false,
+  "lrz": true
+}

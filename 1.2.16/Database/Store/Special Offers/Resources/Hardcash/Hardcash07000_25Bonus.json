@@ -1,0 +1,29 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "4eefa78038b544d46bfe056c8cd88302",
+    "TypeName": "Sp"
+  },
+  "id": "Hardcash07000_25Bonus",
+  "name": "IDS_STORE_ITEM_CASH_VAULT",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ReaMoCo, x",
+    "pid": "com.ludia.jw2.hc_7000_50_boni25"
+  },
+  "prd": {
+    "$type": "ResPr, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": 8750
+  },
+  "fcuo": false,
+  "prtosl": null
+}

@@ -1,0 +1,55 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "208a7d4dd6dc37147822030b705581b6",
+    "TypeName": "Sp"
+  },
+  "id": "RareIncubator_Market",
+  "name": "IDS_STORE_RARE_INCUBATOR",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe",
+      "ql": [
+        400,
+        400,
+        440,
+        470,
+        500,
+        540,
+        570,
+        600,
+        640,
+        670,
+        700,
+        740,
+        770,
+        800,
+        840,
+        870,
+        900,
+        940,
+        970,
+        1000
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr",
+    "rwd": {
+      "$type": "[RewDa]@",
+      "guid": "576f070562e53c9438352ba063c01a72",
+      "TypeName": "RewInV2Da"
+    }
+  }
+}

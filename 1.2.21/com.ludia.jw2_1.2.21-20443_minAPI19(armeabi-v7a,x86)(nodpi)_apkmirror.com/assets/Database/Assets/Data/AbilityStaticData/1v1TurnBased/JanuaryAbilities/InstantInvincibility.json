@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_INSTANTINVINCIBILITY",
+  "d": "IDS_ABILITY_LONG_DESC_INSTANTINVINCIBILITY",
+  "sd": "IDS_TIP_ABILITY_INSTANTINVINCIBILITY",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "5f183b21569fa01439e2609a262a7007",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 3,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "e559fcbc75d3442419141a3cfda12717",
+        "TypeName": "BeEfDuShDa"
+      }
+    }
+  ],
+  "uc": true
+}

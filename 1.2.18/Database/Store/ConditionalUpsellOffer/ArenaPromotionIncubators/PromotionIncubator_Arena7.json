@@ -1,0 +1,57 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "49c5d669794454e4cb02963522964423",
+    "TypeName": "Sp"
+  },
+  "id": "Upsell_Arena7",
+  "name": "IDS_STORE_EPIC_INCUBATOR",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        940,
+        1000,
+        1070,
+        1130,
+        1190,
+        1250,
+        1320,
+        1380,
+        1440,
+        1500,
+        1570,
+        1630,
+        1690,
+        1750,
+        1820,
+        1880,
+        1940,
+        2000,
+        2070,
+        2130
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "0ee2e95808d782a4999ce3dfe89add42",
+      "TypeName": "RewInV2Da"
+    }
+  },
+  "fcuo": false,
+  "prtosl": null
+}

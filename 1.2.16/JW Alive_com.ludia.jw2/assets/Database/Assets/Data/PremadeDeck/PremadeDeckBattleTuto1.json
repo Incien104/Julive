@@ -1,0 +1,81 @@
+{
+  "$type": "PrDeDa, x",
+  "rcfpd": false,
+  "rcfad": false,
+  "pdp": [
+    {
+      "$type": "PrDeCre, x",
+      "csd": {
+        "$type": "[CrStDa]@, x",
+        "guid": "064ce92bf29b8b14db53e47322a8fb40",
+        "TypeName": "CrStDa"
+      },
+      "lvl": 5
+    },
+    {
+      "$type": "PrDeCre, x",
+      "csd": {
+        "$type": "[CrStDa]@, x",
+        "guid": "cac19d2e92858f6459ab5494ab462da7",
+        "TypeName": "CrStDa"
+      },
+      "lvl": 5
+    },
+    {
+      "$type": "PrDeCre, x",
+      "csd": {
+        "$type": "[CrStDa]@, x",
+        "guid": "d297dcf480e6452438387784e816804f",
+        "TypeName": "CrStDa"
+      },
+      "lvl": 5
+    },
+    {
+      "$type": "PrDeCre, x",
+      "csd": {
+        "$type": "[CrStDa]@, x",
+        "guid": "2a52db812ebe6e843b2f2c33ee11c5b2",
+        "TypeName": "CrStDa"
+      },
+      "lvl": 5
+    }
+  ],
+  "pda": [
+    {
+      "$type": "PrDeCre, x",
+      "csd": {
+        "$type": "[CrStDa]@, x",
+        "guid": "2a52db812ebe6e843b2f2c33ee11c5b2",
+        "TypeName": "CrStDa"
+      },
+      "lvl": 1
+    },
+    {
+      "$type": "PrDeCre, x",
+      "csd": {
+        "$type": "[CrStDa]@, x",
+        "guid": "cac19d2e92858f6459ab5494ab462da7",
+        "TypeName": "CrStDa"
+      },
+      "lvl": 1
+    },
+    {
+      "$type": "PrDeCre, x",
+      "csd": {
+        "$type": "[CrStDa]@, x",
+        "guid": "390df9c9ffd3a8c4c9bf8129da5585c9",
+        "TypeName": "CrStDa"
+      },
+      "lvl": 1
+    },
+    {
+      "$type": "PrDeCre, x",
+      "csd": {
+        "$type": "[CrStDa]@, x",
+        "guid": "ffd1b846b267ff04dae3eaa545e6c968",
+        "TypeName": "CrStDa"
+      },
+      "lvl": 1
+    }
+  ]
+}

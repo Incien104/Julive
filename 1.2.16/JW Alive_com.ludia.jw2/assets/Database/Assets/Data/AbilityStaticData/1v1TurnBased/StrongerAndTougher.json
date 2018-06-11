@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_STRONGERANDTOUGHER",
+  "d": "IDS_ABILITY_LONG_DESC_STRONGERANDTOUGHER",
+  "sd": "IDS_TIP_ABILITY_STRONGERANDTOUGHER",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 1,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "2c8af3f3b70817349b457fb00387009d",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

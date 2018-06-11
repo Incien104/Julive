@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_READYTOCRUSH",
+  "d": "IDS_TIP_ABILITY_READYTOCRUSH",
+  "sd": "IDS_ABILITY_LONG_DESC_READYTOCRUSH",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "afe521fce177f5b4da3ce810ed2c2331",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "ceeb5429318750e438ac7f911ab12f14",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "2c8af3f3b70817349b457fb00387009d",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

@@ -1,0 +1,36 @@
+{
+  "$type": "DrRaDB",
+  "Key": "DB_DRONERARITY",
+  "DB": [
+    {
+      "$type": "[DrRaDa]@",
+      "guid": "cb620879a9eb1e446af2e76dc654c352",
+      "TypeName": "DrRaDa"
+    },
+    {
+      "$type": "[DrRaDa]@",
+      "guid": "a3b1042d7223ad44c8243f3e9800549c",
+      "TypeName": "DrRaDa"
+    },
+    {
+      "$type": "[DrRaDa]@",
+      "guid": "9c240bc6aec7b59498c9fef8ab1468df",
+      "TypeName": "DrRaDa"
+    },
+    {
+      "$type": "[DrRaDa]@",
+      "guid": "2002a022fecb72640a48baf8d381846c",
+      "TypeName": "DrRaDa"
+    },
+    {
+      "$type": "[DrRaDa]@",
+      "guid": "2e602a0289f108042b3439e2f2e97cfc",
+      "TypeName": "DrRaDa"
+    },
+    {
+      "$type": "[DrRaDa]@",
+      "guid": "46b1801410911ce408fc73c1cf19285b",
+      "TypeName": "DrRaDa"
+    }
+  ]
+}

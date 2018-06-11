@@ -1,0 +1,35 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "a9b4c7122ca43554a9f7e9fe4ad9db66",
+    "TypeName": "Sp"
+  },
+  "id": "GearUp_Hardcash",
+  "name": "IDS_OFFER_GEAR_NUMBERS",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu, x",
+      "v": 180
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "3698efc41b89f624c9deec3c57d9c0c4",
+      "TypeName": "RewLi"
+    }
+  }
+}

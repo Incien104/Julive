@@ -1,0 +1,15 @@
+{
+  "$type": "RaTyBu, x",
+  "rtbn": "ESD_027",
+  "rtbb": [
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "47e9af74e5e4cd24dbd56bce00a67832",
+        "TypeName": "RaBu"
+      },
+      "weight": 1
+    }
+  ]
+}

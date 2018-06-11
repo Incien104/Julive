@@ -1,0 +1,16 @@
+{
+  "$type": "PrDeDB, x",
+  "Key": "DB_PREMADE_DECK",
+  "DB": [
+    {
+      "$type": "[PrDeDa]@, x",
+      "guid": "a1af07f3bf8fda24d80b737deec481c4",
+      "TypeName": "PrDeDa"
+    },
+    {
+      "$type": "[PrDeDa]@, x",
+      "guid": "7c27030121df6644d99d750c6d9bd74c",
+      "TypeName": "PrDeDa"
+    }
+  ]
+}

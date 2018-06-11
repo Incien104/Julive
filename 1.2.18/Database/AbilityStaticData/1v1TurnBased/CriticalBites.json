@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_CRITICALBITES",
+  "d": "IDS_ABILITY_LONG_DESC_CRITICALBITES",
+  "sd": "IDS_TIP_ABILITY_CRITICALBITES",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "59df86c4ee64c2a40a9d9fdccd58b428",
+    "TypeName": "Sp"
+  },
+  "cod": 2,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "0a4e21998a905ca488a3c9106fa6296e",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "b42151a62f7e18d4b922d97dc2ccec97",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

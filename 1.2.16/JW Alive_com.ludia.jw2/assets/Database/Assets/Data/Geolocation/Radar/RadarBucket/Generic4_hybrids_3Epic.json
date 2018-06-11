@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu",
+  "bgn": "Generic4 hybrids Epic",
+  "dinow": [
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "cd33b131fcab16b4ab764abb55233e64",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "3f07010026ee50f4f8a4f876820e0c37",
+    "TypeName": "RaBu"
+  }
+}

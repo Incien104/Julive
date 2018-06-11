@@ -1,0 +1,87 @@
+{
+  "$type": "RewLiWe",
+  "wil": [
+    {
+      "$type": "WeIt",
+      "w": 2500,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "b930f45beb0b9354ca2891c74f375115",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt",
+      "w": 5000,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "33687ff4d9739a14aac6ed5389bf89db",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt",
+      "w": 2500,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "6de96b6712f1c1b4e8cb16cb9ce38c6c",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt",
+      "w": 800,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "417920d0750fc514f9db8f1efd0c48b7",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt",
+      "w": 400,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "aa5a5acdb7b345a4b98d4edbb155be5a",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt",
+      "w": 200,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "faabaefd1da612e48a9017d7191b25ea",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt",
+      "w": 100,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "34e1132ecc8d3c1418977109da0f049e",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt",
+      "w": 10,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "68c038a7c12d17a4d801ff2c1f42786e",
+        "TypeName": "RewLi"
+      }
+    },
+    {
+      "$type": "WeIt",
+      "w": 1,
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "bca7137015a7dff41a8453eec1b130a0",
+        "TypeName": "RewLi"
+      }
+    }
+  ],
+  "devName": ""
+}

@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_BASICATTACKHEAL10",
+  "d": "IDS_ABILITY_LONG_DESC_BASICATTACKHEAL10",
+  "sd": "IDS_TIP_ABILITY_BASICATTACKHEAL10",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "48581ed11df5c664c861c16a11e918c9",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "d5797acffd5889645a96038c46528f76",
+        "TypeName": "BeHePeDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": false
+}

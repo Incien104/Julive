@@ -1,0 +1,76 @@
+{
+  "$type": "TuBaDa, x",
+  "gm": 4,
+  "tbsdl": [
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "bd526ca0038128e43abef4d73e89c54d",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "da35bcf629e82ae46a841b10093999c6",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "c2f4d74ad28169645a8ed8822a0a3e38",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "7867d7b47121b664c9171fd778498f53",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "20209543a697bc54a9c05ff4e745350a",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "376076682ff032947a106b46a0cba15b",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "e938e0307f1118645893f787af2a7c79",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "7d10d40ce52ee1c4cb5ad484bf7e133b",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "c071c009dbffbb2468195c4d7f83f91b",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "bcbbe9965810ad541a50524839805e24",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "7dd5632ee3d757f4fa649c4f3f7e1663",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "88d1473dba9a4a64e9cfa563aa73bac3",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "c788b27489a0aab4aa3c3d0206c92ebd",
+      "TypeName": "TuBaStDa"
+    },
+    {
+      "$type": "[TuBaStDa]@, x",
+      "guid": "e06b6705c7d4a36478f98bae9dcc8262",
+      "TypeName": "TuBaStDa"
+    }
+  ]
+}

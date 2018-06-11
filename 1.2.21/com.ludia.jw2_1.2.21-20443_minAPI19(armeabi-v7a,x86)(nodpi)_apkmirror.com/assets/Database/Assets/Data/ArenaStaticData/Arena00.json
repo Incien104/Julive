@@ -1,0 +1,67 @@
+{
+  "$type": "ArStDa, x",
+  "ti": 0,
+  "dn": "JW Jungle 1",
+  "lkn": "IDS_BATTLE_ARENA_TITLE_TUTORIAL",
+  "asn": "Battle_Jungle_Tutorial",
+  "ai": {
+    "$type": "[Sp]$, x",
+    "guid": "7f256d84267fe764ea75613036bb4ca4",
+    "TypeName": "Sp"
+  },
+  "si": null,
+  "iuci": [],
+  "exiuci": null,
+  "rau": {
+    "$type": "[RewDa]@, x",
+    "guid": "",
+    "TypeName": "RewInV2Da"
+  },
+  "rbi": [
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "73ab962d1fa6c8a4bbffd5d783191465",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "73ab962d1fa6c8a4bbffd5d783191465",
+      "TypeName": "RewBaInDa"
+    }
+  ],
+  "drt": {
+    "$type": "[RewCuDa]@, x",
+    "guid": "2142c5e689a2aa64ab90ca610322eb14",
+    "TypeName": "RewCuDa"
+  },
+  "dcr": [
+    {
+      "$type": "DaCoRe, x",
+      "dvm": 5,
+      "coin": 10
+    },
+    {
+      "$type": "DaCoRe, x",
+      "dvm": 10,
+      "coin": 4
+    },
+    {
+      "$type": "DaCoRe, x",
+      "dvm": 15,
+      "coin": 2
+    },
+    {
+      "$type": "DaCoRe, x",
+      "dvm": 20,
+      "coin": 1
+    }
+  ],
+  "ainame": "Little_Timmy",
+  "sc": 0,
+  "tn": 0,
+  "ttp": 0,
+  "mwtrop": 30,
+  "mltrop": 0,
+  "addl": false,
+  "mmv": null
+}

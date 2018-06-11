@@ -1,0 +1,51 @@
+{
+  "$type": "RewWeChDa",
+  "wrl": [
+    {
+      "$type": "WeReIt",
+      "mr": 30,
+      "ri": {
+        "$type": "[RewInDa]@",
+        "guid": "c0a0e778cdc478448a8fe1310f38848a",
+        "TypeName": "RewInDa"
+      }
+    },
+    {
+      "$type": "WeReIt",
+      "mr": 60,
+      "ri": {
+        "$type": "[RewInDa]@",
+        "guid": "03c2fb4f4b3bffc4ab792bab1d5b19c8",
+        "TypeName": "RewInDa"
+      }
+    },
+    {
+      "$type": "WeReIt",
+      "mr": 120,
+      "ri": {
+        "$type": "[RewInDa]@",
+        "guid": "40ea944c6e6660049880af2874b6d28c",
+        "TypeName": "RewInDa"
+      }
+    },
+    {
+      "$type": "WeReIt",
+      "mr": 240,
+      "ri": {
+        "$type": "[RewInDa]@",
+        "guid": "89aaec1d4b9edb64fac96dbb2d817f0a",
+        "TypeName": "RewInDa"
+      }
+    },
+    {
+      "$type": "WeReIt",
+      "mr": 480,
+      "ri": {
+        "$type": "[RewInDa]@",
+        "guid": "d8486f110eaf4624d91674a6b10b4c54",
+        "TypeName": "RewInDa"
+      }
+    }
+  ],
+  "devName": "DefaultWeeklyChallengeData"
+}

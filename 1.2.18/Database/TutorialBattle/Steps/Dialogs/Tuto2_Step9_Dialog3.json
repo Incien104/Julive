@@ -1,0 +1,11 @@
+{
+  "$type": "TuDiDa, x",
+  "tdt": "IDS_TIP",
+  "tdb": "IDS_BATTLE_TUTO_2_DLG_18",
+  "tdcs": {
+    "$type": "[Sp]$, x",
+    "guid": "c1a70497af9483a43a4a83747f7a1dcb",
+    "TypeName": "Sp"
+  },
+  "tdfe": true
+}

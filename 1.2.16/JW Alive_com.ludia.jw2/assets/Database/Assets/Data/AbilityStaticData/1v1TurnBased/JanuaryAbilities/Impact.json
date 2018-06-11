@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_IMPACT",
+  "d": "IDS_ABILITY_LONG_DESC_IMPACT",
+  "sd": "IDS_TIP_ABILITY_IMPACT",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "482457fd4e35590488c7ab93a6229a99",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "930ee32785dc6cf4fb2894d8850dbe13",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

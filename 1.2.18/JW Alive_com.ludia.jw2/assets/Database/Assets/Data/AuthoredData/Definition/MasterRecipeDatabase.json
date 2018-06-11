@@ -1,0 +1,161 @@
+{
+  "$type": "RecDB",
+  "Key": "DB_RECIPES",
+  "DB": [
+    {
+      "$type": "[Rec]@",
+      "guid": "7cbbe13c09a100c4890e55947ae22713",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "89d3626cf67ba4044941ff41cd538b51",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "4a562914be857a74d80dbed2a064c527",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "e95a84f32fe2f414f85d0e7ab04b9a01",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "d822fa550f60e2c48b06e7acf758ed5d",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "941987846da36294ab159a07f6cd34af",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "c8fb7675f57d08d4c82b1160fbc73700",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "98726c2202a85be45a44d35825ff7953",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "f1f243c916d5ef840bccbf1e36ba7121",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "69e6d5ab5e69f1f4d93827698bf9b429",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "a48d1a5da3b3a894abb6d6d108c6fcb7",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "0fbde55fb62ba774ba92a63509e58a75",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "5995db540e97d8146a7f5496dd0d251c",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "58cd2dfa9965a6a44844a8be1c798814",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "f184c3b66b3371442b06bf17ae8983b5",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "12fa8efb14b2b9440b1d181168adf824",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "ec882d621b90ad94ca85845707562568",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "7f538108e020f7247996d4c9227ca807",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "86f3f518a74bc734c9b3d7c93c30feed",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "32aa159918e0d9640b942d18d1cb55ec",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "1530b8e081ce9fb4182aa3bbae7ee914",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "7e452d90e061a90428d3dc32edd8d297",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "6e119c0046e39d946868940df903c843",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "58bd2437c4f931d448a039199ba3f769",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "3747841682ed8e34f9ef4130a8d8f30a",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "4231b34906a21694ab07509d68009206",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "7c998ad14731d5c41ac6339dbc865466",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "3ad10f78cc6502541ad02adbdd47184b",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "4a6b9126cfc0f03448ebfe1eec1c65ab",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "2c2984f12c0830c4792ce5b5530dde6a",
+      "TypeName": "Rec"
+    },
+    {
+      "$type": "[Rec]@",
+      "guid": "1615583b585248342882bb5270651d77",
+      "TypeName": "Rec"
+    }
+  ]
+}

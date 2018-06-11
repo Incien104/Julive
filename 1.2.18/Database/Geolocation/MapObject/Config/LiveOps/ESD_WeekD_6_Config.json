@@ -1,0 +1,32 @@
+{
+  "$type": "MoCfg, x",
+  "op": {
+    "$type": "[GaOb]$, x",
+    "guid": "f2ce8d9f53ea899409c8bae24fefc129",
+    "TypeName": "GaOb"
+  },
+  "fl": [
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "e4282ab666ac18a49855252e9d639de1",
+      "TypeName": "MoFSdD"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "9c5488bb206d39840a755fc981ea7248",
+      "TypeName": "MoFLN"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "bd5298e87ac6c73448e2233d5bf00459",
+      "TypeName": "MoFDsf"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "84bfbde666b740243bc91fd79573a0a6",
+      "TypeName": "MoSUV"
+    }
+  ],
+  "p": 1,
+  "t": "park"
+}

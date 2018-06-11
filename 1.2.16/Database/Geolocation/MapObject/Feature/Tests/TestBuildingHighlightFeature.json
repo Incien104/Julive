@@ -1,0 +1,14 @@
+{
+  "$type": "MoFBh, x",
+  "blm1": {
+    "$type": "[Ma]$, x",
+    "guid": "4f4dd79cb23e19542b39e1fe0e3068fd",
+    "TypeName": "Ma"
+  },
+  "blm2": {
+    "$type": "[Ma]$, x",
+    "guid": "949b6af30fbf5b44592e7bd3f4c92891",
+    "TypeName": "Ma"
+  },
+  "hes": 25000000
+}

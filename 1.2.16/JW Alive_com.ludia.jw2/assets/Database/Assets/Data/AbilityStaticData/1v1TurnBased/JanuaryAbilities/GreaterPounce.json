@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_GREATERPOUNCE",
+  "d": "IDS_ABILITY_LONG_DESC_GREATERPOUNCE",
+  "sd": "IDS_TIP_ABILITY_GREATERPOUNCE",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "fb46e70ae7668cf4a907121f0ded373b",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "28edad6f70141654d912bbf36f34eb47",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

@@ -1,0 +1,57 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "c751cd5d3baaf0d4f954b955d4d707de",
+    "TypeName": "Sp"
+  },
+  "id": "RareIncubator_Amphibian",
+  "name": "IDS_STORE_SPECIAL_OFFER",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        400,
+        400,
+        440,
+        470,
+        500,
+        540,
+        570,
+        600,
+        640,
+        670,
+        700,
+        740,
+        770,
+        800,
+        840,
+        870,
+        900,
+        940,
+        970,
+        1000
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "ae59b068f57e1254e8ccae828f239fca",
+      "TypeName": "RewInV2Da"
+    }
+  },
+  "fcuo": false,
+  "prtosl": null
+}

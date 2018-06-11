@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_ABILITY_TITLE_DEFENSIVE_GRAZE",
+  "d": "IDS_ABILITY_LONG_DESC_DEFENSIVE_GRAZE",
+  "sd": "IDS_ABILITY_TIP_DEFENSIVE_GRAZE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "0f67d8c42b02f274aa24d42c3ad3efb6",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "f6e439717ecf1364f8cedbfaf04fd442",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "02d0dff9269b7534cac719afebc1bbda",
+        "TypeName": "BeEfDuShDa"
+      }
+    }
+  ],
+  "uc": true
+}

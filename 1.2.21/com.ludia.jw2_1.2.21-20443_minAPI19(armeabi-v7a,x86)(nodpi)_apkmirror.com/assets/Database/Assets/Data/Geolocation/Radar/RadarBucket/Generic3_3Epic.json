@@ -1,0 +1,35 @@
+{
+  "$type": "RaBu, x",
+  "bgn": "Generic3 Epic",
+  "dinow": [
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "4562cd6ff1aef7b40b4e4eb006a0f741",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    },
+    {
+      "$type": "BuWe, x",
+      "dino": {
+        "$type": "[CrStDa]@, x",
+        "guid": "bfe0bd511cc404b46aac0b3de55a708e",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 4,
+      "dayWeight": 4,
+      "duskWeight": 4,
+      "nightWeight": 4
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@, x",
+    "guid": "360601316710bae479640f0ae82cf0c9",
+    "TypeName": "RaBu"
+  }
+}

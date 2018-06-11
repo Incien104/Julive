@@ -1,0 +1,32 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "9b38858be1073ff42aa2e2935f0ecf6d",
+    "TypeName": "Sp"
+  },
+  "id": "TapjoyOfferwallItem",
+  "name": "IDS_STORE_ITEM_CASH_TAPJOY",
+  "slvl": false,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "17b5a8c7983eec540859cc3ef6da211a",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu",
+      "v": 0
+    }
+  },
+  "prd": {
+    "$type": "ResPr",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "17b5a8c7983eec540859cc3ef6da211a",
+      "TypeName": "CuReDa"
+    },
+    "a": 0
+  }
+}

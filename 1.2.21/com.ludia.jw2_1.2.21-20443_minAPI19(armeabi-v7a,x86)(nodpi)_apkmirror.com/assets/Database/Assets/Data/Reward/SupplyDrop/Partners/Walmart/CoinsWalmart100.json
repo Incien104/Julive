@@ -1,0 +1,18 @@
+{
+  "$type": "RewLi, x",
+  "rl": [
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 100
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "devName": ""
+}

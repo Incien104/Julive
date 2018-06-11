@@ -1,0 +1,23 @@
+{
+  "$type": "RaBu",
+  "bgn": "restaurant Rare",
+  "dinow": [
+    {
+      "$type": "BuWe",
+      "dino": {
+        "$type": "[CrStDa]@",
+        "guid": "1a29685be916cee4f8bd6870005d0872",
+        "TypeName": "CrStDa"
+      },
+      "dawnWeight": 1,
+      "dayWeight": 1,
+      "duskWeight": 1,
+      "nightWeight": 1
+    }
+  ],
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

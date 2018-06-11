@@ -1,0 +1,15 @@
+{
+  "$type": "RewBaInDa",
+  "it": 900,
+  "rid": {
+    "$type": "[RewInV2Da]@",
+    "guid": "472517c6d7ecfce4c9f95ff00ccf762b",
+    "TypeName": "RewInV2Da"
+  },
+  "ii": {
+    "$type": "[Sp]$",
+    "guid": "503ea5fd5707b2a48803e2494c56aea8",
+    "TypeName": "Sp"
+  },
+  "devName": "BattleVideo6"
+}

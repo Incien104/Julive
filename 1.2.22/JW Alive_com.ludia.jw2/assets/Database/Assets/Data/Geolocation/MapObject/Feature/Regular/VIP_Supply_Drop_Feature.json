@@ -1,0 +1,137 @@
+{
+  "$type": "MoFSdD, x",
+  "sdt": "normal",
+  "ccd": 15,
+  "rew": {
+    "$type": "[RewDa]@, x",
+    "guid": "74b6b262c6332424ea07fd9eaa2445b0",
+    "TypeName": "RewLi"
+  },
+  "trew": {
+    "$type": "[RewDa]@, x",
+    "guid": "",
+    "TypeName": "RewLi"
+  },
+  "sdl": [
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 1,
+      "dcl": 3000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 2,
+      "dcl": 3400,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 3,
+      "dcl": 4200,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 4,
+      "dcl": 4800,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 5,
+      "dcl": 5400,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 6,
+      "dcl": 6000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 7,
+      "dcl": 6600,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 8,
+      "dcl": 7400,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 9,
+      "dcl": 8000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 10,
+      "dcl": 8600,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 11,
+      "dcl": 9200,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 12,
+      "dcl": 9800,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 13,
+      "dcl": 10400,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 14,
+      "dcl": 11200,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 15,
+      "dcl": 11800,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 16,
+      "dcl": 12400,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 17,
+      "dcl": 13000,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 18,
+      "dcl": 13600,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 19,
+      "dcl": 14200,
+      "dhl": 40
+    },
+    {
+      "$type": "ResLpLe, x",
+      "lvl": 20,
+      "dcl": 15000,
+      "dhl": 40
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$type": "PaStDa, x",
+  "n": "IDS_EFFECT_COUNTERATTACK",
+  "d": "IDS_EFFECT_COUNTERATTACK_DESC",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "dd4c16fb6f0c83e49a1ae594c3bb20c0",
+    "TypeName": "Sp"
+  },
+  "b": {
+    "$type": "[BeDa]@, x",
+    "guid": "c3abff79012ccc243a9cfc930be76d72",
+    "TypeName": "BeEfDuCoAtDa"
+  }
+}

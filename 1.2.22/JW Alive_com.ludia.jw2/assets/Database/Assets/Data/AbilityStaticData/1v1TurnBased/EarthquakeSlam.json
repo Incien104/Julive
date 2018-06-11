@@ -1,0 +1,42 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_EARTHQUAKESLAM",
+  "d": "IDS_ABILITY_LONG_DESC_EARTHQUAKESLAM",
+  "sd": "IDS_TIP_ABILITY_EARTHQUAKESLAM",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "d701972ab46352c498cb2132c7cf2b8f",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "28edad6f70141654d912bbf36f34eb47",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "647cae48201a39a4686dd5642447e772",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "78788abeb0a12694b818cc609b317a83",
+        "TypeName": "BeEfDuExDa"
+      }
+    }
+  ],
+  "uc": true
+}

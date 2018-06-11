@@ -1,0 +1,38 @@
+{
+  "$type": "ParTyDB, x",
+  "Key": "DB_PARTNER_TYPES",
+  "DB": [
+    {
+      "$type": "ParTyDa, x",
+      "pt": "AMC"
+    },
+    {
+      "$type": "ParTyDa, x",
+      "pt": "AMC_Test_Near"
+    },
+    {
+      "$type": "ParTyDa, x",
+      "pt": "AMC_Test_Medium"
+    },
+    {
+      "$type": "ParTyDa, x",
+      "pt": "AM_Test_Far"
+    },
+    {
+      "$type": "ParTyDa, x",
+      "pt": "Walmart_CA"
+    },
+    {
+      "$type": "ParTyDa, x",
+      "pt": "Walmart_CA_Test"
+    },
+    {
+      "$type": "ParTyDa, x",
+      "pt": "Walmart_US"
+    },
+    {
+      "$type": "ParTyDa, x",
+      "pt": "Walmart_US_Test"
+    }
+  ]
+}

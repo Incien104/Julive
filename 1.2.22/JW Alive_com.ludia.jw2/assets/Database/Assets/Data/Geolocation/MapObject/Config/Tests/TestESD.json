@@ -1,0 +1,22 @@
+{
+  "$type": "MoCfg, x",
+  "op": {
+    "$type": "[GaOb]$, x",
+    "guid": "f2ce8d9f53ea899409c8bae24fefc129",
+    "TypeName": "GaOb"
+  },
+  "fl": [
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "c0b5a85ba8503a54a93549991493877a",
+      "TypeName": "MoFSdD"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "9c5488bb206d39840a755fc981ea7248",
+      "TypeName": "MoFLN"
+    }
+  ],
+  "p": 2,
+  "t": "park,cafe,airport,pet_store,shopping_mall,parking"
+}

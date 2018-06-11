@@ -1,0 +1,36 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "aaf89bbd7b6b9264ba844cd70106fd42",
+    "TypeName": "Sp"
+  },
+  "id": "10HC_10Darts",
+  "name": "IDS_STORE_ITEM_DARTS_RELOAD",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu, x",
+      "v": 10
+    }
+  },
+  "prd": {
+    "$type": "ResPr, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "1bf1f41471a23384a984de9a31ca37d3",
+      "TypeName": "CuReDa"
+    },
+    "a": 10
+  }
+}

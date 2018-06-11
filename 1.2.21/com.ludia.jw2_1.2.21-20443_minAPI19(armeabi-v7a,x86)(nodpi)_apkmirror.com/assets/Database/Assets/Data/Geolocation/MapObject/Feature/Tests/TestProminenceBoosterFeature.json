@@ -1,0 +1,13 @@
+{
+  "$type": "MoFPb, x",
+  "cpd": {
+    "$type": "CePrDa, x",
+    "cep": 5,
+    "cdq": 5,
+    "csd": {
+      "$type": "CePrSa, x",
+      "csp": 10,
+      "cdp": 80
+    }
+  }
+}

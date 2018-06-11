@@ -1,0 +1,53 @@
+{
+  "$type": "BaGaMo, x",
+  "bthpb": {
+    "$type": "[BaHpBaAs]@, x",
+    "guid": "b891a319d44ff6d4f9883998598808e4",
+    "TypeName": "BaHpBaAs"
+  },
+  "btst": {
+    "$type": "[BaSe]@, x",
+    "guid": "",
+    "TypeName": "BaSe"
+  },
+  "btcdspn": {
+    "$type": "[CoSp]@, x",
+    "guid": "",
+    "TypeName": "CoSp"
+  },
+  "btdmgtxt": {
+    "$type": "[DaTe]@, x",
+    "guid": "44242a67034c5c04db43dc3d8156b812",
+    "TypeName": "DaTe"
+  },
+  "btvfxdl": {
+    "$type": "[VfDaLi]@, x",
+    "guid": "fd02182253c88644eb157f6da2805c01",
+    "TypeName": "VfDaLi"
+  },
+  "btuitb": {
+    "$type": "[ToBa]@, x",
+    "guid": "250e3c8ca402b454280d48b86c180ecb",
+    "TypeName": "ToBa"
+  },
+  "btabic": {
+    "$type": "[AbIc]@, x",
+    "guid": "",
+    "TypeName": "AbIc"
+  },
+  "btpvfx": {
+    "$type": "[PoVf]@, x",
+    "guid": "6945f53d45555de4cac5cd45c50b35b1",
+    "TypeName": "PoVf"
+  },
+  "matchIntro": {
+    "$type": "[MaIn]@, x",
+    "guid": "ff7a4acf6ec62224384677c295f04f7d",
+    "TypeName": "MaIn"
+  },
+  "matchIntroFTUE": {
+    "$type": "[MaIn]@, x",
+    "guid": "5d2113525c501824da723201edb7919d",
+    "TypeName": "MaIn"
+  }
+}

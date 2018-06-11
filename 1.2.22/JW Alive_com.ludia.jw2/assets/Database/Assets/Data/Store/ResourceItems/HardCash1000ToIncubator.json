@@ -1,0 +1,42 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "823fc9045ce590349927d8a3c157fbbf",
+    "TypeName": "Sp"
+  },
+  "id": "HardCash1000ToIncubator",
+  "name": "IDS_STORE_ITEM_EPIC_INCUBATOR",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe",
+      "ql": [
+        2000,
+        2100,
+        2200,
+        2300,
+        2400,
+        2500,
+        2600
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr",
+    "rwd": {
+      "$type": "[RewDa]@",
+      "guid": "e4a968f0617ece84e9c8f2e3fe0e7752",
+      "TypeName": "RewInDa"
+    }
+  }
+}

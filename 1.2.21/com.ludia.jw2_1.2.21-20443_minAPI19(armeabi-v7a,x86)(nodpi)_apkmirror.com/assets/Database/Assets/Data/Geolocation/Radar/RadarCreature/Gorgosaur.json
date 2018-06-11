@@ -1,0 +1,18 @@
+{
+  "$type": "RaCrStDa",
+  "ass": {
+    "$type": "[GaOb]$",
+    "guid": "48f8af4d2077e7d4ca58d648619cd6bf",
+    "TypeName": "GaOb"
+  },
+  "ast": {
+    "$type": "[GaOb]$",
+    "guid": "0fed017d2a6a82f43981573ced8f60c0",
+    "TypeName": "GaOb"
+  },
+  "asc": {
+    "$type": "[GaOb]$",
+    "guid": "c3de5d89542adaf4cad818d063890b26",
+    "TypeName": "GaOb"
+  }
+}

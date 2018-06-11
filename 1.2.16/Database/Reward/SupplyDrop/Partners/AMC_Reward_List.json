@@ -1,0 +1,90 @@
+{
+  "$type": "RewLi, x",
+  "rl": [
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 15000
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    },
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 3300
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "dfd48218e1a98ad4992d058a03bf77f7",
+        "TypeName": "RewDnDa"
+      }
+    },
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 3300
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "cf721623590739840b7ab101af9f3c32",
+        "TypeName": "RewDnDa"
+      }
+    },
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 330
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "ed5544e240dc73544a619579944cba97",
+        "TypeName": "RewDnDa"
+      }
+    },
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 330
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "23eb91a4d2e58454aa0abc21ed181c06",
+        "TypeName": "RewDnDa"
+      }
+    },
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 260
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "186a5319133cd1a43a30e7ed62c080a6",
+        "TypeName": "RewLiWe"
+      }
+    },
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 20
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "8feada3df3fae584da5ca841066be0e7",
+        "TypeName": "RewDnDa"
+      }
+    }
+  ],
+  "devName": "AMC_Reward_List"
+}

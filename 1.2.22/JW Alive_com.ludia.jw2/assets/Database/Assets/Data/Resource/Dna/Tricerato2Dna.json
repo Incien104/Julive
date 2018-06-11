@@ -1,0 +1,12 @@
+{
+  "$type": "CrDNARe",
+  "cr": {
+    "$type": "[CrStDa]@",
+    "guid": "3338e282d20199947a2af1e7eb8f9378",
+    "TypeName": "CrStDa"
+  },
+  "TypeId": 103,
+  "devName": "tricerato2",
+  "Sprite": null,
+  "SdRewMat": null
+}

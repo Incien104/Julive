@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_BASICATTACK_VULNERABLE",
+  "d": "IDS_ABILITY_LONG_DESC_BASICATTACK_VULNERABLE",
+  "sd": "IDS_TIP_ABILITY_BASICATTACK_VULNERABLE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "3dd06144e6782e4479f407906f9a9ff9",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "a2b7293d0fe4db145a64110729f836be",
+        "TypeName": "BeEfDuVuDa"
+      }
+    }
+  ],
+  "uc": false
+}

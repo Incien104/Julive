@@ -1,0 +1,16 @@
+{
+  "$type": "TuBaDB, x",
+  "Key": "DB_TUTORIAL_BATTLE",
+  "DB": [
+    {
+      "$type": "[TuBaDa]@, x",
+      "guid": "5fab27c12483cd347b1faeb96c0215a3",
+      "TypeName": "TuBaDa"
+    },
+    {
+      "$type": "[TuBaDa]@, x",
+      "guid": "cc2d55a253aaf86428d8332924a1154c",
+      "TypeName": "TuBaDa"
+    }
+  ]
+}

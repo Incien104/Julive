@@ -1,0 +1,9 @@
+{
+  "$type": "RewCuDa",
+  "cur": {
+    "$type": "[CuReDa]@",
+    "guid": "49e58e8fc063ab642b907df34bd70b36",
+    "TypeName": "CuReDa"
+  },
+  "devName": "VictoryPoints"
+}

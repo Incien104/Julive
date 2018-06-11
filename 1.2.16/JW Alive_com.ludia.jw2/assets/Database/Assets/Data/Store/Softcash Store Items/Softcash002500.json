@@ -1,0 +1,36 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "affab6c1796a9e347a74b1a14253b6d5",
+    "TypeName": "Sp"
+  },
+  "id": "Softcash002500",
+  "name": "IDS_STORE_ITEM_HANDFUL_OF_COINS",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu, x",
+      "v": 60
+    }
+  },
+  "prd": {
+    "$type": "ResPr, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "17b5a8c7983eec540859cc3ef6da211a",
+      "TypeName": "CuReDa"
+    },
+    "a": 2500
+  }
+}

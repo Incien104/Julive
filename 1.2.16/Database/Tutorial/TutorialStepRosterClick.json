@@ -1,0 +1,17 @@
+{
+  "$type": "TuStDa",
+  "tsad": 1,
+  "tsid": 2,
+  "tsd": true,
+  "tsd3d": true,
+  "ticp": false,
+  "trd": 1,
+  "tdl": [
+    {
+      "$type": "[TuDiDa]@",
+      "guid": "bf033bb2f5cc6044696d3b793f632ed3",
+      "TypeName": "TuDiDa"
+    }
+  ],
+  "tsan": "Roster Button Tapped"
+}

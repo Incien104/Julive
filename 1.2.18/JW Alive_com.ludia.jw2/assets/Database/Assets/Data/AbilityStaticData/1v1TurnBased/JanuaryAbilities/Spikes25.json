@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_DAMAGEONHIT25",
+  "d": "IDS_TIP_ABILITY_DAMAGEONHIT25",
+  "sd": "IDS_ABILITY_LONG_DESC_DAMAGEONHIT25",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "dd4c16fb6f0c83e49a1ae594c3bb20c0",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "7fd140d59ce426143b6a87aab3ed0882",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

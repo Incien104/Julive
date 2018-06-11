@@ -1,0 +1,96 @@
+{
+  "$type": "RaTyBu, x",
+  "rtbn": "gas_station",
+  "rtbb": [
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "bc262a57316d47842a8677dd825061b5",
+        "TypeName": "RaBu"
+      },
+      "weight": 1840
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "73469c51d7a50e8498df7e0624c7e1ed",
+        "TypeName": "RaBu"
+      },
+      "weight": 140
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "360601316710bae479640f0ae82cf0c9",
+        "TypeName": "RaBu"
+      },
+      "weight": 10
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "8e3351ded3811db4b860a92beeec87f1",
+        "TypeName": "RaBu"
+      },
+      "weight": 0
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "3f07010026ee50f4f8a4f876820e0c37",
+        "TypeName": "RaBu"
+      },
+      "weight": 2
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "6610148c07c18b64ca369715e4f53081",
+        "TypeName": "RaBu"
+      },
+      "weight": 1840
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "cde30b41f87aca44b93151970f3045f9",
+        "TypeName": "RaBu"
+      },
+      "weight": 140
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "99faeb923ab463e4195865df3744c464",
+        "TypeName": "RaBu"
+      },
+      "weight": 10
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "2e2df5ee4ce0dee4aa4a5f96adba4c22",
+        "TypeName": "RaBu"
+      },
+      "weight": 8
+    },
+    {
+      "$type": "BuOd, x",
+      "bucket": {
+        "$type": "[RaBu]@, x",
+        "guid": "131c8c3037bca6444b25557cebd35238",
+        "TypeName": "RaBu"
+      },
+      "weight": 2
+    }
+  ]
+}

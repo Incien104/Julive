@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_HITANDRUN",
+  "d": "IDS_ABILITY_LONG_DESC_HITANDRUN",
+  "sd": "IDS_TIP_ABILITY_HITANDRUN",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "55bf6b5d325e99c46b7b924b87b1982c",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "930ee32785dc6cf4fb2894d8850dbe13",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "bfc2f19aab3b70942935df76fe999978",
+        "TypeName": "BeEfInReHaFoSwDa"
+      }
+    }
+  ],
+  "uc": true
+}

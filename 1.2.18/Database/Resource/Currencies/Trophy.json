@@ -1,0 +1,20 @@
+{
+  "$type": "CuReDa, x",
+  "Sprite2": null,
+  "Color": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 10000000,
+    "r": 10000000
+  },
+  "TypeId": 7,
+  "devName": "TROPHIES",
+  "Sprite": {
+    "$type": "[Sp]$, x",
+    "guid": "",
+    "TypeName": null
+  },
+  "SdRewMat": null,
+  "Max": 9999999,
+  "il": null
+}

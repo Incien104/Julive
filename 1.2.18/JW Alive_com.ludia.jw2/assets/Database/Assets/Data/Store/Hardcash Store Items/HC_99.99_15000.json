@@ -1,0 +1,28 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "6b71fd3120691b44f8b813a176c74148",
+    "TypeName": "Sp"
+  },
+  "id": "com.ludia.jw2.hc_15000_100_std",
+  "name": "IDS_STORE_ITEM_CASH_MOUNTAIN",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ReaMoCo, x",
+    "pid": "com.ludia.jw2.hc_15000_100_std"
+  },
+  "prd": {
+    "$type": "ResPr, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": 15000
+  }
+}

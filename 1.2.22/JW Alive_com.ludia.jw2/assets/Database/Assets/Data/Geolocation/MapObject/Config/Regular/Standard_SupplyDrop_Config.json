@@ -1,0 +1,27 @@
+{
+  "$type": "MoCfg, x",
+  "op": {
+    "$type": "[GaOb]$, x",
+    "guid": "5293de73f32c35240bda709d3441777c",
+    "TypeName": "GaOb"
+  },
+  "fl": [
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "cfb0fe6300b4cf54f8835dd31c5cac28",
+      "TypeName": "MoFSdD"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "84bfbde666b740243bc91fd79573a0a6",
+      "TypeName": "MoSUV"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "3d0dd2aefb600eb4783e8dd13af19f14",
+      "TypeName": "MoFLN"
+    }
+  ],
+  "p": 1,
+  "t": ",park,school,university,library,museum,aquarium,bus_station,subway_station,train_station,post_office,city_hall,courthouse,local_government_office,cafe,movie_theater,lodging,meal_delivery,meal_takeaway,police,rv_park,stadium,taxi_stand,transit_station,zoo,amusement_park,airport,accounting,art_gallery,atm,bakery,bank,beauty_salon,bicycle_store,book_store,bowling_alley,campground,car_dealer,car_rental,car_repair,car_wash,clothing_store,convenience_store,department_store,electrician,electronics_store,fire_station,florist,furniture_store,gas_station,gym,hair_care,hardware_store,home_goods_store,hospital,insurance_agency,jewelry_store,laundry,lawyer,locksmith,movie_rental,pet_store,pharmacy,plumber,real_estate_agency,restaurant,shoe_store,shopping_mall,spa,store,travel_agency,veterinary_care,doctor,dentist,moving_company,painter,parking,physiotherapist,roofing_contractor,storage,embassy,natural_feature,post_box,finance,food,health,establishment,general_contractor,point_of_interest"
+}

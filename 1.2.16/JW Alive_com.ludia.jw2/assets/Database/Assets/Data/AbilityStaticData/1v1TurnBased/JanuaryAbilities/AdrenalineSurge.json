@@ -1,0 +1,42 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_ADRENALINESURGE",
+  "d": "IDS_ABILITY_LONG_DESC_ADRENALINESURGE",
+  "sd": "IDS_TIP_ABILITY_ADRENALINESURGE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "8166f0bbb1c6f9448a9b069c3a53f6bf",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 3,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "97199c8355a2fca48b95c84f30f1ae86",
+        "TypeName": "BeEfInClDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "6907e1423a2bccc45b965599d370402e",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "d61170363aad278459ccf2d2e6e3cdcc",
+        "TypeName": "BeHePeDa"
+      }
+    }
+  ],
+  "uc": true
+}

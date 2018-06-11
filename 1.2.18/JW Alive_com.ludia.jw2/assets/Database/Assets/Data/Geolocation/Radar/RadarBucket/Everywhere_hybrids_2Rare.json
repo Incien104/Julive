@@ -1,0 +1,10 @@
+{
+  "$type": "RaBu",
+  "bgn": "Everywhere hybrids Rare",
+  "dinow": null,
+  "falbck": {
+    "$type": "[RaBu]@",
+    "guid": "",
+    "TypeName": "RaBu"
+  }
+}

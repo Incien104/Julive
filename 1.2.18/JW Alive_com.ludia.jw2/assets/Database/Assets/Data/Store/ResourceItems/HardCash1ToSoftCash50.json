@@ -1,0 +1,35 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "affab6c1796a9e347a74b1a14253b6d5",
+    "TypeName": "Sp"
+  },
+  "id": "Coins50",
+  "name": "IDS_STORE_ITEM_COINS",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu",
+      "v": 1
+    }
+  },
+  "prd": {
+    "$type": "ResPr",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "17b5a8c7983eec540859cc3ef6da211a",
+      "TypeName": "CuReDa"
+    },
+    "a": 50
+  }
+}

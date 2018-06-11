@@ -1,0 +1,57 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "208a7d4dd6dc37147822030b705581b6",
+    "TypeName": "Sp"
+  },
+  "id": "StunningBeauties_Rare_Market",
+  "name": "IDS_STORE_SPECIAL_OFFER",
+  "slvl": true,
+  "vva": false,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        400,
+        400,
+        440,
+        470,
+        500,
+        540,
+        570,
+        600,
+        640,
+        670,
+        700,
+        740,
+        770,
+        800,
+        840,
+        870,
+        900,
+        940,
+        970,
+        1000
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "b3578b37e3dce9343b910fc20f61dd8e",
+      "TypeName": "RewInV2Da"
+    }
+  },
+  "fcuo": false,
+  "prtosl": null
+}

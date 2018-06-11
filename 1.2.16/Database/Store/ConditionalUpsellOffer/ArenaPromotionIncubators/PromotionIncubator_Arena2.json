@@ -1,0 +1,56 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "b36a01c409fb9204ca4f0c9e9a068dc8",
+    "TypeName": "Sp"
+  },
+  "id": "Upsell_Arena2",
+  "name": "IDS_STORE_RARE_INCUBATOR",
+  "slvl": true,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        70,
+        80,
+        90,
+        100,
+        120,
+        130,
+        140,
+        150,
+        170,
+        180,
+        190,
+        200,
+        220,
+        230,
+        240,
+        250,
+        270,
+        280,
+        290,
+        300
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "fca37283d7ad2dd4889c9e67edea2419",
+      "TypeName": "RewInV2Da"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$type": "GaMoStDaDB, x",
+  "Key": "DB_GAME_MODE",
+  "DB": [
+    {
+      "$type": "[GaMoStDa]@, x",
+      "guid": "6f5dd30d55e84aa4b888230e09eaf160",
+      "TypeName": "GaMoStDa"
+    },
+    {
+      "$type": "[GaMoStDa]@, x",
+      "guid": "22797dea9da99c240a9d9811b67f5e63",
+      "TypeName": "GaMoStDa"
+    },
+    {
+      "$type": "[GaMoStDa]@, x",
+      "guid": "7a8919bba22ab1c42a9c3549ef5937da",
+      "TypeName": "GaMoStDa"
+    },
+    {
+      "$type": "[GaMoStDa]@, x",
+      "guid": "ecd224c126a4083408ffaeb8de90a6b9",
+      "TypeName": "GaMoStDa"
+    }
+  ]
+}

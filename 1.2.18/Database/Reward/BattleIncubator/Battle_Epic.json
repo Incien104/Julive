@@ -1,0 +1,15 @@
+{
+  "$type": "RewBaInDa",
+  "it": 86400,
+  "rid": {
+    "$type": "[RewInV2Da]@",
+    "guid": "418da7184ad24194b9cd3cdff972e123",
+    "TypeName": "RewInV2Da"
+  },
+  "ii": {
+    "$type": "[Sp]$",
+    "guid": "823fc9045ce590349927d8a3c157fbbf",
+    "TypeName": "Sp"
+  },
+  "devName": "BattleEpic"
+}

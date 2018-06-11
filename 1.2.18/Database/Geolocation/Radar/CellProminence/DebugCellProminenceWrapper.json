@@ -1,0 +1,148 @@
+{
+  "$type": "CePr",
+  "cpln": [
+    {
+      "$type": "CePrDa",
+      "cep": 1,
+      "cdq": 1,
+      "csp": 120,
+      "cdp": 90
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 2,
+      "cdq": 1,
+      "csp": 120,
+      "cdp": 95
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 3,
+      "cdq": 1,
+      "csp": 60,
+      "cdp": 85
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 4,
+      "cdq": 1,
+      "csp": 60,
+      "cdp": 90
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 5,
+      "cdq": 1,
+      "csp": 60,
+      "cdp": 95
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 6,
+      "cdq": 1,
+      "csp": 45,
+      "cdp": 90
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 7,
+      "cdq": 1,
+      "csp": 45,
+      "cdp": 95
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 8,
+      "cdq": 1,
+      "csp": 35,
+      "cdp": 85
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 9,
+      "cdq": 2,
+      "csp": 33,
+      "cdp": 90
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 10,
+      "cdq": 2,
+      "csp": 32,
+      "cdp": 95
+    }
+  ],
+  "cpsh": [
+    {
+      "$type": "CePrDa",
+      "cep": 1,
+      "cdq": 1,
+      "csp": 90,
+      "cdp": 50
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 2,
+      "cdq": 1,
+      "csp": 60,
+      "cdp": 50
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 3,
+      "cdq": 2,
+      "csp": 60,
+      "cdp": 26
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 4,
+      "cdq": 2,
+      "csp": 60,
+      "cdp": 28
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 5,
+      "cdq": 3,
+      "csp": 60,
+      "cdp": 33
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 6,
+      "cdq": 3,
+      "csp": 60,
+      "cdp": 40
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 7,
+      "cdq": 2,
+      "csp": 30,
+      "cdp": 70
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 8,
+      "cdq": 2,
+      "csp": 30,
+      "cdp": 80
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 9,
+      "cdq": 3,
+      "csp": 30,
+      "cdp": 60
+    },
+    {
+      "$type": "CePrDa",
+      "cep": 10,
+      "cdq": 4,
+      "csp": 40,
+      "cdp": 49
+    }
+  ],
+  "cpev": null
+}

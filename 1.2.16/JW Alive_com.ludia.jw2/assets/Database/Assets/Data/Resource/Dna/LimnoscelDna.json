@@ -1,0 +1,13 @@
+{
+  "$type": "CrDNARe",
+  "cr": {
+    "$type": "[CrStDa]@",
+    "guid": "4a225e827e321bd44966a819705e0c26",
+    "TypeName": "CrStDa"
+  },
+  "TypeId": 110,
+  "devName": "limnoscel",
+  "Sprite": null,
+  "SdRewMat": null,
+  "Max": 9999999
+}

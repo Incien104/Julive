@@ -1,0 +1,36 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "b1114334b54689e4cb850b95594c7ad9",
+    "TypeName": "Sp"
+  },
+  "id": "ConditionalUpsellOffer_2",
+  "name": "IDS_PLACEHOLDER",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "fcuo": true,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu, x",
+      "v": 100
+    }
+  },
+  "prd": {
+    "$type": "ResPr, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "511414515b2481a41a25d5530cb0a4c5",
+      "TypeName": "CuReDa"
+    },
+    "a": 10000
+  }
+}

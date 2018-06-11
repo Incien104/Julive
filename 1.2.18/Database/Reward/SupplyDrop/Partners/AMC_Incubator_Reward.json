@@ -1,0 +1,18 @@
+{
+  "$type": "RewLi, x",
+  "rl": [
+    {
+      "$type": "RewIt, x",
+      "q": {
+        "$type": "FiQu, x",
+        "v": 1
+      },
+      "r": {
+        "$type": "[RewDa]@, x",
+        "guid": "418da7184ad24194b9cd3cdff972e123",
+        "TypeName": "RewInV2Da"
+      }
+    }
+  ],
+  "devName": "AMC_Incubator"
+}

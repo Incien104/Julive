@@ -1,0 +1,515 @@
+{
+  "$type": "TrConf, x",
+  "sugr": 10,
+  "geo": [
+    {
+      "$type": "VP, x",
+      "Name": "Ludia",
+      "ne": {
+        "$type": "GC, x",
+        "lat": 455034866,
+        "lng": -735544738
+      },
+      "sw": {
+        "$type": "GC, x",
+        "lat": 455007972,
+        "lng": -735589904
+      }
+    }
+  ],
+  "eAppLaunched": {
+    "$type": "TrEv, x",
+    "n": "App Launched",
+    "r": {
+      "$type": "TrCond, x",
+      "su": false,
+      "pu": false,
+      "geo": false
+    }
+  },
+  "eSessionStart": {
+    "$type": "TrEv, x",
+    "n": "Session Start",
+    "r": null
+  },
+  "eSessionEnd": {
+    "$type": "TrEv, x",
+    "n": "Session End ",
+    "r": null
+  },
+  "eBorn": {
+    "$type": "TrEv, x",
+    "n": "New Account",
+    "r": null
+  },
+  "eLevelUp": {
+    "$type": "TrEv, x",
+    "n": "Level Up",
+    "r": null
+  },
+  "eGainFocus": {
+    "$type": "TrEv, x",
+    "n": "Gain Focus",
+    "r": {
+      "$type": "TrCond, x",
+      "su": false,
+      "pu": false,
+      "geo": false
+    }
+  },
+  "eDroneEnd": {
+    "$type": "TrEv, x",
+    "n": "Drone End",
+    "r": null
+  },
+  "eLoseFocus": {
+    "$type": "TrEv, x",
+    "n": "Lose Focus",
+    "r": {
+      "$type": "TrCond, x",
+      "su": false,
+      "pu": false,
+      "geo": false
+    }
+  },
+  "ePause": {
+    "$type": "TrEv, x",
+    "n": "Pause",
+    "r": {
+      "$type": "TrCond, x",
+      "su": false,
+      "pu": false,
+      "geo": false
+    }
+  },
+  "eUnpause": {
+    "$type": "TrEv, x",
+    "n": "Unpause",
+    "r": {
+      "$type": "TrCond, x",
+      "su": false,
+      "pu": false,
+      "geo": false
+    }
+  },
+  "eStartBattle": {
+    "$type": "TrEv, x",
+    "n": "Start Battle",
+    "r": null
+  },
+  "eBattleEnd": {
+    "$type": "TrEv, x",
+    "n": "Battle End",
+    "r": null
+  },
+  "eUnlock": {
+    "$type": "TrEv, x",
+    "n": "Creature Unlocked",
+    "r": null
+  },
+  "eEvolve": {
+    "$type": "TrEv, x",
+    "n": "Creature Evolved",
+    "r": null
+  },
+  "eFusion": {
+    "$type": "TrEv, x",
+    "n": "Creature Fused",
+    "r": null
+  },
+  "eMapObjectOpened": {
+    "$type": "TrEv, x",
+    "n": "GeoObject Open",
+    "r": null
+  },
+  "eFtue": {
+    "$type": "TrEv, x",
+    "n": "FTUE",
+    "r": null
+  },
+  "eResourceChanged": {
+    "$type": "TrEv, x",
+    "n": "Resource Change",
+    "r": {
+      "$type": "TrCond, x",
+      "su": false,
+      "pu": false,
+      "geo": false
+    }
+  },
+  "eResourceChangedWW": {
+    "$type": "TrEv, x",
+    "n": "Resource Change",
+    "r": null
+  },
+  "ePredownloadSteps": {
+    "$type": "TrEv, x",
+    "n": "PreDownload Steps",
+    "r": null
+  },
+  "eGamerIdChanged": {
+    "$type": "TrEv, x",
+    "n": "Gamer ID Change",
+    "r": null
+  },
+  "eChoicePopupClosed": {
+    "$type": "TrEv, x",
+    "n": "Choice Popup Closed",
+    "r": null
+  },
+  "eArEndOfSession": {
+    "$type": "TrEv, x",
+    "n": "AR End",
+    "r": null
+  },
+  "eVIPSignUp": {
+    "$type": "TrEv, x",
+    "n": "VIP Sign Up",
+    "r": null
+  },
+  "eLeaderboardOpen": {
+    "$type": "TrEv, x",
+    "n": "Leaderboard Open",
+    "r": null
+  },
+  "eDebugInfo": {
+    "$type": "TrEv, x",
+    "n": "Debug Info",
+    "r": null
+  },
+  "pPct": {
+    "$type": "UsPr, x",
+    "n": "user_creation_epoch",
+    "r": null
+  },
+  "pUcd": {
+    "$type": "UsPr, x",
+    "n": "user_creation_date",
+    "r": null
+  },
+  "pIsSample": {
+    "$type": "UsPr, x",
+    "n": "sample_account",
+    "r": null
+  },
+  "pLevel": {
+    "$type": "UsPr, x",
+    "n": "user_level",
+    "r": null
+  },
+  "pCustomerId": {
+    "$type": "UsPr, x",
+    "n": "customer_support_key",
+    "r": null
+  },
+  "pAccountId": {
+    "$type": "UsPr, x",
+    "n": "account_id",
+    "r": null
+  },
+  "pTotalSpent": {
+    "$type": "UsPr, x",
+    "n": "total_amount_spent",
+    "r": null
+  },
+  "pPlatform": {
+    "$type": "UsPr, x",
+    "n": "first_platform",
+    "r": null
+  },
+  "pFirstLoginType": {
+    "$type": "UsPr, x",
+    "n": "first_login_method",
+    "r": null
+  },
+  "pLoginType": {
+    "$type": "UsPr, x",
+    "n": "login_methods",
+    "r": null
+  },
+  "pPrimaryLoginType": {
+    "$type": "UsPr, x",
+    "n": "login_method",
+    "r": null
+  },
+  "pSessionId": {
+    "$type": "UsPr, x",
+    "n": "session_id",
+    "r": null
+  },
+  "pUnlockedCreatures": {
+    "$type": "UsPr, x",
+    "n": "unlocked_creatures",
+    "r": null
+  },
+  "pLockedCreatures": {
+    "$type": "UsPr, x",
+    "n": "locked_creatures",
+    "r": null
+  },
+  "pTrophyBalance": {
+    "$type": "UsPr, x",
+    "n": "balance_trophy",
+    "r": null
+  },
+  "pGameName": {
+    "$type": "UsPr, x",
+    "n": "game_name",
+    "r": null
+  },
+  "pStoreId": {
+    "$type": "UsPr, x",
+    "n": "store_id",
+    "r": null
+  },
+  "pFacebookId": {
+    "$type": "UsPr, x",
+    "n": "facebook_id",
+    "r": null
+  },
+  "pGameCenterId": {
+    "$type": "UsPr, x",
+    "n": "gc_account",
+    "r": null
+  },
+  "pLanguage": {
+    "$type": "UsPr, x",
+    "n": "game_language",
+    "r": null
+  },
+  "pArena": {
+    "$type": "UsPr, x",
+    "n": "current_arena",
+    "r": null
+  },
+  "pIncubatorUsed": {
+    "$type": "UsPr, x",
+    "n": "nb_incubators_used",
+    "r": null
+  },
+  "pTopAnrena": {
+    "$type": "UsPr, x",
+    "n": "top_arena_reached",
+    "r": null
+  },
+  "pExperience": {
+    "$type": "UsPr, x",
+    "n": "user_exp",
+    "r": null
+  },
+  "pExperienceTotal": {
+    "$type": "UsPr, x",
+    "n": "user_exp_total",
+    "r": null
+  },
+  "pNbVerifiedTransaction": {
+    "$type": "UsPr, x",
+    "n": "nb_verified_transaction",
+    "r": null
+  },
+  "pSessionCount": {
+    "$type": "UsPr, x",
+    "n": "nb_session",
+    "r": null
+  },
+  "pPlayedDay": {
+    "$type": "UsPr, x",
+    "n": "active_days",
+    "r": null
+  },
+  "pHardcashBalance": {
+    "$type": "UsPr, x",
+    "n": "balance_hardcash",
+    "r": null
+  },
+  "pSoftcashBalance": {
+    "$type": "UsPr, x",
+    "n": "balance_coins",
+    "r": null
+  },
+  "pDartBalance": {
+    "$type": "UsPr, x",
+    "n": "balance_darts",
+    "r": null
+  },
+  "pAppLaunchCount": {
+    "$type": "UsPr, x",
+    "n": "app_launch_count",
+    "r": null
+  },
+  "pFTUEResumeCount": {
+    "$type": "UsPr, x",
+    "n": "nb_ftue_resume",
+    "r": null
+  },
+  "pAppVersion": {
+    "$type": "UsPr, x",
+    "n": "app_version",
+    "r": null
+  },
+  "pFirstAppVersion": {
+    "$type": "UsPr, x",
+    "n": "first_app_version",
+    "r": null
+  },
+  "pNetworkReachability": {
+    "$type": "UsPr, x",
+    "n": "network_reachability",
+    "r": null
+  },
+  "pPayingUser": {
+    "$type": "UsPr, x",
+    "n": "paying_user",
+    "r": null
+  },
+  "pFirstCreatureUnlocked": {
+    "$type": "UsPr, x",
+    "n": "first_creature_unlocked",
+    "r": null
+  },
+  "pDeviceModel": {
+    "$type": "UsPr, x",
+    "n": "device_model",
+    "r": null
+  },
+  "pUserStatus": {
+    "$type": "UsPr, x",
+    "n": "user_status",
+    "r": null
+  },
+  "pNotificationActivated": {
+    "$type": "UsPr, x",
+    "n": "notification_activated",
+    "r": null
+  },
+  "pDeviceCount": {
+    "$type": "UsPr, x",
+    "n": "nb_unique_device",
+    "r": null
+  },
+  "pDeviceOrder": {
+    "$type": "UsPr, x",
+    "n": "device_order",
+    "r": null
+  },
+  "pTeamCreatures": {
+    "$type": "UsPr, x",
+    "n": "team_creatures",
+    "r": null
+  },
+  "pBattlePlayed": {
+    "$type": "UsPr, x",
+    "n": "nb_battle_played",
+    "r": null
+  },
+  "pBattleLost": {
+    "$type": "UsPr, x",
+    "n": "nb_battle_lost",
+    "r": null
+  },
+  "pBattleWon": {
+    "$type": "UsPr, x",
+    "n": "nb_battle_won",
+    "r": null
+  },
+  "pFreeTrialUsed": {
+    "$type": "UsPr, x",
+    "n": "current_subscription_free_trial_used",
+    "r": null
+  },
+  "pSubscriptionGiftCollected": {
+    "$type": "UsPr, x",
+    "n": "current_subscription_gift_collected",
+    "r": null
+  },
+  "pNbTimesSubscribed": {
+    "$type": "UsPr, x",
+    "n": "nb_subscription",
+    "r": null
+  },
+  "pNbArPhoto": {
+    "$type": "UsPr, x",
+    "n": "nb_ar_photo",
+    "r": null
+  },
+  "pNbArVideo": {
+    "$type": "UsPr, x",
+    "n": "nb_ar_video",
+    "r": null
+  },
+  "pCrName": {
+    "$type": "UsPr, x",
+    "n": "creature_name",
+    "r": null
+  },
+  "pCrRare": {
+    "$type": "UsPr, x",
+    "n": "creature_rarity",
+    "r": null
+  },
+  "pCrDna": {
+    "$type": "UsPr, x",
+    "n": "balance_dna",
+    "r": null
+  },
+  "pCrLvl": {
+    "$type": "UsPr, x",
+    "n": "creature_level",
+    "r": null
+  },
+  "pUserAllTimeLbLastObserved": {
+    "$type": "UsPr, x",
+    "n": "user_all_time_lb_last_observed",
+    "r": null
+  },
+  "pUserAllTimeLbRankLastObserved": {
+    "$type": "UsPr, x",
+    "n": "user_all_time_lb_rank_last_observed",
+    "r": null
+  },
+  "pUserAllTimeLbRankDelta": {
+    "$type": "UsPr, x",
+    "n": "user_all_time_lb_rank_delta",
+    "r": null
+  },
+  "pNumberDroneEnd": {
+    "$type": "UsPr, x",
+    "n": "nb_drone_end",
+    "r": null
+  },
+  "pNumberGeoObjectOpen": {
+    "$type": "UsPr, x",
+    "n": "nb_geo_object_open",
+    "r": null
+  },
+  "pGamerId": {
+    "$type": "UsPr, x",
+    "n": "gamer_id",
+    "r": null
+  },
+  "pGamerIdTag": {
+    "$type": "UsPr, x",
+    "n": "gamer_id_tag",
+    "r": null
+  },
+  "pNbSubscription": {
+    "$type": "UsPr, x",
+    "n": "nb_subscription",
+    "r": null
+  },
+  "pCurrentSubscriptionSubContext": {
+    "$type": "UsPr, x",
+    "n": "current_subscription_sub_context",
+    "r": null
+  },
+  "pBalancingVersion": {
+    "$type": "UsPr, x",
+    "n": "balancing_version",
+    "r": null
+  },
+  "pTodaySessionCount": {
+    "$type": "UsPr, x",
+    "n": "today_session_order",
+    "r": null
+  }
+}

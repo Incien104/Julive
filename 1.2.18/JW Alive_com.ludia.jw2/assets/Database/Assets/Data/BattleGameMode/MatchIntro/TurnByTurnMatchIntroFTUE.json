@@ -1,0 +1,8 @@
+{
+  "$type": "MaIn, x",
+  "matchIntro": {
+    "$type": "[GaOb]$, x",
+    "guid": "86aa8e404e94a8d4d94d85519d93972f",
+    "TypeName": "GaOb"
+  }
+}

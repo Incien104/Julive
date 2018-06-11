@@ -1,0 +1,36 @@
+{
+  "$type": "TuBaDiDB, x",
+  "Key": "DB_TUTO_BAT_DIALOG",
+  "DB": [
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "918551d9b1d13b441afa73e677a3cf91",
+      "TypeName": "TuDiDa"
+    },
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "afe24043e2682ff48bc746a122c91f8a",
+      "TypeName": "TuDiDa"
+    },
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "90f53cf89ce36d34ea904dc686bac444",
+      "TypeName": "TuDiDa"
+    },
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "8c3494f6deb47a9488b39bb8b54f579c",
+      "TypeName": "TuDiDa"
+    },
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "874d74d91b341094684e623fbb2a50b9",
+      "TypeName": "TuDiDa"
+    },
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "6610b93d2baf3654f9580e2a35f9749b",
+      "TypeName": "TuDiDa"
+    }
+  ]
+}

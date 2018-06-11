@@ -1,0 +1,22 @@
+{
+  "$type": "MoCfg, x",
+  "op": {
+    "$type": "[GaOb]$, x",
+    "guid": "e0004629693dea647964d3f6de658639",
+    "TypeName": "GaOb"
+  },
+  "fl": [
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "403d50c5986e0fe4899a0d923b999b9d",
+      "TypeName": "MoFSdD"
+    },
+    {
+      "$type": "[MoFb]@, x",
+      "guid": "46d30aa219682d54cb83a318d19105b0",
+      "TypeName": "MoFLN"
+    }
+  ],
+  "p": 10,
+  "t": "Walmart_US"
+}

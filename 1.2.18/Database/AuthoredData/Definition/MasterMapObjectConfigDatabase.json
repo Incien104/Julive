@@ -1,0 +1,231 @@
+{
+  "$type": "MoCfgDB, x",
+  "Key": "DB_MOCONFIG",
+  "DB": [
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "67bd78a9ac89aec4b973f2b81ff7f111",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "bcc57b153f5275646a5af659a89eeb73",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "7db90b96e249d80479804fa624221477",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "30bb0c21433a460488a8a25fb0350a50",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "7bfc0db7c5001184b8b96aca5b5f6526",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "721db21f48baa3b47a4028a772eddaa2",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "b983e9710962ca84db59b6d38f012521",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "40ece5df677976545b6a45955fccd5ca",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "a733719d9ee8c9b45b502d90bfa2b601",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "481e29a9fa9d02044a9b4eb310315f21",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "4b7290fcf4e033643971083e48df681c",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "90332ad6daa026c40b5d30d379b3bc21",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "f6d665c21ac06ef4a98d628f094891dc",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "4814b417ae8188448aa52764c22dfef6",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "68c1a4da9792eb54c9abc422f1f64aeb",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "74290821ab28cc84ab6c50c10150d334",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "5af3496627740564b9fc4b20948929ce",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "b271716b9b2fb114fbae9d1fb7ed99d2",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "c67dc9d94724997469fddca729c7d9de",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "43e975e148141ba44ba470c10526535c",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "fcb818173d1f9f1488d3e5d639d647e5",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "247076d7bede64444b16eb0477e4acf9",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "8bf605f4d97f57d4d9264c2643087a6d",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "2e04c65c35ecc4a4dbc61677e71a1273",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "f4532e0a88ab9d749b7da2646456a0d6",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "747ac9a15d28e914ead2c6c0b2318c7e",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "de6a6eb87d4169d44afe45640dbb5d0f",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "d74877e767e2b5640bcf77f850d559b6",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "c4645ed6ff1b230428453a6fb4d490c7",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "a3bcdd439e6bc6b43903fa30566d01d9",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "c7a6544851c180c42ba52126059045da",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "3acce4e2c285ddb47b23dd3d4d7ca5c9",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "b9765d97cc7ef1043ad4d8a67cb32b75",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "d318ffd30f252dc4780ec448b1ede92d",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "ce6f0488c7f866246b90c343c4eb5646",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "8e2953a37dd155845a3cf9f58913746f",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "0015ca8bb7479bc48b305a06630e150c",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "e4b301b647d9d4842b18ed5e70bf4e3a",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "554e9e3d51a8727449bc12d67e92de59",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "79a3a7ed4f2986540a5f9e8227d526d5",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "b21c41fa5daea884f875cea99a536001",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "d32f569b28b943e48b0d94319e589d3f",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "b0bec0ca27dc7804f9b298acd9819793",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "407cd88ed1f76294ea6a5468c1136bfb",
+      "TypeName": "MoCfg"
+    },
+    {
+      "$type": "[MoCfg]@, x",
+      "guid": "30707d1e52f4d0f4d9a4ee2089ae0d9c",
+      "TypeName": "MoCfg"
+    }
+  ]
+}

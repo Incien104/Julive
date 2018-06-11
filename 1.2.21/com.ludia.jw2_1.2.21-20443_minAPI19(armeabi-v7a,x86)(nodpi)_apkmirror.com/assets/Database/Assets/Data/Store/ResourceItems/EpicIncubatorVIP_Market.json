@@ -1,0 +1,55 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "823fc9045ce590349927d8a3c157fbbf",
+    "TypeName": "Sp"
+  },
+  "id": "EpicIncubator_VIPFirstTimeOffer",
+  "name": "IDS_STORE_ITEM_EPIC_INCUBATOR",
+  "slvl": true,
+  "vva": false,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "ByPlLe, x",
+      "ql": [
+        1000,
+        1080,
+        1160,
+        1240,
+        1320,
+        1400,
+        1480,
+        1560,
+        1640,
+        1720,
+        1790,
+        1870,
+        1950,
+        2030,
+        2110,
+        2190,
+        2270,
+        2350,
+        2430,
+        2500
+      ]
+    }
+  },
+  "prd": {
+    "$type": "RewPr, x",
+    "rwd": {
+      "$type": "[RewDa]@, x",
+      "guid": "418da7184ad24194b9cd3cdff972e123",
+      "TypeName": "RewInV2Da"
+    }
+  }
+}

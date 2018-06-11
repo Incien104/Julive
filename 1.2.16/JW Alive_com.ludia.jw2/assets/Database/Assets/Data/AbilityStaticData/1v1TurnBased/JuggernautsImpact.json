@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_JUGGERNAUTSIMPACT",
+  "d": "IDS_ABILITY_LONG_DESC_JUGGERNAUTSIMPACT",
+  "sd": "IDS_TIP_ABILITY_JUGGERNAUTSIMPACT",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "8d6b23f041ea6f241852547e1ce2c365",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 1,
+  "c": 5,
+  "pri": "f",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "39c64fb05ad18db4eb5c55b8bae21774",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "d9ffc72fb93f8c14eb6dc96bbb6cbfd9",
+        "TypeName": "BeEfDuStDa"
+      }
+    }
+  ],
+  "uc": true
+}

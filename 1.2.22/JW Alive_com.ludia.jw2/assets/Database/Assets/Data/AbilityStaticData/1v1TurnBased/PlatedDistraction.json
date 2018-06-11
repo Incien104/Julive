@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_PLATEDDISTRACTION",
+  "d": "IDS_ABILITY_LONG_DESC_PLATEDDISTRACTION",
+  "sd": "IDS_TIP_ABILITY_PLATEDDISTRACTION",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "d701972ab46352c498cb2132c7cf2b8f",
+    "TypeName": "Sp"
+  },
+  "cod": 1,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "6bc4a3084221a254596e3f57bd2c3b7e",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    }
+  ],
+  "uc": true
+}

@@ -1,0 +1,27 @@
+{
+  "$type": "StItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "4eefa78038b544d46bfe056c8cd88302",
+    "TypeName": "Sp"
+  },
+  "id": "com.ludia.jw2.test5",
+  "name": "IDS_STORE_ITEM_CASH_VAULT",
+  "slvl": false,
+  "vva": true,
+  "vvp": false,
+  "vbp": false,
+  "cost": {
+    "$type": "ReaMoCo",
+    "pid": "com.ludia.jw2.test5"
+  },
+  "prd": {
+    "$type": "ResPr",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": 7000
+  }
+}

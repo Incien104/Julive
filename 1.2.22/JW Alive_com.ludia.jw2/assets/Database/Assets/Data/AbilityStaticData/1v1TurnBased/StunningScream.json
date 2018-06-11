@@ -1,0 +1,26 @@
+{
+  "$type": "AbStDa",
+  "n": "IDS_TIP_ABILITY_TITLE_STUNNINGSCREAM",
+  "d": "IDS_ABILITY_LONG_DESC_STUNNINGSCREAM",
+  "sd": "IDS_TIP_ABILITY_STUNNINGSCREAM",
+  "i": {
+    "$type": "[Sp]$",
+    "guid": "8d6b23f041ea6f241852547e1ce2c365",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 2,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt",
+      "b": {
+        "$type": "[BeDa]@",
+        "guid": "9075863d54c3a59488bce9c85f2adc08",
+        "TypeName": "BeEfDuStDa"
+      }
+    }
+  ],
+  "uc": true
+}

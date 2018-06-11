@@ -1,0 +1,16 @@
+{
+  "$type": "MoFSdD, x",
+  "sdt": "spotlight drop",
+  "ccd": 15,
+  "rew": {
+    "$type": "[RewDa]@, x",
+    "guid": "74b6b262c6332424ea07fd9eaa2445b0",
+    "TypeName": "RewLi"
+  },
+  "trew": {
+    "$type": "[RewDa]@, x",
+    "guid": "",
+    "TypeName": "RewBaInDa"
+  },
+  "sdl": null
+}

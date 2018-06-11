@@ -1,0 +1,122 @@
+{
+  "$type": "RewInV2Da",
+  "dpn": "IDS_STORE_RARE_INCUBATOR",
+  "q": {
+    "$type": "[ByPlLe]@",
+    "guid": "266f16eb92747b545aa835d26fdb9695",
+    "TypeName": "ByPlLe"
+  },
+  "cul": null,
+  "gar": [
+    {
+      "$type": "ByLeCuIt",
+      "a": {
+        "$type": "[ByPlLe]@",
+        "guid": "ef2b35a2b0a447745a59df085e7e3cba",
+        "TypeName": "ByPlLe"
+      },
+      "r": {
+        "$type": "[RewDa]@",
+        "guid": "2142c5e689a2aa64ab90ca610322eb14",
+        "TypeName": "RewCuDa"
+      }
+    }
+  ],
+  "gel": [
+    {
+      "$type": "ByLeGeIt",
+      "q": {
+        "$type": "[ByPlLe]@",
+        "guid": "0f3817d58abad3042abc8e8a3d8f97b5",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@",
+        "guid": "f8151e143adc54c4b8b2fe8c06502a9f",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 5000000,
+      "minv": 2,
+      "maxv": 2,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "c96fa22f214c09443a541147de6b830a",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "953e566d6ae6f5d4091b8a9b603494d6",
+        "TypeName": "RaStDa"
+      }
+    },
+    {
+      "$type": "ByLeGeIt",
+      "q": {
+        "$type": "[ByPlLe]@",
+        "guid": "e68d652fb6362ba42853c869b667f558",
+        "TypeName": "ByPlLe"
+      },
+      "ex": {
+        "$type": "[ByPlLe]@",
+        "guid": "87db7a88afcd48541bd0784ddc6ee128",
+        "TypeName": "ByPlLe"
+      },
+      "exp": 500000,
+      "minv": 1,
+      "maxv": 1,
+      "rlw": {
+        "$type": "[RewLiWe]@",
+        "guid": "79051cd25c7bd9747b91ba4edc8e0dd9",
+        "TypeName": "RewLiWe"
+      },
+      "r": {
+        "$type": "[RaStDa]@",
+        "guid": "f67f68c739935db4da64001e35935f60",
+        "TypeName": "RaStDa"
+      }
+    }
+  ],
+  "bge": {
+    "$type": "GeItBa",
+    "minv": 3,
+    "maxv": 4,
+    "rlw": {
+      "$type": "[RewLiWe]@",
+      "guid": "abcb1590f56b14143af30c90f8d332e3",
+      "TypeName": "RewLiWe"
+    },
+    "r": {
+      "$type": "[RaStDa]@",
+      "guid": "cfa90a33e8d849f4f869965e7d7261bd",
+      "TypeName": "RaStDa"
+    }
+  },
+  "img": {
+    "$type": "[Sp]$",
+    "guid": "9b697cdd282650243875c2fb712993a5",
+    "TypeName": "Sp"
+  },
+  "mdl": {
+    "$type": "[GaOb]$",
+    "guid": "4c42211becf532146aac8a8cf0cccbe3",
+    "TypeName": "GaOb"
+  },
+  "bic": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 7843136,
+    "r": 4196076
+  },
+  "olc": {
+    "a": 10000000,
+    "b": 10000000,
+    "g": 10000000,
+    "r": 10000000
+  },
+  "oli": {
+    "$type": "[Sp]$",
+    "guid": "c47de76f3f58bfe499f558c891912397",
+    "TypeName": "Sp"
+  },
+  "devName": "PromoArena3"
+}

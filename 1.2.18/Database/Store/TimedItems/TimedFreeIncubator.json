@@ -1,0 +1,32 @@
+{
+  "$type": "TiStItDa",
+  "icon": {
+    "$type": "[Sp]$",
+    "guid": "6370958aac2380b42a5e2c8deda280c1",
+    "TypeName": "Sp"
+  },
+  "timer": 21600000,
+  "id": "TimedFreeIncubator",
+  "name": "IDS_STORE_ITEM_FREE_INCUBATOR",
+  "slvl": true,
+  "cost": {
+    "$type": "ResCo",
+    "rt": {
+      "$type": "[ResTyDa]@",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu",
+      "v": 0
+    }
+  },
+  "prd": {
+    "$type": "RewPr",
+    "rwd": {
+      "$type": "[RewDa]@",
+      "guid": "b6294a047689ed64c8aca5d1a3620a18",
+      "TypeName": "RewInV2Da"
+    }
+  }
+}

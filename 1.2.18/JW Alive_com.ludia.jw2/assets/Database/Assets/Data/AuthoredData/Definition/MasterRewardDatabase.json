@@ -1,0 +1,1266 @@
+{
+  "$type": "RewDB, x",
+  "Key": "DB_REWARDS",
+  "DB": [
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "67af906eca33dff49a64a6db2add74f6",
+      "TypeName": "RewCuDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "2142c5e689a2aa64ab90ca610322eb14",
+      "TypeName": "RewCuDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f589d7168ea242d43b316438e37adaf1",
+      "TypeName": "RewCuDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "8feada3df3fae584da5ca841066be0e7",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d1bdc10362a3a2c44a2cdd4107605502",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "dfd48218e1a98ad4992d058a03bf77f7",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "93c6cdd917174f040b6d005a5983c600",
+      "TypeName": "RewInDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "838b6c1e2bfec3744bc0eb3c5fce8f8c",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "43ecd04a84137544bb6fe6aa27c32c4f",
+      "TypeName": "RewCuDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "eab666ae9722db1498b36c0690d659c6",
+      "TypeName": "RewInDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "287abd8908ca30d4381f16b3dd529f7a",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "79bcfdbc8164f68449259e8d04d61599",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "480dfa23ea8840e41a199fabcfc2e822",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "75c92729cc70a974d9088fbb886f1ad7",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "337ea7e9d581e3042b5f7a9973a31ddd",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c98625537097773429496d02b5377e13",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a10cd40029a943d498738e53044a8ebf",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "4646f2cc1cfdd3c44a711662637fdb27",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3e331bb2a5621954ba2fb0630a95f20c",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "588f62ad645650b40b719e437ba67bc7",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "6d0f5d51f037cfd44ab2a06fed1cbc93",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "432c3e52113588c4a8b2259b15f0f895",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c8cfdf05361780742960b11c7c7a5529",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "9a5ffe0b44652e84f9bc8830e451feb1",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "24655e20befc2d147b7384bc858de80b",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e0e543aaa837609479890266aed0962b",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "65803143544563744b80b74371414408",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "6780dcf000826dc468f9841820755635",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3c8fc4a4390cf5244a416a7f56c3fb42",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "b5778e0579e9c2642b840ba648b7167f",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "536271f2663305a49a499996afe26ee2",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "776f6c2339488df469234089ffddf08a",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "bc3354f39bae74e4fa27c428ae581c8e",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1eb3e231482754b488200b1e695d6832",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d2ab1a735c158034880c50d01196fd49",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a6c9faf6b3a0c844ea8e83431100f137",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3cefcbf3651c5ee4085cf7436e028f33",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0eade52cda24f614a96fa201b0c3828f",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "4af272dd2dc199f49b90e5c733676a7e",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1bf0a4507af9d6c4d956e1a2c3c62156",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "7382bc9b9bdcc6d4bb9ca2b48f9b0e57",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3f7097c5c56bed541926980ac4f603af",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "90e04ede26f7c5b4b85ec4f711ecde05",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c5f20254655bc374696c6e3adb8e0f35",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "68f7027bce1b0e74f9e12f292a5a3fcb",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "275cd89433c3dc944b25d2149180b0af",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "23eb91a4d2e58454aa0abc21ed181c06",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1640d959fcdef2b43ac0df36ce9271a2",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f79dc9506d6445e47b07e6f9fc5faf9e",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3d98f05c0e444cd4cbe3011c2d7e18ec",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a834fc9d1bcff414ab2cfc46506ceaa9",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c4f70814d6021034a9d781c26c9fc26d",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "19cc9cc56e7104f45ad44deaa3e5bc32",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "96c699b449f53a540b154af0918ba188",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "7b885ac1333f30f48bc27655db27f766",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e403874ba5a2211488f145a62c27b1b2",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "ed5544e240dc73544a619579944cba97",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a43ecd6155ec2d643bc1df3e83cc94b7",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c2a5e029c34b94840b616586187bb159",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a09b49a5e72b13d48bd6e050f10d88f1",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3894b2f17d8460d45b9610589804ab9b",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "46060797ec4f12647a7f1ff650ab1373",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "2d2a1ffdb8b4b3f4f93e42e81ebcf360",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "dd8490407554d9e4494fc648bb9b9ee1",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1c17d80f728cbf64299e64778315c6bc",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "6eca804069434be4fb0c3c91b3b1f570",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d7bec4ed2156b65418884a62420b01cf",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e4a968f0617ece84e9c8f2e3fe0e7752",
+      "TypeName": "RewInDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "dded4fa9aa51db84b8131ef8916943bd",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f334c2d651aaa1f42b5a5f3fcfd9e04d",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1d063347d11467e4eac33c4af9b91401",
+      "TypeName": "RewCuDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "4c1aa5ecb39ce83438376bd4a4b501a6",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "576f070562e53c9438352ba063c01a72",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "418da7184ad24194b9cd3cdff972e123",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "28b437885aa54c14d92d84d4d1b4ddec",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "b6294a047689ed64c8aca5d1a3620a18",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "efd38ee3628863b45afdefd4c3d4c6ed",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "57f9157170478ad4192b4a21208bb631",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a2f35b4a050919c498bfe2e19e15515b",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c2c19baff903ea24f918676e78c93f26",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1f57c925539e594409ef0edec7fccf0b",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "79275d1208dccfa49ac72b63faab0ab8",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d39602c351f15e644ac42e58d1f197f5",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "472517c6d7ecfce4c9f95ff00ccf762b",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "381acec2937004547b1f526c32d16b7e",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "6747ec72a55de5c4ea40159dc18415d8",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "b55b0d789c7d09e4280d2f4aa99844df",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0927c14ae55525b4cae615682b3a1a66",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "243b446afd589854ab5b6921c8e16e89",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e1475701e2e0ceb43b263fa733c9c09e",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "39e2756470dc2ab48a51323e26998a6b",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e08af422771274642a9f9d40b6e2127d",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "db4bfe5231e9dfd439199107f96de6de",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "53ace08dfc38cc1478503299b9f9a43d",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "065da32bd872d744c97fd2199b1c6f5f",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e483d034c2e96884a99f6962c27c721c",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "abcb1590f56b14143af30c90f8d332e3",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "70f144f48d6fae7409ecd2f198b281ea",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0367776f233171d4596f8a975d494182",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c24cf6d496e8fd94fbaeab01d2d0527d",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "524b56a03f660a7478fd60dcc29eae11",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "79051cd25c7bd9747b91ba4edc8e0dd9",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3352aead6803cb148bb0edb6bc010a6c",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "7c4abbea48865d949993854062b74bb5",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "33fa9b5b66c837841a15a9c131f65914",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "7509fcb563deb36429f8be04ad9e9708",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c96fa22f214c09443a541147de6b830a",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "820cf1effc47afc40a0d9b2a22164117",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "ab7b3e5815f08f8429b774dfb0b45864",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "62012e7899b5da54e82013491ddeb0a0",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "91ccdb5991f9d754cafca8f643debbf3",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "22d98162449945f4292845a0f149ee57",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "27282a6b62285da4e875a7244fb797c1",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "7cda25463ab4e4f4e833955e10ceb891",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1cfe4312193ecf24ca5605ac26959aa5",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "55ebbe145858fe44e96aed8f92b85bad",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "898cbd5a82dc96e4997bfac03c905cbb",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "cf721623590739840b7ab101af9f3c32",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "38c6f9cd8830765438d67d91a77ce354",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c84ada9df6b3ab8409544c510abbbb53",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "b877bc6d1a186704b8d7431ca598f246",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "9b853aea446d29541af31dc331ac5d0e",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a5121d0f0123869488d92fe894f71dd6",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "59e90863d84de5b41b7b91f83d28ed4e",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "449ce4a3c2bc861438a20183e3f7bdef",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e7289f5cc2f0bd744a48abec05282b57",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0c235b8563509df49bc84f83426ec172",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1147816786173bc4c969d33329b4031e",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "623d6992c7b89dd49bd65b0ebb9253b4",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "fca37283d7ad2dd4889c9e67edea2419",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1061b685af1818d4eb08b70bb3db99ed",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "9fb4c2bb3bbd43d46a5f64db1e7c51c0",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f6b5e0253392e4f47a61526c0fd84412",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f7fc42f9744df51458dc92483cb571d1",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "5ec57f3ca27d39244b17f414458bd641",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "882ff29294181fd44b8482398a38aba4",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e263e07f1021e1c4cab90884cec14af3",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "5326daa5f69a6244b82f9868b07c46a8",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "ae59b068f57e1254e8ccae828f239fca",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "306b950ca60db7a44b166501858c8f77",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3662ab707898a404584248e591147aec",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "8c2589050a13ac844919210c7fa76b56",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c5bf6870c135cb74aaafa1d1cbf6ab83",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e0672427dab44d94aa329f70fd1d0bf5",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a24a21f7b1732114abce7730063a0a8e",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c9d1bdc876a385449a51435579fd45e9",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "4d41ccad6f1d5414da16491823465d49",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f5430300fb6cb95428db7cc0ef5f41f2",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "70ca9661617bff44086d1f100de32292",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0235a6a770479514792c20d31441fa63",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "47de32b4874f3e74bb33b5aaca75287d",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "00e86b11ba5c081419ec30c3ba38706e",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c60b8682d7d0ea34fa6d8cdf61423b7d",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "10ac2c582b065e44089a5a81f7a63f55",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0ee2e95808d782a4999ce3dfe89add42",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "9259f20eadcd122478d335f8114a4138",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a0caeaee236ed6548942b4c1f01cfe4f",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0f7ccd3c0dbbe314399bfa08ebd13bcc",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e88a19544738d5149a3ddbdd094dbf35",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "bc6bd6bfcee9ba54ba9558411740021c",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0275c6c29da4c3948bd580a09b5b8ac4",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "4a8f4440a5dd1cb4ba2dea22be4c2079",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "6aa6065014bebb3419e15dce4423787c",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "2e433db9a7bd2b94f852582dc98bc7c9",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d52e36276d6aff1468e683ab1ecf9c4c",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0ac1532f949e4ad48b88114c5ad8faa7",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f1376b981082d7a4d995a7cf2b12075b",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "ef5ec31ef372c3445a14282f57f8042a",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0290106916005f24c9354d1de73f8f2d",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "2c39eb7133ac420448caa8985ad0f412",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "98acb72c77fa36a409e49b91305676d2",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3698efc41b89f624c9deec3c57d9c0c4",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "8450dd68ea2288a49b9630b7d2882782",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c266c2feb440e7048b2254b02d2c9797",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "316d27400b0a914449e30d69ec766ee4",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "35ec329d9450f63469ec0794c8393ea3",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d091bc9819db79544a92f7c3fd3075ca",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c301b554d8bd5ef4f8511aa683e9450d",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c527e433e701c2e49b23ed96187c064f",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "8a4b741badeb5a24bbeaff9e266f8c11",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "04c1885a1b797124b990a80109c4cc74",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "137b0797b2894be43a7e5148cb75ba73",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "699adf24557fc964586025b49154ed6c",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "33867ec8bda05fb4093f6fe56ded2743",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1b70d21f3f0525e4394dd4c671ec7e44",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "5b70bf4d7e6529e4aabe0aed7b962afe",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "65cd8d606bb3ff142bcae23b34ea733c",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a136057300deb254e9eba753301d55d4",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c9653b50c7c9b744e83b8050da784f21",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f0be19183c3e7a647b58980f44db8217",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "ab0b7cfad2c8a4140ae28428aa0af51b",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "250ef929a484fe44c809ff34dfa04c3b",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "5aa7259056739b240bd7a690167adde4",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "52e011d84f8f1cf4184ff06c97cfc8d2",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c1158490a907a704a97e64659dc95d7d",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "186a5319133cd1a43a30e7ed62c080a6",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "20e7b8f6314fe0c4b90876029b6e3c88",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "7780fc7f0e729684e9ef3e9c74c70fa4",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "458852f6bd405ef4cae99d42916454fc",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1a2b802cfbebd1c4293fc5617b4e7df1",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "23944f4ccecf62641a8c14f8063f5352",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "447a5a3999f1c5a4ba21a8acc31bd11e",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c94d312482a398041ba30fee54e9a8d6",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "0d286aa0d8d0b0e40926b455a9b72b04",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "06b89b013cee4d249a5f978e1bc3a2cb",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "41e936cc298d6d04fae7b310accfe2c8",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "aad6e25fddd3eda4eaecb90f573547f3",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c514598c54689d6469bec58ea26e4407",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f7faf16a39d2ac44eaf5925120142f83",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "03cca098cf6d71940a9ee12d7e1b44c5",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f262cb66c87e5614b8d511e3f3515e49",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "11f0f0632bdbe174e93b0503369bd6ff",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "49288850dd235dd4cbfc04eeabb89cb3",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "b85f33c79cc75704da21c7014dcc2a05",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "05e53799730af1b49a4b4ae9a5863ee5",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "7ff9b431230e9c741a9035566d298773",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "b4b541388d0828f4c94c540ca7aad004",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "fc891e786efde404b9e5f8cbf87397fd",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f6e9cfef882940f43ad1872a1a722c5e",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "098aebb6d295ac14484058be047fc455",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "b3578b37e3dce9343b910fc20f61dd8e",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "9d3eb5bf47c1f6140863bd826e82a3be",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "fc283319469646b48a7f9d717e6dcf19",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "40d58e68c130c19468bbaf33dc9f3cf2",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "bfd4270dc1fa2d945955b8af2b24d77e",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "8f81b7e31eacd2d4a9676f3f9cc547a5",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e23bfef5b65247743bb92ad9a1fc2690",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f5b604f40a7b1fc4b95ce86490c54925",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "ce01630aaee6d584795287f2daae820e",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "c68e589ba774caa4fae29a41624729c8",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "9935c08cecbb478419d98354f65a53a2",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "eb3e106b01931754eab64f839b19505a",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "5de74a31e0cb9124cb985d3d3e692502",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "3964ce0884c7d704099815f0ac1d4ee8",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e999b00b36ceebe45b358d691b7040ea",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "a04a3303b5b568c458569642e47c6e38",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "761a8d33e11b83244859c09361953f09",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "1023b724b27f6c64aa0c509c6048ae4a",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "e9a53ccfbe73c1a44861db3837ea8d94",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "b9e7c84e60f041d45bdbd73517c34a23",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "2607a8db34f879246a7f9b502279fb6c",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "01c6c71aeb86ac442803f817a74c3582",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "2eca4e6c1c4f0764981bd1f56b3fc3a0",
+      "TypeName": "RewDnDa"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "fa0c4d94375ae434e925f4033d31878a",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "6377124266f165d43881e027fef9c427",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "2e4852b5f8b7e0549b42daf5475df175",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "f7e9ea91a9678f4438668f3c54bbb181",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d010ca71f2b66574fa8bf5c8f498cea1",
+      "TypeName": "RewInV2Da"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "cc4118cc8be54984dac4884bd6eda6e1",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d324b14572acef94cb665e4d0f5a5ef7",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "d84feaba5aec0dc4f835772bdf3dbf07",
+      "TypeName": "RewLiWe"
+    },
+    {
+      "$type": "[RewDa]@, x",
+      "guid": "9656dbb13f99fac4ca73686f3c7201b1",
+      "TypeName": "RewInV2Da"
+    }
+  ]
+}

@@ -1,0 +1,1581 @@
+{
+  "$type": "ArStDa, x",
+  "ti": 3,
+  "dn": "JW Cargo Ship",
+  "lkn": "IDS_BATTLE_ARENA_TITLE_ARENA3",
+  "asn": "Battle_Dock",
+  "ai": {
+    "$type": "[Sp]$, x",
+    "guid": "e88b80cf0627b5746bf37bd45e231e47",
+    "TypeName": "Sp"
+  },
+  "si": {
+    "$type": "[Sp]$, x",
+    "guid": "6bb6628ae33b5be469ffb6ed19d53d3b",
+    "TypeName": "Sp"
+  },
+  "iuci": [
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "d1f0d687b433300449a7f859dfa26d50",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "5995be6925626d749acc224b0e315507",
+      "TypeName": "CrStDa"
+    },
+    {
+      "$type": "[CrStDa]@, x",
+      "guid": "479219bb57fbe264da16026914fcc9f2",
+      "TypeName": "CrStDa"
+    }
+  ],
+  "exiuci": null,
+  "rau": {
+    "$type": "[RewDa]@, x",
+    "guid": "",
+    "TypeName": "RewInV2Da"
+  },
+  "rbi": [
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "e9a25e9407ba7a2468966f15ab93a1d8",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "e9a25e9407ba7a2468966f15ab93a1d8",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "4b8696d16676cd043923473f41decc6a",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "e9a25e9407ba7a2468966f15ab93a1d8",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "e9a25e9407ba7a2468966f15ab93a1d8",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "4b8696d16676cd043923473f41decc6a",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "e9a25e9407ba7a2468966f15ab93a1d8",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "e9a25e9407ba7a2468966f15ab93a1d8",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "bd321cadf809e5d479e38949bf159afd",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "3034f1e2c8c58864f83755f7fe945eae",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "5cdff1f4ea8afa8418bf92b0d9a0e7c3",
+      "TypeName": "RewBaInDa"
+    },
+    {
+      "$type": "[RewBaInDa]@, x",
+      "guid": "4b8696d16676cd043923473f41decc6a",
+      "TypeName": "RewBaInDa"
+    }
+  ],
+  "drt": {
+    "$type": "[RewCuDa]@, x",
+    "guid": "2142c5e689a2aa64ab90ca610322eb14",
+    "TypeName": "RewCuDa"
+  },
+  "dcr": [
+    {
+      "$type": "DaCoRe, x",
+      "dvm": 5,
+      "coin": 108
+    },
+    {
+      "$type": "DaCoRe, x",
+      "dvm": 10,
+      "coin": 45
+    },
+    {
+      "$type": "DaCoRe, x",
+      "dvm": 15,
+      "coin": 18
+    },
+    {
+      "$type": "DaCoRe, x",
+      "dvm": 20,
+      "coin": 9
+    }
+  ],
+  "ainame": "Little_Timmy",
+  "sc": 3,
+  "tn": 1000,
+  "ttp": 950,
+  "mwtrop": 30,
+  "mltrop": -24,
+  "addl": false,
+  "mmv": [
+    90,
+    150,
+    300
+  ]
+}

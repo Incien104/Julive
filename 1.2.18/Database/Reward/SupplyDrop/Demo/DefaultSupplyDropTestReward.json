@@ -1,0 +1,76 @@
+{
+  "$type": "RewByLe",
+  "lt": [
+    {
+      "$type": "[RewDa]@",
+      "guid": "314385e7d6fc0014daa648b0b41b3c98",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "d1b05dd708093b647919a8d49b782c63",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "ab345cf7e77f4cc4b86df884aef97e2f",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "8eac5896c3940fe4a8fa4a245ae93274",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "8eac5896c3940fe4a8fa4a245ae93274",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "1d0dfcb5f6fe40148b690ff76d9ad552",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "4504d65b4dfdc7442baf8942ab7e1941",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "3d292498ed964df409777205f21d9a88",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "420ea8921194c4946b512b84257cd8b4",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "d49dae6df707b6c4ab079f498b68cd7d",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "ddea423b00ad9704c93b2274e6c9ef1c",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "b6958a86af940cc46860738e537443d7",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "76ecc375e43172443ad0cf27935b72c2",
+      "TypeName": "RewLi"
+    },
+    {
+      "$type": "[RewDa]@",
+      "guid": "2e3b71ce485ad504ab9fee73da86c56e",
+      "TypeName": "RewLi"
+    }
+  ],
+  "devName": ""
+}

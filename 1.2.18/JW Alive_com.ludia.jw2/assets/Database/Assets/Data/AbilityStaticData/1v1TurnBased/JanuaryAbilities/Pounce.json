@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_POUNCE",
+  "d": "IDS_ABILITY_LONG_DESC_POUNCE",
+  "sd": "IDS_TIP_ABILITY_POUNCE",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "fb46e70ae7668cf4a907121f0ded373b",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 1,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "3cf8ac7fc0a1d25419653930e6de35ee",
+        "TypeName": "BeEfDuBuDeDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "39c64fb05ad18db4eb5c55b8bae21774",
+        "TypeName": "BeDaBaDa"
+      }
+    }
+  ],
+  "uc": true
+}

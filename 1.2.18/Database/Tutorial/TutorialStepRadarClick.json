@@ -1,0 +1,17 @@
+{
+  "$type": "TuStDa, x",
+  "tsad": 2,
+  "tsid": 3,
+  "tsd": true,
+  "tsd3d": false,
+  "ticp": false,
+  "trd": 0,
+  "tdl": [
+    {
+      "$type": "[TuDiDa]@, x",
+      "guid": "a9fec2ef1f5dfa74996eb545b6dcdd48",
+      "TypeName": "TuDiDa"
+    }
+  ],
+  "tsan": "Radar Button Tapped"
+}

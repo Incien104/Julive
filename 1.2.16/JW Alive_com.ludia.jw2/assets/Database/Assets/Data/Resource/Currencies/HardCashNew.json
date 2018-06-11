@@ -1,0 +1,38 @@
+{
+  "$type": "CuReDa, x",
+  "Sprite2": {
+    "$type": "[Sp]$, x",
+    "guid": "603e2e9ab8ec1c9428292b35b19e3fbf",
+    "TypeName": "Sp"
+  },
+  "Color": {
+    "a": 10000000,
+    "b": 0,
+    "g": 5137255,
+    "r": 3254902
+  },
+  "TypeId": 1,
+  "devName": "HARD_CASH",
+  "Sprite": {
+    "$type": "[Sp]$, x",
+    "guid": "37f7dc205335b3247b78be987e7a1462",
+    "TypeName": "Sp"
+  },
+  "SpriteVip": {
+    "$type": "[Sp]$, x",
+    "guid": "37f7dc205335b3247b78be987e7a1462",
+    "TypeName": "Sp"
+  },
+  "SdRewMat": {
+    "$type": "[Ma]$, x",
+    "guid": "79c6a58f02157834a9b7d8b8f22179a8",
+    "TypeName": "Ma"
+  },
+  "VsdRewMat": {
+    "$type": "[Ma]$, x",
+    "guid": "79c6a58f02157834a9b7d8b8f22179a8",
+    "TypeName": "Ma"
+  },
+  "Max": 9999999,
+  "il": null
+}

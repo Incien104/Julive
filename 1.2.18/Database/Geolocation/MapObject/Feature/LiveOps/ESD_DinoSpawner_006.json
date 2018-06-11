@@ -1,0 +1,12 @@
+{
+  "$type": "MoFDsf, x",
+  "spd": {
+    "$type": "CePrSa, x",
+    "csp": 10800,
+    "cdp": 90
+  },
+  "plt": "ESD_006",
+  "ipo": false,
+  "hhl": true,
+  "hlc": 3
+}

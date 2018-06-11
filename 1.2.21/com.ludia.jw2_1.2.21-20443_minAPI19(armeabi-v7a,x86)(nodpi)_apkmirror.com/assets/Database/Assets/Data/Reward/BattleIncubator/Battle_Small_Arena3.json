@@ -1,0 +1,15 @@
+{
+  "$type": "RewBaInDa",
+  "it": 10800,
+  "rid": {
+    "$type": "[RewInV2Da]@",
+    "guid": "6747ec72a55de5c4ea40159dc18415d8",
+    "TypeName": "RewInV2Da"
+  },
+  "ii": {
+    "$type": "[Sp]$",
+    "guid": "fa15cbfd344aa9f449215e8bcb5d04ef",
+    "TypeName": "Sp"
+  },
+  "devName": "BattleSmall3"
+}

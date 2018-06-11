@@ -1,0 +1,36 @@
+{
+  "$type": "StItDa, x",
+  "icon": {
+    "$type": "[Sp]$, x",
+    "guid": "e5d2670e21c7dd64e99b3f5ac5789ab5",
+    "TypeName": "Sp"
+  },
+  "id": "Softcash025000_25Bonus_VIP",
+  "name": "IDS_STORE_ITEM_CHEST_OF_COINS",
+  "slvl": false,
+  "vva": false,
+  "vvp": true,
+  "vbp": false,
+  "fcuo": false,
+  "cost": {
+    "$type": "ResCo, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "eb5c9ac6d04d62c45a76269e094289c7",
+      "TypeName": "CuReDa"
+    },
+    "a": {
+      "$type": "FiQu, x",
+      "v": 500
+    }
+  },
+  "prd": {
+    "$type": "ResPr, x",
+    "rt": {
+      "$type": "[ResTyDa]@, x",
+      "guid": "17b5a8c7983eec540859cc3ef6da211a",
+      "TypeName": "CuReDa"
+    },
+    "a": 31250
+  }
+}

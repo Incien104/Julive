@@ -1,0 +1,96 @@
+{
+  "$type": "PlUpCoUpDb, x",
+  "Key": "DB_PLUCU",
+  "DB": [
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "ea9ae5792632f104d8243d120a1f726b",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "a2c9f55da43b88c44a3848514d492900",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "146e37dc6958df64fb4a85d44b3d6948",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "2d123d92c0c9d57429e6e72f1f5b5590",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "327abcf77b7a74c4399b7febdde2116c",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "10e27138f7ed0554db1fb5c9bc87ab3d",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "519ef34258e20a74095c354afd70b264",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "fe17f414fa29df6419a167b13cdf2733",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "dc50b6a0bb3123a4c985e47833fd43a0",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "5afe1ac905801174ebee2923e07382f8",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "1e955dcddb17da74cb6834f617ad3758",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "0ade6cfd9fae6d641a1de8bc20959010",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "7bb7834e1c877e745b8ffad49e108cde",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "7115a860c7e51e4419b1e6e94ac5ec29",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "1aac58950aae25144a65f1d3c35dbd24",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "ab2c7274af94d1146b187c565f83ba51",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "fe1d72a138c9d024a9f1d280812c6f5a",
+      "TypeName": "CoUpDaLC"
+    },
+    {
+      "$type": "[CoUpDaLC]@, x",
+      "guid": "694a300031932bd4ba0e40cb4dc7b9ee",
+      "TypeName": "CoUpDaLC"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "$type": "AbStDa, x",
+  "n": "IDS_TIP_ABILITY_TITLE_BASICATTACKSWAPPREVENT",
+  "d": "IDS_ABILITY_LONG_DESC_BASICATTACKSWAPPREVENT",
+  "sd": "IDS_TIP_ABILITY_BASICATTACKSWAPPREVENT",
+  "i": {
+    "$type": "[Sp]$, x",
+    "guid": "ad3856ad290abc449991351d235bd5a7",
+    "TypeName": "Sp"
+  },
+  "cod": 0,
+  "cu": 0,
+  "c": 0,
+  "pri": "n",
+  "bl": [
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "f528a7b2423658442ac73c78031e7c8f",
+        "TypeName": "BeDaBaDa"
+      }
+    },
+    {
+      "$type": "BeIt, x",
+      "b": {
+        "$type": "[BeDa]@, x",
+        "guid": "e1fc4893ccf9b2a4fa4e86dd2d9c0391",
+        "TypeName": "BeEfDuSwPrDa"
+      }
+    }
+  ],
+  "uc": false
+}
